@@ -1,4 +1,4 @@
-ID_equipo,Equipo,partidos jugados,partidos ganados,partidos empatados,partidos perdidos,goles a favor,goles en contra,total puntos
+ID_equipo,Equipo,partidos_jugados,partidos_ganados,partidos_empatados,partidos_perdidos,goles_a_favor,goles_en_contra,total_puntos
 1,Barcelona,38,28,4,6,70,20,88
 2,Real Madrid,38,24,6,8,75,36,78
 3,Atletico De Madrid,38,23,8,7,70,33,77

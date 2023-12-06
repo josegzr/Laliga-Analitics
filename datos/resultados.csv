@@ -1,381 +1,381 @@
-Jornada,fecha,Equipo local,Goles del Equipo Local,Goles del Equipo Visitante,Equipo visitante,Resultado_Local,Resultado_Visitante
-1,2022-08-12,Osasuna,2,1,Sevilla,Ganado,Perdido
-1,2022-08-13,Celta De Vigo,2,2,Espanyol,Empate,Empate
-1,2022-08-13,Real Valladolid,0,3,Villarreal,Perdido,Ganado
-1,2022-08-13,Barcelona,0,0,Rayo Vallecano,Empate,Empate
-1,2022-08-14,Cadiz,0,1,Real Sociedad,Perdido,Ganado
-1,2022-08-14,Valencia Cf,1,0,Girona,Ganado,Perdido
-1,2022-08-14,Almeria,1,2,Real Madrid,Perdido,Ganado
-1,2022-08-15,Athletic Club,0,0,Mallorca,Empate,Empate
-1,2022-08-15,Getafe,0,3,Atletico De Madrid,Perdido,Ganado
-1,2022-08-15,Real Betis,3,0,Elche,Ganado,Perdido
-2,2022-08-19,Espanyol,0,2,Rayo Vallecano,Perdido,Ganado
-2,2022-08-19,Sevilla,1,1,Real Valladolid,Empate,Empate
-2,2022-08-20,Osasuna,2,0,Cadiz,Ganado,Perdido
-2,2022-08-20,Mallorca,1,2,Real Betis,Perdido,Ganado
-2,2022-08-20,Celta De Vigo,1,4,Real Madrid,Perdido,Ganado
-2,2022-08-21,Athletic Club,1,0,Valencia Cf,Ganado,Perdido
-2,2022-08-21,Atletico De Madrid,0,2,Villarreal,Perdido,Ganado
-2,2022-08-21,Real Sociedad,1,4,Barcelona,Perdido,Ganado
-2,2022-08-22,Elche,1,1,Almeria,Empate,Empate
-2,2022-08-22,Girona,3,1,Getafe,Ganado,Perdido
-3,2022-08-26,Girona,0,1,Celta De Vigo,Perdido,Ganado
-3,2022-08-26,Real Betis,1,0,Osasuna,Ganado,Perdido
-3,2022-08-27,Elche,0,1,Real Sociedad,Perdido,Ganado
-3,2022-08-27,Rayo Vallecano,0,2,Mallorca,Perdido,Ganado
-3,2022-08-27,Almeria,2,1,Sevilla,Ganado,Perdido
-3,2022-08-28,Getafe,0,0,Villarreal,Empate,Empate
-3,2022-08-28,Barcelona,4,0,Real Valladolid,Ganado,Perdido
-3,2022-08-28,Espanyol,1,3,Real Madrid,Perdido,Ganado
-3,2022-08-29,Cadiz,0,4,Athletic Club,Perdido,Ganado
-3,2022-08-29,Valencia Cf,0,1,Atletico De Madrid,Perdido,Ganado
-4,2022-09-02,Celta De Vigo,3,0,Cadiz,Ganado,Perdido
-4,2022-09-03,Mallorca,1,1,Girona,Empate,Empate
-4,2022-09-03,Real Madrid,2,1,Real Betis,Ganado,Perdido
-4,2022-09-03,Real Sociedad,1,1,Atletico De Madrid,Empate,Empate
-4,2022-09-03,Sevilla,0,3,Barcelona,Perdido,Ganado
-4,2022-09-04,Osasuna,2,1,Rayo Vallecano,Ganado,Perdido
-4,2022-09-04,Athletic Club,0,1,Espanyol,Perdido,Ganado
-4,2022-09-04,Villarreal,4,0,Elche,Ganado,Perdido
-4,2022-09-04,Valencia Cf,5,1,Getafe,Ganado,Perdido
-4,2022-09-05,Real Valladolid,1,0,Almeria,Ganado,Perdido
-5,2022-09-09,Girona,2,1,Real Valladolid,Ganado,Perdido
-5,2022-09-10,Rayo Vallecano,2,1,Valencia Cf,Ganado,Perdido
-5,2022-09-10,Espanyol,2,3,Sevilla,Perdido,Ganado
-5,2022-09-10,Cadiz,0,4,Barcelona,Perdido,Ganado
-5,2022-09-10,Atletico De Madrid,4,1,Celta De Vigo,Ganado,Perdido
-5,2022-09-11,Real Madrid,4,1,Mallorca,Ganado,Perdido
-5,2022-09-11,Elche,1,4,Athletic Club,Perdido,Ganado
-5,2022-09-11,Getafe,2,1,Real Sociedad,Ganado,Perdido
-5,2022-09-11,Real Betis,1,0,Villarreal,Ganado,Perdido
-5,2022-09-12,Almeria,0,1,Osasuna,Perdido,Ganado
-6,2022-09-16,Real Valladolid,0,1,Cadiz,Perdido,Ganado
-6,2022-09-17,Mallorca,1,0,Almeria,Ganado,Perdido
-6,2022-09-17,Barcelona,3,0,Elche,Ganado,Perdido
-6,2022-09-17,Valencia Cf,3,0,Celta De Vigo,Ganado,Perdido
-6,2022-09-17,Athletic Club,3,2,Rayo Vallecano,Ganado,Perdido
-6,2022-09-18,Osasuna,0,2,Getafe,Perdido,Ganado
-6,2022-09-18,Villarreal,1,1,Sevilla,Empate,Empate
-6,2022-09-18,Real Betis,2,1,Girona,Ganado,Perdido
-6,2022-09-18,Real Sociedad,2,1,Espanyol,Ganado,Perdido
-6,2022-09-18,Atletico De Madrid,1,2,Real Madrid,Perdido,Ganado
-7,2022-09-30,Athletic Club,4,0,Almeria,Ganado,Perdido
-7,2022-10-01,Cadiz,0,0,Villarreal,Empate,Empate
-7,2022-10-01,Getafe,2,3,Real Valladolid,Perdido,Ganado
-7,2022-10-01,Sevilla,0,2,Atletico De Madrid,Perdido,Ganado
-7,2022-10-01,Mallorca,0,1,Barcelona,Perdido,Ganado
-7,2022-10-02,Espanyol,2,2,Valencia Cf,Empate,Empate
-7,2022-10-02,Celta De Vigo,1,0,Real Betis,Ganado,Perdido
-7,2022-10-02,Girona,3,5,Real Sociedad,Perdido,Ganado
-7,2022-10-02,Real Madrid,1,1,Osasuna,Empate,Empate
-7,2022-10-03,Rayo Vallecano,2,1,Elche,Ganado,Perdido
-8,2022-10-07,Osasuna,1,2,Valencia Cf,Perdido,Ganado
-8,2022-10-08,Almeria,3,1,Rayo Vallecano,Ganado,Perdido
-8,2022-10-08,Atletico De Madrid,2,1,Girona,Ganado,Perdido
-8,2022-10-08,Sevilla,1,1,Athletic Club,Empate,Empate
-8,2022-10-08,Getafe,0,1,Real Madrid,Perdido,Ganado
-8,2022-10-09,Real Valladolid,0,0,Real Betis,Empate,Empate
-8,2022-10-09,Cadiz,2,2,Espanyol,Empate,Empate
-8,2022-10-09,Real Sociedad,1,0,Villarreal,Ganado,Perdido
-8,2022-10-09,Barcelona,1,0,Celta De Vigo,Ganado,Perdido
-8,2022-10-10,Elche,1,1,Mallorca,Empate,Empate
-9,2022-10-14,Rayo Vallecano,0,0,Getafe,Empate,Empate
-9,2022-10-15,Girona,1,1,Cadiz,Empate,Empate
-9,2022-10-15,Valencia Cf,2,2,Elche,Empate,Empate
-9,2022-10-15,Mallorca,0,1,Sevilla,Perdido,Ganado
-9,2022-10-15,Athletic Club,0,1,Atletico De Madrid,Perdido,Ganado
-9,2022-10-16,Celta De Vigo,1,2,Real Sociedad,Perdido,Ganado
-9,2022-10-16,Real Madrid,3,1,Barcelona,Ganado,Perdido
-9,2022-10-16,Espanyol,1,0,Real Valladolid,Ganado,Perdido
-9,2022-10-16,Real Betis,3,1,Almeria,Ganado,Perdido
-9,2022-10-17,Villarreal,2,0,Osasuna,Ganado,Perdido
-10,2022-10-18,Sevilla,1,1,Valencia Cf,Empate,Empate
-10,2022-10-18,Getafe,2,2,Athletic Club,Empate,Empate
-10,2022-10-18,Atletico De Madrid,1,1,Rayo Vallecano,Empate,Empate
-10,2022-10-19,Cadiz,0,0,Real Betis,Empate,Empate
-10,2022-10-19,Real Valladolid,4,1,Celta De Vigo,Ganado,Perdido
-10,2022-10-19,Real Sociedad,1,0,Mallorca,Ganado,Perdido
-10,2022-10-19,Elche,0,3,Real Madrid,Perdido,Ganado
-10,2022-10-20,Almeria,3,2,Girona,Ganado,Perdido
-10,2022-10-20,Osasuna,1,0,Espanyol,Ganado,Perdido
-10,2022-10-20,Barcelona,3,0,Villarreal,Ganado,Perdido
-11,2022-10-22,Rayo Vallecano,5,1,Cadiz,Ganado,Perdido
-11,2022-10-22,Real Valladolid,1,0,Real Sociedad,Ganado,Perdido
-11,2022-10-22,Valencia Cf,1,2,Mallorca,Perdido,Ganado
-11,2022-10-22,Real Madrid,3,1,Sevilla,Ganado,Perdido
-11,2022-10-23,Espanyol,2,2,Elche,Empate,Empate
-11,2022-10-23,Real Betis,1,2,Atletico De Madrid,Perdido,Ganado
-11,2022-10-23,Villarreal,2,1,Almeria,Ganado,Perdido
-11,2022-10-23,Girona,1,1,Osasuna,Empate,Empate
-11,2022-10-23,Barcelona,4,0,Athletic Club,Ganado,Perdido
-11,2022-10-24,Celta De Vigo,1,1,Getafe,Empate,Empate
-12,2022-10-28,Mallorca,1,1,Espanyol,Empate,Empate
-12,2022-10-29,Almeria,3,1,Celta De Vigo,Ganado,Perdido
-12,2022-10-29,Cadiz,3,2,Atletico De Madrid,Ganado,Perdido
-12,2022-10-29,Sevilla,0,1,Rayo Vallecano,Perdido,Ganado
-12,2022-10-29,Valencia Cf,0,1,Barcelona,Perdido,Ganado
-12,2022-10-30,Osasuna,2,0,Real Valladolid,Ganado,Perdido
-12,2022-10-30,Real Madrid,1,1,Girona,Empate,Empate
-12,2022-10-30,Athletic Club,1,0,Villarreal,Ganado,Perdido
-12,2022-10-30,Real Sociedad,0,2,Real Betis,Perdido,Ganado
-12,2022-10-31,Elche,0,1,Getafe,Perdido,Ganado
-13,2022-11-04,Girona,2,1,Athletic Club,Ganado,Perdido
-13,2022-11-05,Getafe,0,0,Cadiz,Empate,Empate
-13,2022-11-05,Real Valladolid,2,1,Elche,Ganado,Perdido
-13,2022-11-05,Celta De Vigo,1,2,Osasuna,Perdido,Ganado
-13,2022-11-05,Barcelona,2,0,Almeria,Ganado,Perdido
-13,2022-11-06,Atletico De Madrid,1,1,Espanyol,Empate,Empate
-13,2022-11-06,Real Sociedad,1,1,Valencia Cf,Empate,Empate
-13,2022-11-06,Villarreal,0,2,Mallorca,Perdido,Ganado
-13,2022-11-06,Real Betis,1,1,Sevilla,Empate,Empate
-13,2022-11-07,Rayo Vallecano,3,2,Real Madrid,Ganado,Perdido
-14,2022-11-08,Elche,1,2,Girona,Perdido,Ganado
-14,2022-11-08,Athletic Club,3,0,Real Valladolid,Ganado,Perdido
-14,2022-11-08,Osasuna,1,2,Barcelona,Perdido,Ganado
-14,2022-11-09,Sevilla,1,2,Real Sociedad,Perdido,Ganado
-14,2022-11-09,Almeria,1,0,Getafe,Ganado,Perdido
-14,2022-11-09,Espanyol,0,1,Villarreal,Perdido,Ganado
-14,2022-11-09,Mallorca,1,0,Atletico De Madrid,Ganado,Perdido
-14,2022-11-10,Rayo Vallecano,0,0,Celta De Vigo,Empate,Empate
-14,2022-11-10,Valencia Cf,3,0,Real Betis,Ganado,Perdido
-14,2022-11-10,Real Madrid,2,1,Cadiz,Ganado,Perdido
-15,2022-12-29,Girona,2,2,Rayo Vallecano,Empate,Empate
-15,2022-12-29,Real Betis,0,0,Athletic Club,Empate,Empate
-15,2022-12-29,Atletico De Madrid,2,0,Elche,Ganado,Perdido
-15,2022-12-30,Getafe,2,0,Mallorca,Ganado,Perdido
-15,2022-12-30,Celta De Vigo,1,1,Sevilla,Empate,Empate
-15,2022-12-30,Cadiz,1,1,Almeria,Empate,Empate
-15,2022-12-30,Real Valladolid,0,2,Real Madrid,Perdido,Ganado
-15,2022-12-31,Barcelona,1,1,Espanyol,Empate,Empate
-15,2022-12-31,Villarreal,2,1,Valencia Cf,Ganado,Perdido
-15,2022-12-31,Real Sociedad,2,0,Osasuna,Ganado,Perdido
-16,2023-01-06,Elche,0,1,Celta De Vigo,Perdido,Ganado
-16,2023-01-06,Valencia Cf,0,1,Cadiz,Perdido,Ganado
-16,2023-01-07,Villarreal,2,1,Real Madrid,Ganado,Perdido
-16,2023-01-07,Mallorca,1,0,Real Valladolid,Ganado,Perdido
-16,2023-01-07,Espanyol,2,2,Girona,Empate,Empate
-16,2023-01-08,Almeria,0,2,Real Sociedad,Perdido,Ganado
-16,2023-01-08,Rayo Vallecano,1,2,Real Betis,Perdido,Ganado
-16,2023-01-08,Sevilla,2,1,Getafe,Ganado,Perdido
-16,2023-01-08,Atletico De Madrid,0,1,Barcelona,Perdido,Ganado
-16,2023-01-09,Athletic Club,0,0,Osasuna,Empate,Empate
-17,2023-01-13,Celta De Vigo,1,1,Villarreal,Empate,Empate
-17,2023-01-14,Real Valladolid,0,1,Rayo Vallecano,Perdido,Ganado
-17,2023-01-14,Girona,2,1,Sevilla,Ganado,Perdido
-17,2023-01-14,Osasuna,1,0,Mallorca,Ganado,Perdido
-17,2023-01-14,Real Sociedad,3,1,Athletic Club,Ganado,Perdido
-17,2023-01-15,Getafe,1,2,Espanyol,Perdido,Ganado
-17,2023-01-15,Almeria,1,1,Atletico De Madrid,Empate,Empate
-17,2023-01-16,Cadiz,1,1,Elche,Empate,Empate
-17,2023-02-01,Real Betis,1,2,Barcelona,Perdido,Ganado
-17,2023-02-02,Real Madrid,2,0,Valencia Cf,Ganado,Perdido
-18,2023-01-20,Mallorca,1,0,Celta De Vigo,Ganado,Perdido
-18,2023-01-21,Rayo Vallecano,0,2,Real Sociedad,Perdido,Ganado
-18,2023-01-21,Espanyol,1,0,Real Betis,Ganado,Perdido
-18,2023-01-21,Atletico De Madrid,3,0,Real Valladolid,Ganado,Perdido
-18,2023-01-21,Sevilla,1,0,Cadiz,Ganado,Perdido
-18,2023-01-22,Villarreal,1,0,Girona,Ganado,Perdido
-18,2023-01-22,Elche,1,1,Osasuna,Empate,Empate
-18,2023-01-22,Barcelona,1,0,Getafe,Ganado,Perdido
-18,2023-01-22,Athletic Club,0,2,Real Madrid,Perdido,Ganado
-18,2023-01-23,Valencia Cf,2,2,Almeria,Empate,Empate
-19,2023-01-27,Almeria,3,1,Espanyol,Ganado,Perdido
-19,2023-01-28,Cadiz,2,0,Mallorca,Ganado,Perdido
-19,2023-01-28,Girona,0,1,Barcelona,Perdido,Ganado
-19,2023-01-28,Sevilla,3,0,Elche,Ganado,Perdido
-19,2023-01-28,Getafe,0,1,Real Betis,Perdido,Ganado
-19,2023-01-29,Real Valladolid,1,0,Valencia Cf,Ganado,Perdido
-19,2023-01-29,Osasuna,0,1,Atletico De Madrid,Perdido,Ganado
-19,2023-01-29,Celta De Vigo,1,0,Athletic Club,Ganado,Perdido
-19,2023-01-29,Real Madrid,0,0,Real Sociedad,Empate,Empate
-19,2023-01-30,Villarreal,0,1,Rayo Vallecano,Perdido,Ganado
-20,2023-02-03,Athletic Club,4,1,Cadiz,Ganado,Perdido
-20,2023-02-04,Espanyol,1,1,Osasuna,Empate,Empate
-20,2023-02-04,Elche,3,1,Villarreal,Ganado,Perdido
-20,2023-02-04,Atletico De Madrid,1,1,Getafe,Empate,Empate
-20,2023-02-04,Real Betis,3,4,Celta De Vigo,Perdido,Ganado
-20,2023-02-05,Mallorca,1,0,Real Madrid,Ganado,Perdido
-20,2023-02-05,Girona,1,0,Valencia Cf,Ganado,Perdido
-20,2023-02-05,Real Sociedad,0,1,Real Valladolid,Perdido,Ganado
-20,2023-02-05,Barcelona,3,0,Sevilla,Ganado,Perdido
-20,2023-02-06,Rayo Vallecano,2,0,Almeria,Ganado,Perdido
-21,2023-02-10,Cadiz,2,0,Girona,Ganado,Perdido
-21,2023-02-11,Almeria,2,3,Real Betis,Perdido,Ganado
-21,2023-02-11,Sevilla,2,0,Mallorca,Ganado,Perdido
-21,2023-02-11,Valencia Cf,1,2,Athletic Club,Perdido,Ganado
-21,2023-02-12,Getafe,1,1,Rayo Vallecano,Empate,Empate
-21,2023-02-12,Celta De Vigo,0,1,Atletico De Madrid,Perdido,Ganado
-21,2023-02-12,Real Valladolid,0,0,Osasuna,Empate,Empate
-21,2023-02-12,Villarreal,0,1,Barcelona,Perdido,Ganado
-21,2023-02-13,Espanyol,2,3,Real Sociedad,Perdido,Ganado
-21,2023-02-15,Real Madrid,4,0,Elche,Ganado,Perdido
-22,2023-02-17,Girona,6,2,Almeria,Ganado,Perdido
-22,2023-02-18,Real Sociedad,1,1,Celta De Vigo,Empate,Empate
-22,2023-02-18,Real Betis,2,1,Real Valladolid,Ganado,Perdido
-22,2023-02-18,Mallorca,4,2,Villarreal,Ganado,Perdido
-22,2023-02-18,Osasuna,0,2,Real Madrid,Perdido,Ganado
-22,2023-02-19,Elche,0,1,Espanyol,Perdido,Ganado
-22,2023-02-19,Rayo Vallecano,1,1,Sevilla,Empate,Empate
-22,2023-02-19,Atletico De Madrid,1,0,Athletic Club,Ganado,Perdido
-22,2023-02-19,Barcelona,2,0,Cadiz,Ganado,Perdido
-22,2023-02-20,Getafe,1,0,Valencia Cf,Ganado,Perdido
-23,2023-02-24,Elche,2,3,Real Betis,Perdido,Ganado
-23,2023-02-25,Espanyol,2,1,Mallorca,Ganado,Perdido
-23,2023-02-25,Cadiz,1,0,Rayo Vallecano,Ganado,Perdido
-23,2023-02-25,Real Madrid,1,1,Atletico De Madrid,Empate,Empate
-23,2023-02-25,Valencia Cf,1,0,Real Sociedad,Ganado,Perdido
-23,2023-02-26,Athletic Club,2,3,Girona,Perdido,Ganado
-23,2023-02-26,Celta De Vigo,3,0,Real Valladolid,Ganado,Perdido
-23,2023-02-26,Almeria,1,0,Barcelona,Ganado,Perdido
-23,2023-02-26,Sevilla,2,3,Osasuna,Perdido,Ganado
-23,2023-02-27,Villarreal,2,1,Getafe,Ganado,Perdido
-24,2023-03-03,Real Sociedad,0,0,Cadiz,Empate,Empate
-24,2023-03-04,Getafe,3,2,Girona,Ganado,Perdido
-24,2023-03-04,Almeria,0,2,Villarreal,Perdido,Ganado
-24,2023-03-04,Mallorca,0,1,Elche,Perdido,Ganado
-24,2023-03-04,Atletico De Madrid,6,1,Sevilla,Ganado,Perdido
-24,2023-03-05,Real Valladolid,2,1,Espanyol,Ganado,Perdido
-24,2023-03-05,Barcelona,1,0,Valencia Cf,Ganado,Perdido
-24,2023-03-05,Rayo Vallecano,0,0,Athletic Club,Empate,Empate
-24,2023-03-05,Real Betis,0,0,Real Madrid,Empate,Empate
-24,2023-03-06,Osasuna,0,0,Celta De Vigo,Empate,Empate
-25,2023-03-10,Cadiz,2,2,Getafe,Empate,Empate
-25,2023-03-11,Real Madrid,3,1,Espanyol,Ganado,Perdido
-25,2023-03-11,Elche,1,1,Real Valladolid,Empate,Empate
-25,2023-03-11,Celta De Vigo,3,0,Rayo Vallecano,Ganado,Perdido
-25,2023-03-11,Valencia Cf,1,0,Osasuna,Ganado,Perdido
-25,2023-03-12,Mallorca,1,1,Real Sociedad,Empate,Empate
-25,2023-03-12,Sevilla,2,1,Almeria,Ganado,Perdido
-25,2023-03-12,Villarreal,1,1,Real Betis,Empate,Empate
-25,2023-03-12,Athletic Club,0,1,Barcelona,Perdido,Ganado
-25,2023-03-13,Girona,0,1,Atletico De Madrid,Perdido,Ganado
-26,2023-03-17,Real Valladolid,1,3,Athletic Club,Perdido,Ganado
-26,2023-03-18,Almeria,1,1,Cadiz,Empate,Empate
-26,2023-03-18,Rayo Vallecano,2,2,Girona,Empate,Empate
-26,2023-03-18,Espanyol,1,3,Celta De Vigo,Perdido,Ganado
-26,2023-03-18,Atletico De Madrid,3,0,Valencia Cf,Ganado,Perdido
-26,2023-03-19,Real Betis,1,0,Mallorca,Ganado,Perdido
-26,2023-03-19,Osasuna,0,3,Villarreal,Perdido,Ganado
-26,2023-03-19,Real Sociedad,2,0,Elche,Ganado,Perdido
-26,2023-03-19,Getafe,2,0,Sevilla,Ganado,Perdido
-26,2023-03-19,Barcelona,2,1,Real Madrid,Ganado,Perdido
-27,2023-03-31,Mallorca,0,0,Osasuna,Empate,Empate
-27,2023-04-01,Girona,2,1,Espanyol,Ganado,Perdido
-27,2023-04-01,Athletic Club,0,0,Getafe,Empate,Empate
-27,2023-04-01,Cadiz,0,2,Sevilla,Perdido,Ganado
-27,2023-04-01,Elche,0,4,Barcelona,Perdido,Ganado
-27,2023-04-02,Celta De Vigo,2,2,Almeria,Empate,Empate
-27,2023-04-02,Real Madrid,6,0,Real Valladolid,Ganado,Perdido
-27,2023-04-02,Villarreal,2,0,Real Sociedad,Ganado,Perdido
-27,2023-04-02,Atletico De Madrid,1,0,Real Betis,Ganado,Perdido
-27,2023-04-03,Valencia Cf,1,1,Rayo Vallecano,Empate,Empate
-28,2023-04-07,Sevilla,2,2,Celta De Vigo,Empate,Empate
-28,2023-04-08,Osasuna,2,1,Elche,Ganado,Perdido
-28,2023-04-08,Espanyol,1,2,Athletic Club,Perdido,Ganado
-28,2023-04-08,Real Sociedad,2,0,Getafe,Ganado,Perdido
-28,2023-04-08,Real Madrid,2,3,Villarreal,Perdido,Ganado
-28,2023-04-09,Real Valladolid,3,3,Mallorca,Empate,Empate
-28,2023-04-09,Real Betis,0,2,Cadiz,Perdido,Ganado
-28,2023-04-09,Almeria,2,1,Valencia Cf,Ganado,Perdido
-28,2023-04-09,Rayo Vallecano,1,2,Atletico De Madrid,Perdido,Ganado
-28,2023-04-10,Barcelona,0,0,Girona,Empate,Empate
-29,2023-04-14,Rayo Vallecano,2,1,Osasuna,Ganado,Perdido
-29,2023-04-15,Villarreal,1,2,Real Valladolid,Perdido,Ganado
-29,2023-04-15,Athletic Club,2,0,Real Sociedad,Ganado,Perdido
-29,2023-04-15,Real Betis,3,1,Espanyol,Ganado,Perdido
-29,2023-04-15,Cadiz,0,2,Real Madrid,Perdido,Ganado
-29,2023-04-16,Girona,2,0,Elche,Ganado,Perdido
-29,2023-04-16,Getafe,0,0,Barcelona,Empate,Empate
-29,2023-04-16,Atletico De Madrid,2,1,Almeria,Ganado,Perdido
-29,2023-04-16,Valencia Cf,0,2,Sevilla,Perdido,Ganado
-29,2023-04-17,Celta De Vigo,0,1,Mallorca,Perdido,Ganado
-30,2023-04-21,Espanyol,0,0,Cadiz,Empate,Empate
-30,2023-04-22,Osasuna,3,2,Real Betis,Ganado,Perdido
-30,2023-04-22,Almeria,1,2,Athletic Club,Perdido,Ganado
-30,2023-04-22,Real Sociedad,2,1,Rayo Vallecano,Ganado,Perdido
-30,2023-04-22,Real Valladolid,1,0,Girona,Ganado,Perdido
-30,2023-04-22,Real Madrid,2,0,Celta De Vigo,Ganado,Perdido
-30,2023-04-23,Elche,0,2,Valencia Cf,Perdido,Ganado
-30,2023-04-23,Barcelona,1,0,Atletico De Madrid,Ganado,Perdido
-30,2023-04-23,Mallorca,3,1,Getafe,Ganado,Perdido
-30,2023-04-23,Sevilla,2,1,Villarreal,Ganado,Perdido
-31,2023-04-25,Girona,4,2,Real Madrid,Ganado,Perdido
-31,2023-04-25,Cadiz,0,1,Osasuna,Perdido,Ganado
-31,2023-04-25,Real Betis,0,0,Real Sociedad,Empate,Empate
-31,2023-04-26,Getafe,1,2,Almeria,Perdido,Ganado
-31,2023-04-26,Atletico De Madrid,3,1,Mallorca,Ganado,Perdido
-31,2023-04-26,Celta De Vigo,1,0,Elche,Ganado,Perdido
-31,2023-04-26,Rayo Vallecano,2,1,Barcelona,Ganado,Perdido
-31,2023-04-27,Valencia Cf,2,1,Real Valladolid,Ganado,Perdido
-31,2023-04-27,Villarreal,4,2,Espanyol,Ganado,Perdido
-31,2023-04-27,Athletic Club,0,1,Sevilla,Perdido,Ganado
-32,2023-04-28,Osasuna,0,2,Real Sociedad,Perdido,Ganado
-32,2023-04-29,Elche,4,0,Rayo Vallecano,Ganado,Perdido
-32,2023-04-29,Real Madrid,4,2,Almeria,Ganado,Perdido
-32,2023-04-29,Barcelona,4,0,Real Betis,Ganado,Perdido
-32,2023-04-30,Cadiz,2,1,Valencia Cf,Ganado,Perdido
-32,2023-04-30,Villarreal,3,1,Celta De Vigo,Ganado,Perdido
-32,2023-04-30,Espanyol,1,0,Getafe,Ganado,Perdido
-32,2023-04-30,Real Valladolid,2,5,Atletico De Madrid,Perdido,Ganado
-32,2023-05-01,Mallorca,1,1,Athletic Club,Empate,Empate
-32,2023-05-01,Sevilla,0,2,Girona,Perdido,Ganado
-33,2023-05-02,Barcelona,1,0,Osasuna,Ganado,Perdido
-33,2023-05-02,Almeria,2,1,Elche,Ganado,Perdido
-33,2023-05-02,Real Sociedad,2,0,Real Madrid,Ganado,Perdido
-33,2023-05-03,Valencia Cf,1,1,Villarreal,Empate,Empate
-33,2023-05-03,Getafe,1,0,Celta De Vigo,Ganado,Perdido
-33,2023-05-03,Atletico De Madrid,5,1,Cadiz,Ganado,Perdido
-33,2023-05-04,Sevilla,3,2,Espanyol,Ganado,Perdido
-33,2023-05-04,Girona,2,1,Mallorca,Ganado,Perdido
-33,2023-05-04,Athletic Club,0,1,Real Betis,Perdido,Ganado
-33,2023-05-04,Rayo Vallecano,2,1,Real Valladolid,Ganado,Perdido
-34,2023-05-12,Mallorca,1,0,Cadiz,Ganado,Perdido
-34,2023-05-13,Real Sociedad,2,2,Girona,Empate,Empate
-34,2023-05-13,Osasuna,3,1,Almeria,Ganado,Perdido
-34,2023-05-13,Villarreal,5,1,Athletic Club,Ganado,Perdido
-34,2023-05-13,Real Madrid,1,0,Getafe,Ganado,Perdido
-34,2023-05-14,Celta De Vigo,1,2,Valencia Cf,Perdido,Ganado
-34,2023-05-14,Elche,1,0,Atletico De Madrid,Ganado,Perdido
-34,2023-05-14,Real Valladolid,0,3,Sevilla,Perdido,Ganado
-34,2023-05-14,Espanyol,2,4,Barcelona,Perdido,Ganado
-34,2023-05-15,Real Betis,3,1,Rayo Vallecano,Ganado,Perdido
-35,2023-05-19,Cadiz,2,0,Real Valladolid,Ganado,Perdido
-35,2023-05-20,Girona,1,2,Villarreal,Perdido,Ganado
-35,2023-05-20,Athletic Club,2,1,Celta De Vigo,Ganado,Perdido
-35,2023-05-20,Getafe,1,1,Elche,Empate,Empate
-35,2023-05-20,Almeria,3,0,Mallorca,Ganado,Perdido
-35,2023-05-20,Barcelona,1,2,Real Sociedad,Perdido,Ganado
-35,2023-05-21,Rayo Vallecano,1,2,Espanyol,Perdido,Ganado
-35,2023-05-21,Atletico De Madrid,3,0,Osasuna,Ganado,Perdido
-35,2023-05-21,Valencia Cf,1,0,Real Madrid,Ganado,Perdido
-35,2023-05-21,Sevilla,0,0,Real Betis,Empate,Empate
-36,2023-05-23,Celta De Vigo,1,1,Girona,Empate,Empate
-36,2023-05-23,Real Sociedad,1,0,Almeria,Ganado,Perdido
-36,2023-05-23,Real Valladolid,3,1,Barcelona,Ganado,Perdido
-36,2023-05-24,Elche,1,1,Sevilla,Empate,Empate
-36,2023-05-24,Villarreal,2,0,Cadiz,Ganado,Perdido
-36,2023-05-24,Real Madrid,2,1,Rayo Vallecano,Ganado,Perdido
-36,2023-05-24,Real Betis,0,1,Getafe,Perdido,Ganado
-36,2023-05-24,Espanyol,3,3,Atletico De Madrid,Empate,Empate
-36,2023-05-25,Mallorca,1,0,Valencia Cf,Ganado,Perdido
-36,2023-05-25,Osasuna,2,0,Athletic Club,Ganado,Perdido
-37,2023-05-27,Sevilla,1,2,Real Madrid,Perdido,Ganado
-37,2023-05-28,Atletico De Madrid,2,1,Real Sociedad,Ganado,Perdido
-37,2023-05-28,Barcelona,3,0,Mallorca,Ganado,Perdido
-37,2023-05-28,Athletic Club,0,1,Elche,Perdido,Ganado
-37,2023-05-28,Cadiz,1,0,Celta De Vigo,Ganado,Perdido
-37,2023-05-28,Rayo Vallecano,2,1,Villarreal,Ganado,Perdido
-37,2023-05-28,Getafe,2,1,Osasuna,Ganado,Perdido
-37,2023-05-28,Valencia Cf,2,2,Espanyol,Empate,Empate
-37,2023-05-28,Almeria,0,0,Real Valladolid,Empate,Empate
-37,2023-05-28,Girona,1,2,Real Betis,Perdido,Ganado
-38,2023-06-04,Real Sociedad,2,1,Sevilla,Ganado,Perdido
-38,2023-06-04,Mallorca,3,0,Rayo Vallecano,Ganado,Perdido
-38,2023-06-04,Real Madrid,1,1,Athletic Club,Empate,Empate
-38,2023-06-04,Villarreal,2,2,Atletico De Madrid,Empate,Empate
-38,2023-06-04,Osasuna,2,1,Girona,Ganado,Perdido
-38,2023-06-04,Real Betis,1,1,Valencia Cf,Empate,Empate
-38,2023-06-04,Celta De Vigo,2,1,Barcelona,Ganado,Perdido
-38,2023-06-04,Real Valladolid,0,0,Getafe,Empate,Empate
-38,2023-06-04,Elche,1,1,Cadiz,Empate,Empate
-38,2023-06-04,Espanyol,3,3,Almeria,Empate,Empate
+Jornada,fecha,Equipo_local,ID_equipo_local,Goles_del_Equipo_Local,Equipo_visitante,ID_equipo_visitante,Goles_del_Equipo_Visitante,Resultado_Local,Resultado_Visitante
+1,2022-08-12,Osasuna,7,2,Sevilla,12,1,Ganado,Perdido
+1,2022-08-13,Celta De Vigo,13,2,Espanyol,19,2,Empate,Empate
+1,2022-08-13,Real Valladolid,18,0,Villarreal,5,3,Perdido,Ganado
+1,2022-08-13,Barcelona,1,0,Rayo Vallecano,11,0,Empate,Empate
+1,2022-08-14,Cadiz,14,0,Real Sociedad,4,1,Perdido,Ganado
+1,2022-08-14,Valencia Cf,16,1,Girona,10,0,Ganado,Perdido
+1,2022-08-14,Almeria,17,1,Real Madrid,2,2,Perdido,Ganado
+1,2022-08-15,Athletic Club,8,0,Mallorca,9,0,Empate,Empate
+1,2022-08-15,Getafe,15,0,Atletico De Madrid,3,3,Perdido,Ganado
+1,2022-08-15,Real Betis,6,3,Elche,20,0,Ganado,Perdido
+2,2022-08-19,Espanyol,19,0,Rayo Vallecano,11,2,Perdido,Ganado
+2,2022-08-19,Sevilla,12,1,Real Valladolid,18,1,Empate,Empate
+2,2022-08-20,Osasuna,7,2,Cadiz,14,0,Ganado,Perdido
+2,2022-08-20,Mallorca,9,1,Real Betis,6,2,Perdido,Ganado
+2,2022-08-20,Celta De Vigo,13,1,Real Madrid,2,4,Perdido,Ganado
+2,2022-08-21,Athletic Club,8,1,Valencia Cf,16,0,Ganado,Perdido
+2,2022-08-21,Atletico De Madrid,3,0,Villarreal,5,2,Perdido,Ganado
+2,2022-08-21,Real Sociedad,4,1,Barcelona,1,4,Perdido,Ganado
+2,2022-08-22,Elche,20,1,Almeria,17,1,Empate,Empate
+2,2022-08-22,Girona,10,3,Getafe,15,1,Ganado,Perdido
+3,2022-08-26,Girona,10,0,Celta De Vigo,13,1,Perdido,Ganado
+3,2022-08-26,Real Betis,6,1,Osasuna,7,0,Ganado,Perdido
+3,2022-08-27,Elche,20,0,Real Sociedad,4,1,Perdido,Ganado
+3,2022-08-27,Rayo Vallecano,11,0,Mallorca,9,2,Perdido,Ganado
+3,2022-08-27,Almeria,17,2,Sevilla,12,1,Ganado,Perdido
+3,2022-08-28,Getafe,15,0,Villarreal,5,0,Empate,Empate
+3,2022-08-28,Barcelona,1,4,Real Valladolid,18,0,Ganado,Perdido
+3,2022-08-28,Espanyol,19,1,Real Madrid,2,3,Perdido,Ganado
+3,2022-08-29,Cadiz,14,0,Athletic Club,8,4,Perdido,Ganado
+3,2022-08-29,Valencia Cf,16,0,Atletico De Madrid,3,1,Perdido,Ganado
+4,2022-09-02,Celta De Vigo,13,3,Cadiz,14,0,Ganado,Perdido
+4,2022-09-03,Mallorca,9,1,Girona,10,1,Empate,Empate
+4,2022-09-03,Real Madrid,2,2,Real Betis,6,1,Ganado,Perdido
+4,2022-09-03,Real Sociedad,4,1,Atletico De Madrid,3,1,Empate,Empate
+4,2022-09-03,Sevilla,12,0,Barcelona,1,3,Perdido,Ganado
+4,2022-09-04,Osasuna,7,2,Rayo Vallecano,11,1,Ganado,Perdido
+4,2022-09-04,Athletic Club,8,0,Espanyol,19,1,Perdido,Ganado
+4,2022-09-04,Villarreal,5,4,Elche,20,0,Ganado,Perdido
+4,2022-09-04,Valencia Cf,16,5,Getafe,15,1,Ganado,Perdido
+4,2022-09-05,Real Valladolid,18,1,Almeria,17,0,Ganado,Perdido
+5,2022-09-09,Girona,10,2,Real Valladolid,18,1,Ganado,Perdido
+5,2022-09-10,Rayo Vallecano,11,2,Valencia Cf,16,1,Ganado,Perdido
+5,2022-09-10,Espanyol,19,2,Sevilla,12,3,Perdido,Ganado
+5,2022-09-10,Cadiz,14,0,Barcelona,1,4,Perdido,Ganado
+5,2022-09-10,Atletico De Madrid,3,4,Celta De Vigo,13,1,Ganado,Perdido
+5,2022-09-11,Real Madrid,2,4,Mallorca,9,1,Ganado,Perdido
+5,2022-09-11,Elche,20,1,Athletic Club,8,4,Perdido,Ganado
+5,2022-09-11,Getafe,15,2,Real Sociedad,4,1,Ganado,Perdido
+5,2022-09-11,Real Betis,6,1,Villarreal,5,0,Ganado,Perdido
+5,2022-09-12,Almeria,17,0,Osasuna,7,1,Perdido,Ganado
+6,2022-09-16,Real Valladolid,18,0,Cadiz,14,1,Perdido,Ganado
+6,2022-09-17,Mallorca,9,1,Almeria,17,0,Ganado,Perdido
+6,2022-09-17,Barcelona,1,3,Elche,20,0,Ganado,Perdido
+6,2022-09-17,Valencia Cf,16,3,Celta De Vigo,13,0,Ganado,Perdido
+6,2022-09-17,Athletic Club,8,3,Rayo Vallecano,11,2,Ganado,Perdido
+6,2022-09-18,Osasuna,7,0,Getafe,15,2,Perdido,Ganado
+6,2022-09-18,Villarreal,5,1,Sevilla,12,1,Empate,Empate
+6,2022-09-18,Real Betis,6,2,Girona,10,1,Ganado,Perdido
+6,2022-09-18,Real Sociedad,4,2,Espanyol,19,1,Ganado,Perdido
+6,2022-09-18,Atletico De Madrid,3,1,Real Madrid,2,2,Perdido,Ganado
+7,2022-09-30,Athletic Club,8,4,Almeria,17,0,Ganado,Perdido
+7,2022-10-01,Cadiz,14,0,Villarreal,5,0,Empate,Empate
+7,2022-10-01,Getafe,15,2,Real Valladolid,18,3,Perdido,Ganado
+7,2022-10-01,Sevilla,12,0,Atletico De Madrid,3,2,Perdido,Ganado
+7,2022-10-01,Mallorca,9,0,Barcelona,1,1,Perdido,Ganado
+7,2022-10-02,Espanyol,19,2,Valencia Cf,16,2,Empate,Empate
+7,2022-10-02,Celta De Vigo,13,1,Real Betis,6,0,Ganado,Perdido
+7,2022-10-02,Girona,10,3,Real Sociedad,4,5,Perdido,Ganado
+7,2022-10-02,Real Madrid,2,1,Osasuna,7,1,Empate,Empate
+7,2022-10-03,Rayo Vallecano,11,2,Elche,20,1,Ganado,Perdido
+8,2022-10-07,Osasuna,7,1,Valencia Cf,16,2,Perdido,Ganado
+8,2022-10-08,Almeria,17,3,Rayo Vallecano,11,1,Ganado,Perdido
+8,2022-10-08,Atletico De Madrid,3,2,Girona,10,1,Ganado,Perdido
+8,2022-10-08,Sevilla,12,1,Athletic Club,8,1,Empate,Empate
+8,2022-10-08,Getafe,15,0,Real Madrid,2,1,Perdido,Ganado
+8,2022-10-09,Real Valladolid,18,0,Real Betis,6,0,Empate,Empate
+8,2022-10-09,Cadiz,14,2,Espanyol,19,2,Empate,Empate
+8,2022-10-09,Real Sociedad,4,1,Villarreal,5,0,Ganado,Perdido
+8,2022-10-09,Barcelona,1,1,Celta De Vigo,13,0,Ganado,Perdido
+8,2022-10-10,Elche,20,1,Mallorca,9,1,Empate,Empate
+9,2022-10-14,Rayo Vallecano,11,0,Getafe,15,0,Empate,Empate
+9,2022-10-15,Girona,10,1,Cadiz,14,1,Empate,Empate
+9,2022-10-15,Valencia Cf,16,2,Elche,20,2,Empate,Empate
+9,2022-10-15,Mallorca,9,0,Sevilla,12,1,Perdido,Ganado
+9,2022-10-15,Athletic Club,8,0,Atletico De Madrid,3,1,Perdido,Ganado
+9,2022-10-16,Celta De Vigo,13,1,Real Sociedad,4,2,Perdido,Ganado
+9,2022-10-16,Real Madrid,2,3,Barcelona,1,1,Ganado,Perdido
+9,2022-10-16,Espanyol,19,1,Real Valladolid,18,0,Ganado,Perdido
+9,2022-10-16,Real Betis,6,3,Almeria,17,1,Ganado,Perdido
+9,2022-10-17,Villarreal,5,2,Osasuna,7,0,Ganado,Perdido
+10,2022-10-18,Sevilla,12,1,Valencia Cf,16,1,Empate,Empate
+10,2022-10-18,Getafe,15,2,Athletic Club,8,2,Empate,Empate
+10,2022-10-18,Atletico De Madrid,3,1,Rayo Vallecano,11,1,Empate,Empate
+10,2022-10-19,Cadiz,14,0,Real Betis,6,0,Empate,Empate
+10,2022-10-19,Real Valladolid,18,4,Celta De Vigo,13,1,Ganado,Perdido
+10,2022-10-19,Real Sociedad,4,1,Mallorca,9,0,Ganado,Perdido
+10,2022-10-19,Elche,20,0,Real Madrid,2,3,Perdido,Ganado
+10,2022-10-20,Almeria,17,3,Girona,10,2,Ganado,Perdido
+10,2022-10-20,Osasuna,7,1,Espanyol,19,0,Ganado,Perdido
+10,2022-10-20,Barcelona,1,3,Villarreal,5,0,Ganado,Perdido
+11,2022-10-22,Rayo Vallecano,11,5,Cadiz,14,1,Ganado,Perdido
+11,2022-10-22,Real Valladolid,18,1,Real Sociedad,4,0,Ganado,Perdido
+11,2022-10-22,Valencia Cf,16,1,Mallorca,9,2,Perdido,Ganado
+11,2022-10-22,Real Madrid,2,3,Sevilla,12,1,Ganado,Perdido
+11,2022-10-23,Espanyol,19,2,Elche,20,2,Empate,Empate
+11,2022-10-23,Real Betis,6,1,Atletico De Madrid,3,2,Perdido,Ganado
+11,2022-10-23,Villarreal,5,2,Almeria,17,1,Ganado,Perdido
+11,2022-10-23,Girona,10,1,Osasuna,7,1,Empate,Empate
+11,2022-10-23,Barcelona,1,4,Athletic Club,8,0,Ganado,Perdido
+11,2022-10-24,Celta De Vigo,13,1,Getafe,15,1,Empate,Empate
+12,2022-10-28,Mallorca,9,1,Espanyol,19,1,Empate,Empate
+12,2022-10-29,Almeria,17,3,Celta De Vigo,13,1,Ganado,Perdido
+12,2022-10-29,Cadiz,14,3,Atletico De Madrid,3,2,Ganado,Perdido
+12,2022-10-29,Sevilla,12,0,Rayo Vallecano,11,1,Perdido,Ganado
+12,2022-10-29,Valencia Cf,16,0,Barcelona,1,1,Perdido,Ganado
+12,2022-10-30,Osasuna,7,2,Real Valladolid,18,0,Ganado,Perdido
+12,2022-10-30,Real Madrid,2,1,Girona,10,1,Empate,Empate
+12,2022-10-30,Athletic Club,8,1,Villarreal,5,0,Ganado,Perdido
+12,2022-10-30,Real Sociedad,4,0,Real Betis,6,2,Perdido,Ganado
+12,2022-10-31,Elche,20,0,Getafe,15,1,Perdido,Ganado
+13,2022-11-04,Girona,10,2,Athletic Club,8,1,Ganado,Perdido
+13,2022-11-05,Getafe,15,0,Cadiz,14,0,Empate,Empate
+13,2022-11-05,Real Valladolid,18,2,Elche,20,1,Ganado,Perdido
+13,2022-11-05,Celta De Vigo,13,1,Osasuna,7,2,Perdido,Ganado
+13,2022-11-05,Barcelona,1,2,Almeria,17,0,Ganado,Perdido
+13,2022-11-06,Atletico De Madrid,3,1,Espanyol,19,1,Empate,Empate
+13,2022-11-06,Real Sociedad,4,1,Valencia Cf,16,1,Empate,Empate
+13,2022-11-06,Villarreal,5,0,Mallorca,9,2,Perdido,Ganado
+13,2022-11-06,Real Betis,6,1,Sevilla,12,1,Empate,Empate
+13,2022-11-07,Rayo Vallecano,11,3,Real Madrid,2,2,Ganado,Perdido
+14,2022-11-08,Elche,20,1,Girona,10,2,Perdido,Ganado
+14,2022-11-08,Athletic Club,8,3,Real Valladolid,18,0,Ganado,Perdido
+14,2022-11-08,Osasuna,7,1,Barcelona,1,2,Perdido,Ganado
+14,2022-11-09,Sevilla,12,1,Real Sociedad,4,2,Perdido,Ganado
+14,2022-11-09,Almeria,17,1,Getafe,15,0,Ganado,Perdido
+14,2022-11-09,Espanyol,19,0,Villarreal,5,1,Perdido,Ganado
+14,2022-11-09,Mallorca,9,1,Atletico De Madrid,3,0,Ganado,Perdido
+14,2022-11-10,Rayo Vallecano,11,0,Celta De Vigo,13,0,Empate,Empate
+14,2022-11-10,Valencia Cf,16,3,Real Betis,6,0,Ganado,Perdido
+14,2022-11-10,Real Madrid,2,2,Cadiz,14,1,Ganado,Perdido
+15,2022-12-29,Girona,10,2,Rayo Vallecano,11,2,Empate,Empate
+15,2022-12-29,Real Betis,6,0,Athletic Club,8,0,Empate,Empate
+15,2022-12-29,Atletico De Madrid,3,2,Elche,20,0,Ganado,Perdido
+15,2022-12-30,Getafe,15,2,Mallorca,9,0,Ganado,Perdido
+15,2022-12-30,Celta De Vigo,13,1,Sevilla,12,1,Empate,Empate
+15,2022-12-30,Cadiz,14,1,Almeria,17,1,Empate,Empate
+15,2022-12-30,Real Valladolid,18,0,Real Madrid,2,2,Perdido,Ganado
+15,2022-12-31,Barcelona,1,1,Espanyol,19,1,Empate,Empate
+15,2022-12-31,Villarreal,5,2,Valencia Cf,16,1,Ganado,Perdido
+15,2022-12-31,Real Sociedad,4,2,Osasuna,7,0,Ganado,Perdido
+16,2023-01-06,Elche,20,0,Celta De Vigo,13,1,Perdido,Ganado
+16,2023-01-06,Valencia Cf,16,0,Cadiz,14,1,Perdido,Ganado
+16,2023-01-07,Villarreal,5,2,Real Madrid,2,1,Ganado,Perdido
+16,2023-01-07,Mallorca,9,1,Real Valladolid,18,0,Ganado,Perdido
+16,2023-01-07,Espanyol,19,2,Girona,10,2,Empate,Empate
+16,2023-01-08,Almeria,17,0,Real Sociedad,4,2,Perdido,Ganado
+16,2023-01-08,Rayo Vallecano,11,1,Real Betis,6,2,Perdido,Ganado
+16,2023-01-08,Sevilla,12,2,Getafe,15,1,Ganado,Perdido
+16,2023-01-08,Atletico De Madrid,3,0,Barcelona,1,1,Perdido,Ganado
+16,2023-01-09,Athletic Club,8,0,Osasuna,7,0,Empate,Empate
+17,2023-01-13,Celta De Vigo,13,1,Villarreal,5,1,Empate,Empate
+17,2023-01-14,Real Valladolid,18,0,Rayo Vallecano,11,1,Perdido,Ganado
+17,2023-01-14,Girona,10,2,Sevilla,12,1,Ganado,Perdido
+17,2023-01-14,Osasuna,7,1,Mallorca,9,0,Ganado,Perdido
+17,2023-01-14,Real Sociedad,4,3,Athletic Club,8,1,Ganado,Perdido
+17,2023-01-15,Getafe,15,1,Espanyol,19,2,Perdido,Ganado
+17,2023-01-15,Almeria,17,1,Atletico De Madrid,3,1,Empate,Empate
+17,2023-01-16,Cadiz,14,1,Elche,20,1,Empate,Empate
+17,2023-02-01,Real Betis,6,1,Barcelona,1,2,Perdido,Ganado
+17,2023-02-02,Real Madrid,2,2,Valencia Cf,16,0,Ganado,Perdido
+18,2023-01-20,Mallorca,9,1,Celta De Vigo,13,0,Ganado,Perdido
+18,2023-01-21,Rayo Vallecano,11,0,Real Sociedad,4,2,Perdido,Ganado
+18,2023-01-21,Espanyol,19,1,Real Betis,6,0,Ganado,Perdido
+18,2023-01-21,Atletico De Madrid,3,3,Real Valladolid,18,0,Ganado,Perdido
+18,2023-01-21,Sevilla,12,1,Cadiz,14,0,Ganado,Perdido
+18,2023-01-22,Villarreal,5,1,Girona,10,0,Ganado,Perdido
+18,2023-01-22,Elche,20,1,Osasuna,7,1,Empate,Empate
+18,2023-01-22,Barcelona,1,1,Getafe,15,0,Ganado,Perdido
+18,2023-01-22,Athletic Club,8,0,Real Madrid,2,2,Perdido,Ganado
+18,2023-01-23,Valencia Cf,16,2,Almeria,17,2,Empate,Empate
+19,2023-01-27,Almeria,17,3,Espanyol,19,1,Ganado,Perdido
+19,2023-01-28,Cadiz,14,2,Mallorca,9,0,Ganado,Perdido
+19,2023-01-28,Girona,10,0,Barcelona,1,1,Perdido,Ganado
+19,2023-01-28,Sevilla,12,3,Elche,20,0,Ganado,Perdido
+19,2023-01-28,Getafe,15,0,Real Betis,6,1,Perdido,Ganado
+19,2023-01-29,Real Valladolid,18,1,Valencia Cf,16,0,Ganado,Perdido
+19,2023-01-29,Osasuna,7,0,Atletico De Madrid,3,1,Perdido,Ganado
+19,2023-01-29,Celta De Vigo,13,1,Athletic Club,8,0,Ganado,Perdido
+19,2023-01-29,Real Madrid,2,0,Real Sociedad,4,0,Empate,Empate
+19,2023-01-30,Villarreal,5,0,Rayo Vallecano,11,1,Perdido,Ganado
+20,2023-02-03,Athletic Club,8,4,Cadiz,14,1,Ganado,Perdido
+20,2023-02-04,Espanyol,19,1,Osasuna,7,1,Empate,Empate
+20,2023-02-04,Elche,20,3,Villarreal,5,1,Ganado,Perdido
+20,2023-02-04,Atletico De Madrid,3,1,Getafe,15,1,Empate,Empate
+20,2023-02-04,Real Betis,6,3,Celta De Vigo,13,4,Perdido,Ganado
+20,2023-02-05,Mallorca,9,1,Real Madrid,2,0,Ganado,Perdido
+20,2023-02-05,Girona,10,1,Valencia Cf,16,0,Ganado,Perdido
+20,2023-02-05,Real Sociedad,4,0,Real Valladolid,18,1,Perdido,Ganado
+20,2023-02-05,Barcelona,1,3,Sevilla,12,0,Ganado,Perdido
+20,2023-02-06,Rayo Vallecano,11,2,Almeria,17,0,Ganado,Perdido
+21,2023-02-10,Cadiz,14,2,Girona,10,0,Ganado,Perdido
+21,2023-02-11,Almeria,17,2,Real Betis,6,3,Perdido,Ganado
+21,2023-02-11,Sevilla,12,2,Mallorca,9,0,Ganado,Perdido
+21,2023-02-11,Valencia Cf,16,1,Athletic Club,8,2,Perdido,Ganado
+21,2023-02-12,Getafe,15,1,Rayo Vallecano,11,1,Empate,Empate
+21,2023-02-12,Celta De Vigo,13,0,Atletico De Madrid,3,1,Perdido,Ganado
+21,2023-02-12,Real Valladolid,18,0,Osasuna,7,0,Empate,Empate
+21,2023-02-12,Villarreal,5,0,Barcelona,1,1,Perdido,Ganado
+21,2023-02-13,Espanyol,19,2,Real Sociedad,4,3,Perdido,Ganado
+21,2023-02-15,Real Madrid,2,4,Elche,20,0,Ganado,Perdido
+22,2023-02-17,Girona,10,6,Almeria,17,2,Ganado,Perdido
+22,2023-02-18,Real Sociedad,4,1,Celta De Vigo,13,1,Empate,Empate
+22,2023-02-18,Real Betis,6,2,Real Valladolid,18,1,Ganado,Perdido
+22,2023-02-18,Mallorca,9,4,Villarreal,5,2,Ganado,Perdido
+22,2023-02-18,Osasuna,7,0,Real Madrid,2,2,Perdido,Ganado
+22,2023-02-19,Elche,20,0,Espanyol,19,1,Perdido,Ganado
+22,2023-02-19,Rayo Vallecano,11,1,Sevilla,12,1,Empate,Empate
+22,2023-02-19,Atletico De Madrid,3,1,Athletic Club,8,0,Ganado,Perdido
+22,2023-02-19,Barcelona,1,2,Cadiz,14,0,Ganado,Perdido
+22,2023-02-20,Getafe,15,1,Valencia Cf,16,0,Ganado,Perdido
+23,2023-02-24,Elche,20,2,Real Betis,6,3,Perdido,Ganado
+23,2023-02-25,Espanyol,19,2,Mallorca,9,1,Ganado,Perdido
+23,2023-02-25,Cadiz,14,1,Rayo Vallecano,11,0,Ganado,Perdido
+23,2023-02-25,Real Madrid,2,1,Atletico De Madrid,3,1,Empate,Empate
+23,2023-02-25,Valencia Cf,16,1,Real Sociedad,4,0,Ganado,Perdido
+23,2023-02-26,Athletic Club,8,2,Girona,10,3,Perdido,Ganado
+23,2023-02-26,Celta De Vigo,13,3,Real Valladolid,18,0,Ganado,Perdido
+23,2023-02-26,Almeria,17,1,Barcelona,1,0,Ganado,Perdido
+23,2023-02-26,Sevilla,12,2,Osasuna,7,3,Perdido,Ganado
+23,2023-02-27,Villarreal,5,2,Getafe,15,1,Ganado,Perdido
+24,2023-03-03,Real Sociedad,4,0,Cadiz,14,0,Empate,Empate
+24,2023-03-04,Getafe,15,3,Girona,10,2,Ganado,Perdido
+24,2023-03-04,Almeria,17,0,Villarreal,5,2,Perdido,Ganado
+24,2023-03-04,Mallorca,9,0,Elche,20,1,Perdido,Ganado
+24,2023-03-04,Atletico De Madrid,3,6,Sevilla,12,1,Ganado,Perdido
+24,2023-03-05,Real Valladolid,18,2,Espanyol,19,1,Ganado,Perdido
+24,2023-03-05,Barcelona,1,1,Valencia Cf,16,0,Ganado,Perdido
+24,2023-03-05,Rayo Vallecano,11,0,Athletic Club,8,0,Empate,Empate
+24,2023-03-05,Real Betis,6,0,Real Madrid,2,0,Empate,Empate
+24,2023-03-06,Osasuna,7,0,Celta De Vigo,13,0,Empate,Empate
+25,2023-03-10,Cadiz,14,2,Getafe,15,2,Empate,Empate
+25,2023-03-11,Real Madrid,2,3,Espanyol,19,1,Ganado,Perdido
+25,2023-03-11,Elche,20,1,Real Valladolid,18,1,Empate,Empate
+25,2023-03-11,Celta De Vigo,13,3,Rayo Vallecano,11,0,Ganado,Perdido
+25,2023-03-11,Valencia Cf,16,1,Osasuna,7,0,Ganado,Perdido
+25,2023-03-12,Mallorca,9,1,Real Sociedad,4,1,Empate,Empate
+25,2023-03-12,Sevilla,12,2,Almeria,17,1,Ganado,Perdido
+25,2023-03-12,Villarreal,5,1,Real Betis,6,1,Empate,Empate
+25,2023-03-12,Athletic Club,8,0,Barcelona,1,1,Perdido,Ganado
+25,2023-03-13,Girona,10,0,Atletico De Madrid,3,1,Perdido,Ganado
+26,2023-03-17,Real Valladolid,18,1,Athletic Club,8,3,Perdido,Ganado
+26,2023-03-18,Almeria,17,1,Cadiz,14,1,Empate,Empate
+26,2023-03-18,Rayo Vallecano,11,2,Girona,10,2,Empate,Empate
+26,2023-03-18,Espanyol,19,1,Celta De Vigo,13,3,Perdido,Ganado
+26,2023-03-18,Atletico De Madrid,3,3,Valencia Cf,16,0,Ganado,Perdido
+26,2023-03-19,Real Betis,6,1,Mallorca,9,0,Ganado,Perdido
+26,2023-03-19,Osasuna,7,0,Villarreal,5,3,Perdido,Ganado
+26,2023-03-19,Real Sociedad,4,2,Elche,20,0,Ganado,Perdido
+26,2023-03-19,Getafe,15,2,Sevilla,12,0,Ganado,Perdido
+26,2023-03-19,Barcelona,1,2,Real Madrid,2,1,Ganado,Perdido
+27,2023-03-31,Mallorca,9,0,Osasuna,7,0,Empate,Empate
+27,2023-04-01,Girona,10,2,Espanyol,19,1,Ganado,Perdido
+27,2023-04-01,Athletic Club,8,0,Getafe,15,0,Empate,Empate
+27,2023-04-01,Cadiz,14,0,Sevilla,12,2,Perdido,Ganado
+27,2023-04-01,Elche,20,0,Barcelona,1,4,Perdido,Ganado
+27,2023-04-02,Celta De Vigo,13,2,Almeria,17,2,Empate,Empate
+27,2023-04-02,Real Madrid,2,6,Real Valladolid,18,0,Ganado,Perdido
+27,2023-04-02,Villarreal,5,2,Real Sociedad,4,0,Ganado,Perdido
+27,2023-04-02,Atletico De Madrid,3,1,Real Betis,6,0,Ganado,Perdido
+27,2023-04-03,Valencia Cf,16,1,Rayo Vallecano,11,1,Empate,Empate
+28,2023-04-07,Sevilla,12,2,Celta De Vigo,13,2,Empate,Empate
+28,2023-04-08,Osasuna,7,2,Elche,20,1,Ganado,Perdido
+28,2023-04-08,Espanyol,19,1,Athletic Club,8,2,Perdido,Ganado
+28,2023-04-08,Real Sociedad,4,2,Getafe,15,0,Ganado,Perdido
+28,2023-04-08,Real Madrid,2,2,Villarreal,5,3,Perdido,Ganado
+28,2023-04-09,Real Valladolid,18,3,Mallorca,9,3,Empate,Empate
+28,2023-04-09,Real Betis,6,0,Cadiz,14,2,Perdido,Ganado
+28,2023-04-09,Almeria,17,2,Valencia Cf,16,1,Ganado,Perdido
+28,2023-04-09,Rayo Vallecano,11,1,Atletico De Madrid,3,2,Perdido,Ganado
+28,2023-04-10,Barcelona,1,0,Girona,10,0,Empate,Empate
+29,2023-04-14,Rayo Vallecano,11,2,Osasuna,7,1,Ganado,Perdido
+29,2023-04-15,Villarreal,5,1,Real Valladolid,18,2,Perdido,Ganado
+29,2023-04-15,Athletic Club,8,2,Real Sociedad,4,0,Ganado,Perdido
+29,2023-04-15,Real Betis,6,3,Espanyol,19,1,Ganado,Perdido
+29,2023-04-15,Cadiz,14,0,Real Madrid,2,2,Perdido,Ganado
+29,2023-04-16,Girona,10,2,Elche,20,0,Ganado,Perdido
+29,2023-04-16,Getafe,15,0,Barcelona,1,0,Empate,Empate
+29,2023-04-16,Atletico De Madrid,3,2,Almeria,17,1,Ganado,Perdido
+29,2023-04-16,Valencia Cf,16,0,Sevilla,12,2,Perdido,Ganado
+29,2023-04-17,Celta De Vigo,13,0,Mallorca,9,1,Perdido,Ganado
+30,2023-04-21,Espanyol,19,0,Cadiz,14,0,Empate,Empate
+30,2023-04-22,Osasuna,7,3,Real Betis,6,2,Ganado,Perdido
+30,2023-04-22,Almeria,17,1,Athletic Club,8,2,Perdido,Ganado
+30,2023-04-22,Real Sociedad,4,2,Rayo Vallecano,11,1,Ganado,Perdido
+30,2023-04-22,Real Valladolid,18,1,Girona,10,0,Ganado,Perdido
+30,2023-04-22,Real Madrid,2,2,Celta De Vigo,13,0,Ganado,Perdido
+30,2023-04-23,Elche,20,0,Valencia Cf,16,2,Perdido,Ganado
+30,2023-04-23,Barcelona,1,1,Atletico De Madrid,3,0,Ganado,Perdido
+30,2023-04-23,Mallorca,9,3,Getafe,15,1,Ganado,Perdido
+30,2023-04-23,Sevilla,12,2,Villarreal,5,1,Ganado,Perdido
+31,2023-04-25,Girona,10,4,Real Madrid,2,2,Ganado,Perdido
+31,2023-04-25,Cadiz,14,0,Osasuna,7,1,Perdido,Ganado
+31,2023-04-25,Real Betis,6,0,Real Sociedad,4,0,Empate,Empate
+31,2023-04-26,Getafe,15,1,Almeria,17,2,Perdido,Ganado
+31,2023-04-26,Atletico De Madrid,3,3,Mallorca,9,1,Ganado,Perdido
+31,2023-04-26,Celta De Vigo,13,1,Elche,20,0,Ganado,Perdido
+31,2023-04-26,Rayo Vallecano,11,2,Barcelona,1,1,Ganado,Perdido
+31,2023-04-27,Valencia Cf,16,2,Real Valladolid,18,1,Ganado,Perdido
+31,2023-04-27,Villarreal,5,4,Espanyol,19,2,Ganado,Perdido
+31,2023-04-27,Athletic Club,8,0,Sevilla,12,1,Perdido,Ganado
+32,2023-04-28,Osasuna,7,0,Real Sociedad,4,2,Perdido,Ganado
+32,2023-04-29,Elche,20,4,Rayo Vallecano,11,0,Ganado,Perdido
+32,2023-04-29,Real Madrid,2,4,Almeria,17,2,Ganado,Perdido
+32,2023-04-29,Barcelona,1,4,Real Betis,6,0,Ganado,Perdido
+32,2023-04-30,Cadiz,14,2,Valencia Cf,16,1,Ganado,Perdido
+32,2023-04-30,Villarreal,5,3,Celta De Vigo,13,1,Ganado,Perdido
+32,2023-04-30,Espanyol,19,1,Getafe,15,0,Ganado,Perdido
+32,2023-04-30,Real Valladolid,18,2,Atletico De Madrid,3,5,Perdido,Ganado
+32,2023-05-01,Mallorca,9,1,Athletic Club,8,1,Empate,Empate
+32,2023-05-01,Sevilla,12,0,Girona,10,2,Perdido,Ganado
+33,2023-05-02,Barcelona,1,1,Osasuna,7,0,Ganado,Perdido
+33,2023-05-02,Almeria,17,2,Elche,20,1,Ganado,Perdido
+33,2023-05-02,Real Sociedad,4,2,Real Madrid,2,0,Ganado,Perdido
+33,2023-05-03,Valencia Cf,16,1,Villarreal,5,1,Empate,Empate
+33,2023-05-03,Getafe,15,1,Celta De Vigo,13,0,Ganado,Perdido
+33,2023-05-03,Atletico De Madrid,3,5,Cadiz,14,1,Ganado,Perdido
+33,2023-05-04,Sevilla,12,3,Espanyol,19,2,Ganado,Perdido
+33,2023-05-04,Girona,10,2,Mallorca,9,1,Ganado,Perdido
+33,2023-05-04,Athletic Club,8,0,Real Betis,6,1,Perdido,Ganado
+33,2023-05-04,Rayo Vallecano,11,2,Real Valladolid,18,1,Ganado,Perdido
+34,2023-05-12,Mallorca,9,1,Cadiz,14,0,Ganado,Perdido
+34,2023-05-13,Real Sociedad,4,2,Girona,10,2,Empate,Empate
+34,2023-05-13,Osasuna,7,3,Almeria,17,1,Ganado,Perdido
+34,2023-05-13,Villarreal,5,5,Athletic Club,8,1,Ganado,Perdido
+34,2023-05-13,Real Madrid,2,1,Getafe,15,0,Ganado,Perdido
+34,2023-05-14,Celta De Vigo,13,1,Valencia Cf,16,2,Perdido,Ganado
+34,2023-05-14,Elche,20,1,Atletico De Madrid,3,0,Ganado,Perdido
+34,2023-05-14,Real Valladolid,18,0,Sevilla,12,3,Perdido,Ganado
+34,2023-05-14,Espanyol,19,2,Barcelona,1,4,Perdido,Ganado
+34,2023-05-15,Real Betis,6,3,Rayo Vallecano,11,1,Ganado,Perdido
+35,2023-05-19,Cadiz,14,2,Real Valladolid,18,0,Ganado,Perdido
+35,2023-05-20,Girona,10,1,Villarreal,5,2,Perdido,Ganado
+35,2023-05-20,Athletic Club,8,2,Celta De Vigo,13,1,Ganado,Perdido
+35,2023-05-20,Getafe,15,1,Elche,20,1,Empate,Empate
+35,2023-05-20,Almeria,17,3,Mallorca,9,0,Ganado,Perdido
+35,2023-05-20,Barcelona,1,1,Real Sociedad,4,2,Perdido,Ganado
+35,2023-05-21,Rayo Vallecano,11,1,Espanyol,19,2,Perdido,Ganado
+35,2023-05-21,Atletico De Madrid,3,3,Osasuna,7,0,Ganado,Perdido
+35,2023-05-21,Valencia Cf,16,1,Real Madrid,2,0,Ganado,Perdido
+35,2023-05-21,Sevilla,12,0,Real Betis,6,0,Empate,Empate
+36,2023-05-23,Celta De Vigo,13,1,Girona,10,1,Empate,Empate
+36,2023-05-23,Real Sociedad,4,1,Almeria,17,0,Ganado,Perdido
+36,2023-05-23,Real Valladolid,18,3,Barcelona,1,1,Ganado,Perdido
+36,2023-05-24,Elche,20,1,Sevilla,12,1,Empate,Empate
+36,2023-05-24,Villarreal,5,2,Cadiz,14,0,Ganado,Perdido
+36,2023-05-24,Real Madrid,2,2,Rayo Vallecano,11,1,Ganado,Perdido
+36,2023-05-24,Real Betis,6,0,Getafe,15,1,Perdido,Ganado
+36,2023-05-24,Espanyol,19,3,Atletico De Madrid,3,3,Empate,Empate
+36,2023-05-25,Mallorca,9,1,Valencia Cf,16,0,Ganado,Perdido
+36,2023-05-25,Osasuna,7,2,Athletic Club,8,0,Ganado,Perdido
+37,2023-05-27,Sevilla,12,1,Real Madrid,2,2,Perdido,Ganado
+37,2023-05-28,Atletico De Madrid,3,2,Real Sociedad,4,1,Ganado,Perdido
+37,2023-05-28,Barcelona,1,3,Mallorca,9,0,Ganado,Perdido
+37,2023-05-28,Athletic Club,8,0,Elche,20,1,Perdido,Ganado
+37,2023-05-28,Cadiz,14,1,Celta De Vigo,13,0,Ganado,Perdido
+37,2023-05-28,Rayo Vallecano,11,2,Villarreal,5,1,Ganado,Perdido
+37,2023-05-28,Getafe,15,2,Osasuna,7,1,Ganado,Perdido
+37,2023-05-28,Valencia Cf,16,2,Espanyol,19,2,Empate,Empate
+37,2023-05-28,Almeria,17,0,Real Valladolid,18,0,Empate,Empate
+37,2023-05-28,Girona,10,1,Real Betis,6,2,Perdido,Ganado
+38,2023-06-04,Real Sociedad,4,2,Sevilla,12,1,Ganado,Perdido
+38,2023-06-04,Mallorca,9,3,Rayo Vallecano,11,0,Ganado,Perdido
+38,2023-06-04,Real Madrid,2,1,Athletic Club,8,1,Empate,Empate
+38,2023-06-04,Villarreal,5,2,Atletico De Madrid,3,2,Empate,Empate
+38,2023-06-04,Osasuna,7,2,Girona,10,1,Ganado,Perdido
+38,2023-06-04,Real Betis,6,1,Valencia Cf,16,1,Empate,Empate
+38,2023-06-04,Celta De Vigo,13,2,Barcelona,1,1,Ganado,Perdido
+38,2023-06-04,Real Valladolid,18,0,Getafe,15,0,Empate,Empate
+38,2023-06-04,Elche,20,1,Cadiz,14,1,Empate,Empate
+38,2023-06-04,Espanyol,19,3,Almeria,17,3,Empate,Empate

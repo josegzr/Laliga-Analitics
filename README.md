@@ -4,12 +4,21 @@
 
 ## Índice
 
+1. [Descripción del proyecto](#descripción)
+2. [Extracción](#extracción)
+3. [Método de creación de Base de datos](#Basededatos)
+4. [Visualización](#visualizacion)
+5. [Conclusión](#conclusión)
+
+<a name="descripción"/>
 
 ## Descripción del proyecto
 En este proyecto con herramientas como python he conseguido las estadísticas de la liga de futbol española de la temporada 2022/2023, algunas de estas estadísticas son: la clasificación, los resultados de cada partido y los jugadores de cada equipo con sus propias estadísticas. He metido todos los datos en una base de datos de SQL llamada laliganalitics y he creado las relaciones que tienen entre sí. Por último, con la herramienta de visualización PowerBI he visualizado los datos para poder analizarlos.
 
 ### Objetivo:
 El objetivo de este proyecto es analizar las estadísticas que he obtenido de cada equipo e sacar conclusiones de porque cada equipo quedo ese lugar en la tabla de clasificación.
+
+<a name="extracción"/>
 
 ## Extracción
 Para empezar, busqué varias páginas web de futbol poder sacar las estadísticas y al final di con la página web el mundo deportivo. De esta página conseguí sacar tres tablas:
@@ -52,6 +61,8 @@ La extracción se hizo toda a través de python con el método de web scraping y
 
 **Proceso de transformación**
 En cuanto a la transformación no tuve que hacer mucho par de cambios en los nombres de columnas eliminar unos cuantos duplicados en la tabla de jugadores y añadir unas columnas en la tabla de resultados para identificar a los equipos y saber quién había ganado según el resultado que habían obtenido.
+
+<a name="Basededatos"/>
 
 ## Método de creación de Base de datos
 
@@ -115,6 +126,8 @@ CREATE TABLE jugadores (
 
 ![EERD_manual](https://github.com/josegzr/Laliga-Analitics/blob/main/img/ERD.png)
 <details>
+
+<a name="visualizacion"/>
 
 ## Visualización
 
@@ -208,6 +221,8 @@ Esta página esta para que se vea por meses los resultados de los equipos cuando
 Esta página esta para que se vea por meses los resultados de los equipos cuando eran visitantes.
 
 </details>
+
+<a name="conclusión"/>
 
 ### Conclusión
 En cuanto a las estadísticas de las tarjetas se veía clara la diferencia de los dos primeros a los dos últimos pero pasado esos 4 equipos ya no había una estructura clara en relación con la clasificación. En cuanto a los goles a favor y en contra ya vemos más claro que los equipos más goleados y que no tuviesen un alto número de goles a favor eran los equipos más bajos en la clasificación y por último y más obvio quienes no pudieron ganar partidos fueron los que descendieron la temporada pasada

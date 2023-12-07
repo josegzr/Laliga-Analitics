@@ -44,6 +44,7 @@ Estas son las primeras 5 lineas y sus columnas de la tabla jugadores:
 <br>
 
  ![profootballreference](https://github.com/josegzr/Laliga-Analitics/blob/main/img/resultados.png)
+<details>
 
 **Proceso de extracción**
 La extraccion se hizo toda atraves de python con el metodo de web scraping y la libreria de selenium
@@ -52,8 +53,6 @@ La extraccion se hizo toda atraves de python con el metodo de web scraping y la 
 En cuanto a la transformacion no tuve que hacer mucho par de cambios en los nombres de columnas eliminar unos cuantos duplicados en la tabla de jugadores y añadir unas columnas en la tabla de resultados para identificar a los equipos y saber quien habia ganado segun el resultado que habian obtenido.
 
 ## Metodo de creacion de Base de datos
-
-</details>
 
 <details>
 <summary>Código SQL </summary>

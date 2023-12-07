@@ -1,962 +1,962 @@
-Nombre_jugador,Dorsal,Posicion,Equipo,ID_equipo,goles_marcados,asistencias,goles_recibidos,paradas,tarjetas_amarillas,tarjetas_rojas
-Diego Fuoli,25,Portero,Almeria,17,0,0,0,0,0,0
-Diego Marino,1,Portero,Almeria,17,0,0,2,3,0,0
-Fernando Martinez,13,Portero,Almeria,17,0,0,61,133,3,0
-Giorgi Makaridze,1,Portero,Almeria,17,0,0,0,0,0,0
-Aitor Bunuel,2,Defensa,Almeria,17,0,0,0,0,0,0
-Aitor Punal,35,Defensa,Almeria,17,0,0,0,0,0,0
-Arnau Sola,-,Defensa,Almeria,17,0,0,0,0,0,0
-Chumi,21,Defensa,Almeria,17,1,0,0,0,5,0
-Cuenca,29,Defensa,Almeria,17,0,0,0,0,0,0
-Daniel Carrico,23,Defensa,Almeria,17,0,0,0,0,0,0
-Houboulang Mendes,24,Defensa,Almeria,17,0,1,0,0,2,0
-Ivan Martos,-,Defensa,Almeria,17,0,0,0,0,0,0
-Jonathan,-,Defensa,Almeria,17,0,0,0,0,0,0
-Kaiky,2,Defensa,Almeria,17,0,0,0,0,5,0
-Nelson Monte,24,Defensa,Almeria,17,0,0,0,0,0,0
-Rodrigo Ely,19,Defensa,Almeria,17,0,1,0,0,8,1
-Sergio Akieme,15,Defensa,Almeria,17,1,0,0,0,5,0
-Srdjan Babic,22,Defensa,Almeria,17,3,0,0,0,5,0
-Alex Centelles,20,Defensa,Almeria,17,1,2,0,0,0,1
-Alex Pozo,17,Defensa,Almeria,17,0,3,0,0,2,0
-Arnau Puigmal,8,Mediocentro,Almeria,17,1,0,0,0,4,0
-Cristian Olivera,-,Mediocentro,Almeria,17,0,0,0,0,0,0
-Cesar de la Hoz,6,Mediocentro,Almeria,17,1,0,0,0,6,0
-Francisco Portillo,8,Mediocentro,Almeria,17,2,1,0,0,1,0
-Gonzalo Melero,11,Mediocentro,Almeria,17,4,3,0,0,5,0
-Gui,28,Mediocentro,Almeria,17,0,0,0,0,0,0
-Lucas Robertone,5,Mediocentro,Almeria,17,2,7,0,0,7,0
-Mamadou Dialla Sylla,36,Mediocentro,Almeria,17,0,0,0,0,0,0
-Marcos Pena,26,Mediocentro,Almeria,17,0,0,0,0,0,0
-Martin Svidersky,26,Mediocentro,Almeria,17,0,0,0,0,0,0
-Samu Costa,23,Mediocentro,Almeria,17,1,2,0,0,5,0
-Inigo Eguaras,16,Mediocentro,Almeria,17,1,1,0,0,6,0
-Adri Embarba,10,Delantero,Almeria,17,4,3,0,0,3,1
-Arvin Appiah,27,Delantero,Almeria,17,0,0,0,0,0,0
-Carlos Gilbert,37,Delantero,Almeria,17,0,0,0,0,0,0
-Carlos Rojas,33,Delantero,Almeria,17,0,0,0,0,0,0
-Dyego Sousa,11,Delantero,Almeria,17,0,1,0,0,0,0
-El Bilal Toure,9,Delantero,Almeria,17,7,2,0,0,0,0
-Jordi Escobar,-,Delantero,Almeria,17,0,0,0,0,0,0
-Juan Villar,7,Delantero,Almeria,17,0,0,0,0,0,0
-Largie Ramazani,7,Delantero,Almeria,17,3,1,0,0,6,0
-Luis Javier Suarez,16,Delantero,Almeria,17,4,4,0,0,4,1
-Lazaro,14,Delantero,Almeria,17,6,0,0,0,1,0
-Leo Baptistao,12,Delantero,Almeria,17,5,2,0,0,7,0
-Marciano Sanca,34,Delantero,Almeria,17,0,0,0,0,0,0
-Marezi,29,Delantero,Almeria,17,0,0,0,0,0,0
-Raul Caballero,28,Delantero,Almeria,17,0,0,0,0,0,0
-Ander Iruarrizaga,35,Portero,Athletic Club,8,0,0,0,0,0,0
-Ibon Ispizua,26,Portero,Athletic Club,8,0,0,0,0,0,0
-Jokin Ezkieta,13,Portero,Athletic Club,8,0,0,0,0,0,0
-Julen Agirrezabala,13,Portero,Athletic Club,8,0,0,6,13,0,0
-Unai Simon,1,Portero,Athletic Club,8,0,0,37,70,2,0
-Alex Padilla,27,Portero,Athletic Club,8,0,0,0,0,0,0
-Aitor Paredes,4,Defensa,Athletic Club,8,0,0,0,0,3,0
-Ander Capa,21,Defensa,Athletic Club,8,0,0,0,0,1,0
-Dani Vivian,3,Defensa,Athletic Club,8,1,0,0,0,8,1
-Hugo Rincon,32,Defensa,Athletic Club,8,0,0,0,0,0,0
-Mikel Balenziaga,24,Defensa,Athletic Club,8,0,0,0,0,0,0
-Peru Nolaskoain,23,Defensa,Athletic Club,8,0,0,0,0,0,0
-Yeray Alvarez,5,Defensa,Athletic Club,8,1,1,0,0,7,1
-Yuri Berchiche,17,Defensa,Athletic Club,8,1,1,0,0,6,1
-Alex Petxa,-,Defensa,Athletic Club,8,0,0,0,0,0,0
-Inigo Lekue,15,Defensa,Athletic Club,8,0,1,0,0,0,0
-Inigo Martinez,4,Defensa,Athletic Club,8,1,0,0,0,1,0
-Oscar De Marcos,18,Defensa,Athletic Club,8,1,6,0,0,7,0
-Benat Prados,32,Desconocido,Athletic Club,8,0,0,0,0,0,0
-Dani Garcia,14,Mediocentro,Athletic Club,8,0,2,0,0,6,0
-Inigo Cordoba,25,Mediocentro,Athletic Club,8,0,0,0,0,0,0
-Junior Bita,33,Mediocentro,Athletic Club,8,0,0,0,0,0,0
-Mikel Vesga,6,Mediocentro,Athletic Club,8,3,3,0,0,5,0
-Oier Zarraga,19,Mediocentro,Athletic Club,8,0,0,0,0,5,0
-Oihan Sancet,8,Mediocentro,Athletic Club,8,10,2,0,0,6,1
-Raul Garcia,22,Mediocentro,Athletic Club,8,2,3,0,0,4,0
-Unai Gomez,30,Mediocentro,Athletic Club,8,0,0,0,0,0,0
-Unai Vencedor,16,Desconocido,Athletic Club,8,0,0,0,0,2,0
-Alex Berenguer,7,Delantero,Athletic Club,8,4,1,0,0,2,0
-Asier Villalibre,20,Delantero,Athletic Club,8,0,0,0,0,0,0
-Gorka Guruzeta,12,Delantero,Athletic Club,8,6,1,0,0,2,0
-Iker Muniain,10,Delantero,Athletic Club,8,0,3,0,0,2,0
-Inaki Williams,9,Delantero,Athletic Club,8,10,3,0,0,2,0
-Inigo Vicente,-,Delantero,Athletic Club,8,0,0,0,0,0,0
-Juan Artola,34,Delantero,Athletic Club,8,0,0,0,0,0,0
-Luis Bilbao,28,Delantero,Athletic Club,8,0,0,0,0,0,0
-Malcom Adu,29,Delantero,Athletic Club,8,0,0,0,0,0,0
-Nico Serrano,-,Delantero,Athletic Club,8,0,0,0,0,0,0
-Nico Williams,11,Delantero,Athletic Club,8,6,4,0,0,3,0
-Alejandro Iturbe,33,Portero,Atletico De Madrid,3,0,0,0,0,0,0
-Antonio Gomis,31,Portero,Atletico De Madrid,3,0,0,1,0,0,0
-Benjamin Lecomte,1,Portero,Atletico De Madrid,3,0,0,14,29,1,1
-Christian Gomez,31,Portero,Atletico De Madrid,3,0,0,0,0,0,0
-Ivo Grbic,1,Portero,Atletico De Madrid,3,0,0,12,36,3,0
-Jan Oblak,13,Portero,Atletico De Madrid,3,0,0,20,61,0,0
-Sergio Mestre,35,Portero,Atletico De Madrid,3,0,0,0,0,0,0
-Adrian Corral,45,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Fran Gonzalez,38,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Ibrahima Camara,47,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Ilias Kostis,27,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Joan Rojas,44,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Jose Gimenez,2,Defensa,Atletico De Madrid,3,2,1,0,0,9,0
-Manuel Lama,42,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Marco Moreno,28,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Mario Hermoso,22,Defensa,Atletico De Madrid,3,3,2,0,0,3,2
-Matt Doherty,12,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Nahuel Molina,16,Defensa,Atletico De Madrid,3,4,2,0,0,7,1
-Nehuen Perez,3,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Reinildo,23,Defensa,Atletico De Madrid,3,0,0,0,0,4,0
-Renan Lodi,12,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Sergio Camus,37,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Sergio Diez,30,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Sergio Reguilon,3,Defensa,Atletico De Madrid,3,0,0,0,0,0,1
-Sime Vrsaljko,24,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
-Stefan Savic,15,Defensa,Atletico De Madrid,3,0,0,0,0,5,2
-Axel Witsel,20,Mediocentro,Atletico De Madrid,3,0,0,0,0,2,1
-Daniel Wass,17,Mediocentro,Atletico De Madrid,3,0,0,0,0,0,0
-Geoffrey Kondogbia,4,Mediocentro,Atletico De Madrid,3,0,2,0,0,5,0
-Hector Herrera,16,Mediocentro,Atletico De Madrid,3,0,0,0,0,0,0
-Javi Serrano,26,Mediocentro,Atletico De Madrid,3,0,0,0,0,0,0
-Koke,6,Mediocentro,Atletico De Madrid,3,0,3,0,0,4,0
-Marcos Llorente,14,Mediocentro,Atletico De Madrid,3,1,2,0,0,5,0
-Pablo Barrios,24,Mediocentro,Atletico De Madrid,3,0,1,0,0,4,0
-Rodrigo De Paul,5,Mediocentro,Atletico De Madrid,3,2,7,0,0,5,0
-Saul Niguez,8,Mediocentro,Atletico De Madrid,3,3,1,0,0,8,0
-Sergio Guerrero,40,Mediocentro,Atletico De Madrid,3,0,0,0,0,0,0
-Thomas Lemar,11,Mediocentro,Atletico De Madrid,3,1,3,0,0,0,0
-Yannick Carrasco,21,Mediocentro,Atletico De Madrid,3,7,3,0,0,2,0
-Abde Raihani,39,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
-Antoine Griezmann,8,Delantero,Atletico De Madrid,3,15,16,0,0,2,0
-Borja Garces,-,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
-Cala,36,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
-Carlos Martin,29,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
-Diego Bri,26,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
-Giuliano Simeone,27,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
-Joao Felix,18,Delantero,Atletico De Madrid,3,4,3,0,0,5,0
-Luis Suarez,9,Delantero,Atletico De Madrid,3,4,4,0,0,4,1
-Matheus Cunha,-,Delantero,Atletico De Madrid,3,0,2,0,0,2,0
-Memphis Depay,9,Delantero,Atletico De Madrid,3,5,0,0,0,1,0
-Salim El Jebari,30,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
-Victor Mollejo,26,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
-Alvaro Morata,19,Delantero,Atletico De Madrid,3,13,2,0,0,4,0
-Angel Correa,10,Delantero,Atletico De Madrid,3,9,1,0,0,2,1
-Ander Astralaga,26,Portero,Barcelona,1,0,0,0,0,0,0
-Arnau Tenas,36,Portero,Barcelona,1,0,0,0,0,1,0
-Inaki Pena,13,Portero,Barcelona,1,0,0,2,2,0,0
-Lazar Carevic,27,Portero,Barcelona,1,0,0,0,0,0,0
-Marc-Andre ter Stegen,1,Portero,Barcelona,1,0,0,18,84,0,0
-Neto,13,Portero,Barcelona,1,0,0,0,0,0,0
-Alejandro Balde,3,Defensa,Barcelona,1,1,6,0,0,4,0
-Andreas Christensen,15,Defensa,Barcelona,1,1,1,0,0,2,0
-Arnau Casas,-,Defensa,Barcelona,1,0,0,0,0,0,0
-Chadi Riad,35,Defensa,Barcelona,1,0,0,0,0,0,0
-Clement Lenglet,-,Defensa,Barcelona,1,0,0,0,0,0,0
-Dani Alves,8,Defensa,Barcelona,1,0,0,0,0,0,0
-Eric Garcia,24,Defensa,Barcelona,1,1,0,0,0,3,0
-Guillem Jaime,38,Defensa,Barcelona,1,0,0,0,0,0,0
-Hector Fort,39,Defensa,Barcelona,1,0,0,0,0,0,0
-Jordi Alba,18,Defensa,Barcelona,1,2,3,0,0,4,1
-Jules Kounde,23,Defensa,Barcelona,1,1,3,0,0,2,0
-Julian Araujo,-,Defensa,Barcelona,1,0,0,0,0,0,0
-Marcos Alonso,17,Defensa,Barcelona,1,1,0,0,0,3,0
-Mika Marmol,-,Defensa,Barcelona,1,0,0,0,0,0,0
-Ronald Araujo,4,Defensa,Barcelona,1,0,2,0,0,6,1
-Samuel Umtiti,23,Defensa,Barcelona,1,0,0,0,0,0,0
-Sergi Roberto,20,Defensa,Barcelona,1,4,1,0,0,3,0
-Sergino Dest,-,Defensa,Barcelona,1,0,0,0,0,0,0
-Alex Valle,-,Defensa,Barcelona,1,0,0,0,0,0,0
-Aleix Garrido,34,Mediocentro,Barcelona,1,0,0,0,0,0,0
-Antonio Aranda,-,Mediocentro,Barcelona,1,0,0,0,0,0,0
-Franck Kessie,19,Mediocentro,Barcelona,1,1,1,0,0,4,0
-Frenkie de Jong,21,Mediocentro,Barcelona,1,2,4,0,0,3,0
-Gavi,6,Mediocentro,Barcelona,1,2,4,0,0,10,0
-Jandro Orellana,43,Mediocentro,Barcelona,1,0,0,0,0,0,0
-Lucas de Vega,40,Mediocentro,Barcelona,1,0,0,0,0,0,0
-Marc Casado,30,Mediocentro,Barcelona,1,0,0,0,0,0,0
-Pablo Torre,32,Mediocentro,Barcelona,1,0,0,0,0,0,0
-Pau Prim,46,Mediocentro,Barcelona,1,0,0,0,0,0,0
-Pedri,8,Mediocentro,Barcelona,1,6,1,0,0,2,0
-Riqui Puig,6,Mediocentro,Barcelona,1,0,0,0,0,0,0
-Sergio Busquets,5,Mediocentro,Barcelona,1,0,4,0,0,6,1
-Angel Alarcon,29,Mediocentro,Barcelona,1,0,0,0,0,0,0
-Adama Traore,11,Delantero,Barcelona,1,0,0,0,0,0,0
-Ansu Fati,10,Delantero,Barcelona,1,7,3,0,0,3,0
-Estanis Pedrola,39,Delantero,Barcelona,1,0,0,0,0,0,0
-Fabio Blanco,-,Delantero,Barcelona,1,0,0,0,0,0,0
-Ferran Torres,7,Delantero,Barcelona,1,4,2,0,0,5,1
-Ilias Akhomach,27,Delantero,Barcelona,1,0,0,0,0,0,0
-Lamine Yamal,27,Delantero,Barcelona,1,0,0,0,0,0,0
-Marc Guiu,38,Delantero,Barcelona,1,0,0,0,0,0,0
-Ousmane Dembele,-,Delantero,Barcelona,1,5,7,0,0,4,0
-Raphinha,11,Delantero,Barcelona,1,7,7,0,0,8,0
-Rey Manaj,-,Delantero,Barcelona,1,0,0,0,0,0,0
-Robert Lewandowski,9,Delantero,Barcelona,1,23,7,0,0,2,1
-Trincao,17,Delantero,Barcelona,1,0,0,0,0,0,0
-Agustin Marchesin,1,Portero,Celta De Vigo,13,0,0,29,44,3,0
-Cesar Fernandez,41,Portero,Celta De Vigo,13,0,0,0,0,0,0
-Christian Sanchez,34,Portero,Celta De Vigo,13,0,0,0,0,0,0
-Coke Carrillo,26,Portero,Celta De Vigo,13,0,0,0,0,0,0
-Gaizka Campos,26,Portero,Celta De Vigo,13,0,0,0,0,0,0
-Ivan Villar,13,Portero,Celta De Vigo,13,0,0,24,38,0,0
-Matias Dituro,1,Portero,Celta De Vigo,13,0,0,0,0,0,0
-Ruben Blanco,13,Portero,Celta De Vigo,13,0,0,0,0,0,0
-Carlos Dominguez,28,Defensa,Celta De Vigo,13,0,0,0,0,0,0
-Fernando Medrano,36,Defensa,Celta De Vigo,13,0,0,0,0,0,0
-Hugo Mallo,2,Defensa,Celta De Vigo,13,0,1,0,0,5,1
-Javi Castro,38,Defensa,Celta De Vigo,13,0,0,0,0,0,0
-Javi Galan,17,Defensa,Celta De Vigo,13,0,3,0,0,6,0
-Javier Dominguez,39,Defensa,Celta De Vigo,13,0,0,0,0,0,0
-Jeison Murillo,24,Defensa,Celta De Vigo,13,0,0,0,0,0,0
-Joseph Aidoo,15,Defensa,Celta De Vigo,13,0,0,0,0,4,1
-Jose Fontan,5,Defensa,Celta De Vigo,13,0,0,0,0,0,0
-Kevin Vazquez,20,Defensa,Celta De Vigo,13,0,0,0,0,2,0
-Martin Conde,33,Defensa,Celta De Vigo,13,0,0,0,0,0,0
-Nestor Araujo,4,Defensa,Celta De Vigo,13,0,0,0,0,0,0
-Sergio Barcia,38,Defensa,Celta De Vigo,13,0,0,0,0,0,0
-Thomas Carrique,39,Defensa,Celta De Vigo,13,0,0,0,0,0,0
-Unai Nunez,4,Defensa,Celta De Vigo,13,0,0,0,0,8,0
-Oscar Mingueza,3,Defensa,Celta De Vigo,13,0,0,0,0,2,0
-Augusto Solari,21,Mediocentro,Celta De Vigo,13,0,1,0,0,1,0
-Damian Rodriguez,34,Mediocentro,Celta De Vigo,13,0,0,0,0,0,0
-Fran Beltran,8,Mediocentro,Celta De Vigo,13,0,2,0,0,4,0
-Franco Cervi,11,Mediocentro,Celta De Vigo,13,0,4,0,0,2,1
-Gabri Veiga,24,Mediocentro,Celta De Vigo,13,0,4,0,0,6,1
-Hugo Sotelo,30,Mediocentro,Celta De Vigo,13,0,0,0,0,0,0
-Hugo Alvarez,33,Mediocentro,Celta De Vigo,13,0,0,0,0,0,0
-Luca de la Torre,14,Mediocentro,Celta De Vigo,13,0,2,0,0,6,0
-Miguel Baeza,16,Mediocentro,Celta De Vigo,13,0,0,0,0,0,0
-Okay Yokuslu,5,Mediocentro,Celta De Vigo,13,0,0,0,0,0,0
-Orbelin Pineda,18,Mediocentro,Celta De Vigo,13,0,0,0,0,0,0
-Renato Tapia,5,Mediocentro,Celta De Vigo,13,0,0,0,0,6,1
-Williot Swedberg,19,Mediocentro,Celta De Vigo,13,0,0,0,0,1,0
-Oscar Rodriguez,5,Mediocentro,Celta De Vigo,13,0,0,0,0,6,0
-Alfon Gonzalez,32,Delantero,Celta De Vigo,13,0,0,0,0,0,0
-Carles Perez,7,Delantero,Celta De Vigo,13,0,5,0,0,4,0
-Emre Mor,7,Delantero,Celta De Vigo,13,0,0,0,0,0,0
-Fran Lopez,32,Delantero,Celta De Vigo,13,0,0,0,0,0,0
-Gabriel Fernandez,19,Delantero,Celta De Vigo,13,0,0,0,0,0,0
-Goncalo Paciencia,9,Delantero,Celta De Vigo,13,0,0,0,0,2,1
-Haris Seferovic,22,Delantero,Celta De Vigo,13,0,1,0,0,3,0
-Iago Aspas,10,Delantero,Celta De Vigo,13,0,3,0,0,4,0
-Jorgen Strand Larsen,18,Delantero,Celta De Vigo,13,0,4,0,0,4,0
-Miguel Rodriguez,29,Delantero,Celta De Vigo,13,0,1,0,0,0,0
-Nolito,9,Delantero,Celta De Vigo,13,0,0,0,0,0,0
-Pablo Duran,35,Delantero,Celta De Vigo,13,0,0,0,0,0,0
-Santi Mina,-,Delantero,Celta De Vigo,13,0,0,0,0,0,0
-Thiago Galhardo,7,Delantero,Celta De Vigo,13,0,0,0,0,0,0
-Conan Ledesma,1,Portero,Cadiz,14,0,0,48,135,2,0
-David Gil,13,Portero,Cadiz,14,0,0,5,18,0,0
-Juan Flere,26,Portero,Cadiz,14,0,0,0,0,0,0
-Nando Almodovar,34,Portero,Cadiz,14,0,0,0,0,0,0
-Victor Aznar,26,Portero,Cadiz,14,0,0,0,0,0,0
-Alfonso Espino,22,Defensa,Cadiz,14,0,4,0,0,7,0
-Carlos Akapo,15,Defensa,Cadiz,14,0,0,0,0,0,0
-Carlos Garcia,30,Defensa,Cadiz,14,0,1,0,0,0,0
-Fali,3,Defensa,Cadiz,14,0,0,0,0,6,0
-Genar Fornes,27,Defensa,Cadiz,14,0,0,0,0,0,0
-Iza Carcelen,20,Defensa,Cadiz,14,0,1,0,0,4,3
-Jorge Mere,25,Defensa,Cadiz,14,0,0,0,0,0,0
-Joseba Zaldua,2,Defensa,Cadiz,14,0,1,0,0,4,0
-Juan Cala,-,Defensa,Cadiz,14,0,0,0,0,0,0
-Lautaro Spatz,37,Defensa,Cadiz,14,0,0,0,0,0,0
-Luis Hernandez,23,Defensa,Cadiz,14,0,0,0,0,6,1
-Momo Mbaye,14,Defensa,Cadiz,14,0,0,0,0,2,0
-Raul Parra,2,Defensa,Cadiz,14,0,0,0,0,0,0
-Santiago Arzamendia,21,Defensa,Cadiz,14,0,0,0,0,0,0
-Varazdat Haroyan,5,Defensa,Cadiz,14,0,0,0,0,0,0
-Victor Chust,5,Defensa,Cadiz,14,1,0,0,0,3,0
-Awer Mabil,-,Mediocentro,Cadiz,14,0,0,0,0,0,0
-David Mayoral,-,Mediocentro,Cadiz,14,0,0,0,0,0,0
-Fede San Emeterio,24,Mediocentro,Cadiz,14,0,1,0,0,14,0
-Francisco Mwepu,41,Mediocentro,Cadiz,14,0,0,0,0,0,0
-Gonzalo Escalante,17,Mediocentro,Cadiz,14,4,1,0,0,4,0
-Ivan Alejo,11,Mediocentro,Cadiz,14,0,1,0,0,11,1
-Jens Jonsson,2,Mediocentro,Cadiz,14,0,0,0,0,0,0
-Jon Ander Garrido,-,Mediocentro,Cadiz,14,0,0,0,0,0,0
-Jose Mari Martin,6,Mediocentro,Cadiz,14,0,0,0,0,4,0
-Martin Calderon,-,Mediocentro,Cadiz,14,0,0,0,0,0,0
-Ruben Alcaraz,4,Mediocentro,Cadiz,14,3,0,0,0,10,1
-Tomas Alarcon,35,Mediocentro,Cadiz,14,0,0,0,0,0,1
-Youba Diarra,19,Mediocentro,Cadiz,14,0,0,0,0,2,0
-Alex Fernandez,8,Mediocentro,Cadiz,14,3,0,0,0,0,0
-Alvaro Bastida,28,Mediocentro,Cadiz,14,0,0,0,0,0,0
-Alvaro Jimenez,-,Mediocentro,Cadiz,14,0,0,0,0,0,0
-Anthony Lozano,9,Delantero,Cadiz,14,1,1,0,0,6,0
-Brian Ocampo,10,Delantero,Cadiz,14,1,1,0,0,2,0
-Chris Ramos,16,Delantero,Cadiz,14,1,0,0,0,0,0
-Florin Andone,17,Delantero,Cadiz,14,0,0,0,0,0,0
-Ivan Chapela,27,Delantero,Cadiz,14,0,0,0,0,0,0
-Jose Antonio de la Rosa,27,Delantero,Cadiz,14,0,1,0,0,0,0
-Mamady Diarra,29,Delantero,Cadiz,14,0,0,0,0,0,0
-Milutin Osmajic,12,Delantero,Cadiz,14,0,0,0,0,0,0
-Nano Mesa,23,Delantero,Cadiz,14,0,0,0,0,0,0
-Oussama Idrissi,11,Delantero,Cadiz,14,0,0,0,0,0,0
-Pedro Benito,35,Delantero,Cadiz,14,0,0,0,0,0,0
-Roger Marti,15,Delantero,Cadiz,14,1,1,0,0,3,0
-Ruben Sobrino,7,Delantero,Cadiz,14,3,2,0,0,11,0
-Sergi Guardiola,19,Delantero,Cadiz,14,3,0,0,0,3,0
-Theo Bongonda,10,Delantero,Cadiz,14,4,3,0,0,2,0
-Alvaro Negredo,9,Delantero,Cadiz,14,1,2,0,0,0,0
-Axel Werner,1,Portero,Elche,20,0,0,4,5,0,0
-Edgar Badia,13,Portero,Elche,20,0,0,63,139,2,0
-Jesus Lopez,28,Portero,Elche,20,0,0,0,0,0,0
-Kiko Casilla,1,Portero,Elche,20,0,0,0,0,0,0
-Lluis Andreu,28,Portero,Elche,20,0,0,0,0,0,0
-Luismi Quirant,36,Portero,Elche,20,0,0,0,0,0,0
-Antonio Barragan,19,Defensa,Elche,20,0,0,0,0,0,0
-Carlos Clerc,23,Defensa,Elche,20,0,1,0,0,5,0
-Cheikh Diamanka,32,Defensa,Elche,20,0,0,0,0,0,0
-Diego Gonzalez,4,Defensa,Elche,20,0,0,0,0,5,0
-Enzo Roco,3,Defensa,Elche,20,0,0,0,0,4,1
-Gonzalo Verdu,5,Defensa,Elche,20,1,0,0,0,0,2
-Helibelton Palacios,14,Defensa,Elche,20,0,0,0,0,7,0
-Javi Pamies,34,Defensa,Elche,20,0,0,0,0,0,0
-Josema,24,Defensa,Elche,20,0,0,0,0,0,0
-Jose Salinas,12,Defensa,Elche,20,0,0,0,0,0,0
-Jose Angel Carmona,40,Defensa,Elche,20,3,1,0,0,7,2
-Lautaro Blanco,3,Defensa,Elche,20,0,2,0,0,2,0
-Lilian de Palmas,31,Defensa,Elche,20,0,0,0,0,0,0
-Lisandro Magallan,7,Defensa,Elche,20,0,0,0,0,0,1
-Lucas Olaza,12,Defensa,Elche,20,0,1,0,0,3,0
-Nicolas Fernandez Mercau,22,Defensa,Elche,20,0,1,0,0,2,0
-Pedro Bigas,6,Defensa,Elche,20,0,0,0,0,3,2
-Pol Lirola,24,Defensa,Elche,20,1,0,0,0,0,0
-Sergio Bono,30,Defensa,Elche,20,0,0,0,0,0,0
-Alejandro Alfaro,32,Mediocentro,Elche,20,0,0,0,0,0,0
-Branislav Knezevic,29,Mediocentro,Elche,20,0,0,0,0,0,0
-Fidel,16,Mediocentro,Elche,20,3,2,0,0,6,0
-Gerard Gumbau,20,Mediocentro,Elche,20,1,6,0,0,11,0
-John Donald,5,Mediocentro,Elche,20,0,0,0,0,3,0
-Jony Alamo,33,Mediocentro,Elche,20,0,0,0,0,0,0
-Josan,17,Mediocentro,Elche,20,1,3,0,0,3,0
-Kike Perez,24,Mediocentro,Elche,20,1,2,0,0,9,0
-Manuel Cocca,33,Mediocentro,Elche,20,0,0,0,0,0,0
-Omar Mascarell,21,Mediocentro,Elche,20,0,1,0,0,6,0
-Pape Cheikh,12,Mediocentro,Elche,20,0,0,0,0,0,1
-Randy Nteka,18,Mediocentro,Elche,20,0,0,0,0,0,1
-Raul Guti,8,Mediocentro,Elche,20,0,0,0,0,0,0
-Rodrigo Mendoza,30,Mediocentro,Elche,20,0,0,0,0,0,0
-Tete Morente,11,Mediocentro,Elche,20,4,0,0,0,5,0
-Alex Collado,15,Mediocentro,Elche,20,1,1,0,0,0,0
-Ezequiel Ponce,19,Delantero,Elche,20,4,0,0,0,2,1
-Guido Carrillo,7,Delantero,Elche,20,0,0,0,0,0,0
-Jose Luis Friaza,34,Delantero,Elche,20,0,0,0,0,0,0
-Lucas Boye,9,Delantero,Elche,20,7,2,0,0,7,1
-Manu Justo,-,Delantero,Elche,20,0,0,0,0,0,0
-Mourad,19,Delantero,Elche,20,0,0,0,0,0,0
-Pere Milla,10,Delantero,Elche,20,6,1,0,0,7,0
-Angel Higuera,-,Delantero,Elche,20,0,0,0,0,0,0
-Fernando Pacheco,13,Portero,Espanyol,19,0,0,35,59,0,0
-Joan Garcia,1,Portero,Espanyol,19,0,0,3,1,0,0
-Oier Olazabal,1,Portero,Espanyol,19,0,0,0,0,0,0
-Alvaro Fernandez,25,Portero,Espanyol,19,0,0,18,34,1,0
-Angel Fortuno,33,Portero,Espanyol,19,0,0,0,0,0,0
-Adria Pedrosa,3,Defensa,Espanyol,19,0,0,0,0,0,0
-Aleix Gorjon,27,Defensa,Espanyol,19,0,0,0,0,0,0
-Aleix Vidal,22,Defensa,Espanyol,19,0,3,0,0,8,1
-Alejandro,35,Defensa,Espanyol,19,0,0,0,0,0,0
-Brian Olivan,14,Defensa,Espanyol,19,1,7,0,0,7,0
-Cesar Montes,23,Defensa,Espanyol,19,3,0,0,0,7,0
-Didac Vila,17,Defensa,Espanyol,19,0,0,0,0,0,0
-Fernando Calero,5,Defensa,Espanyol,19,0,1,0,0,6,0
-Joan Puig,26,Defensa,Espanyol,19,0,0,0,0,0,0
-Leandro Cabrera,6,Defensa,Espanyol,19,0,1,0,0,8,2
-Lluis Recasens,31,Defensa,Espanyol,19,0,0,0,0,0,0
-Miguel Llambrich,4,Defensa,Espanyol,19,0,0,0,0,0,0
-Omar El Hilali,31,Defensa,Espanyol,19,0,0,0,0,1,0
-Ronael Pierre-Gabriel,18,Defensa,Espanyol,19,1,0,0,0,0,1
-Ruben Sanchez,27,Defensa,Espanyol,19,0,2,0,0,1,0
-Sergi Gomez,3,Defensa,Espanyol,19,0,0,0,0,0,2
-Simo,28,Defensa,Espanyol,19,0,0,0,0,0,0
-Oscar Gil,2,Defensa,Espanyol,19,0,1,0,0,14,0
-Daniel Villahermosa,31,Mediocentro,Espanyol,19,0,0,0,0,0,0
-Denis Suarez,6,Mediocentro,Espanyol,19,0,0,0,0,2,0
-Edu Exposito,20,Mediocentro,Espanyol,19,2,2,0,0,3,1
-Fran Merida,8,Mediocentro,Espanyol,19,0,0,0,0,0,0
-Gori,32,Mediocentro,Espanyol,19,0,0,0,0,0,0
-Jose Carlos Lazo,16,Mediocentro,Espanyol,19,1,1,0,0,0,0
-Jose Gragera,15,Mediocentro,Espanyol,19,1,0,0,0,2,0
-Keidi Bare,8,Mediocentro,Espanyol,19,0,1,0,0,0,0
-Luca Koleosho,30,Mediocentro,Espanyol,19,1,0,0,0,0,0
-Nico Melamed,21,Mediocentro,Espanyol,19,1,2,0,0,4,0
-Pol Lozano,10,Mediocentro,Espanyol,19,0,0,0,0,0,0
-Roger Martinez,27,Mediocentro,Espanyol,19,0,0,0,0,0,0
-Sergi Darder,10,Mediocentro,Espanyol,19,6,3,0,0,4,0
-Tonny Vilhena,-,Mediocentro,Espanyol,19,0,0,0,0,0,0
-Vinicius Souza,12,Mediocentro,Espanyol,19,1,1,0,0,8,1
-Alvaro Vadillo,19,Mediocentro,Espanyol,19,0,0,0,0,0,0
-Oscar Melendo,14,Mediocentro,Espanyol,19,0,0,0,0,0,0
-Dani Gomez,19,Delantero,Espanyol,19,0,0,0,0,0,0
-Javi Puado,7,Delantero,Espanyol,19,7,2,0,0,4,0
-Jofre Carreras,29,Delantero,Espanyol,19,0,0,0,0,0,0
-Joselu,9,Delantero,Espanyol,19,16,2,0,0,3,0
-Juan Camilo Becerra,-,Delantero,Espanyol,19,0,0,0,0,0,0
-Kenneth Soler,33,Delantero,Espanyol,19,0,0,0,0,0,0
-Landry Dimata,9,Delantero,Espanyol,19,0,0,0,0,0,0
-Loren Moron,16,Delantero,Espanyol,19,0,0,0,0,1,0
-Luka Koleosho,30,Delantero,Espanyol,19,0,0,0,0,0,0
-Martin Braithwaite,22,Delantero,Espanyol,19,10,2,0,0,5,1
-Max Svensson,26,Delantero,Espanyol,19,0,0,0,0,0,0
-Nabili Zoubdi Touaizi,30,Delantero,Espanyol,19,0,0,0,0,0,0
-Wu Lei,7,Delantero,Espanyol,19,0,0,0,0,0,0
-David Soria,13,Portero,Getafe,15,0,0,45,124,3,0
-Diego Conde,27,Portero,Getafe,15,0,0,0,0,0,0
-Ruben Yanez,1,Portero,Getafe,15,0,0,0,0,0,0
-Vicente Bellmunt Garcia,33,Portero,Getafe,15,0,0,0,0,0,0
-Chema Rodriguez,6,Defensa,Getafe,15,0,0,0,0,0,0
-Chinchu,-,Defensa,Getafe,15,0,0,0,0,0,0
-Damian Suarez,22,Defensa,Getafe,15,0,1,0,0,7,0
-Djene Dakonam,2,Defensa,Getafe,15,0,1,0,0,10,1
-Domingos Duarte,6,Defensa,Getafe,15,0,2,0,0,9,1
-Erick Cabaco,3,Defensa,Getafe,15,0,0,0,0,0,0
-Fabrizio Angileri,3,Defensa,Getafe,15,0,0,0,0,0,1
-Gaston Alvarez,4,Defensa,Getafe,15,0,0,0,0,8,1
-Gorka Rivera,27,Defensa,Getafe,15,0,0,0,0,0,0
-Ignasi Miquel,5,Defensa,Getafe,15,0,0,0,0,0,0
-Jonathan Silva,14,Defensa,Getafe,15,0,0,0,0,0,0
-Jordan Amavi,12,Defensa,Getafe,15,0,0,0,0,0,1
-Jorge Cuenca,15,Defensa,Getafe,15,0,0,0,0,0,0
-Juan Iglesias,21,Defensa,Getafe,15,0,0,0,0,8,0
-Koffi,26,Defensa,Getafe,15,0,0,0,0,0,0
-Mathias Olivera,17,Defensa,Getafe,15,0,0,0,0,0,0
-Omar Alderete,15,Defensa,Getafe,15,1,1,0,0,9,0
-Pablo Ramirez,36,Defensa,Getafe,15,0,0,0,0,0,0
-Stefan Mitrovic,23,Defensa,Getafe,15,0,0,0,0,4,0
-Alex Revuelta,31,Defensa,Getafe,15,0,0,0,0,0,0
-Alex Rodriguez,32,Defensa,Getafe,15,0,0,0,0,0,0
-Alvaro Lopez,37,Defensa,Getafe,15,0,0,0,0,0,0
-Antonio Vera Carrillo,36,Mediocentro,Getafe,15,0,0,0,0,0,0
-Carles Alena,11,Mediocentro,Getafe,15,0,2,0,0,10,1
-Florentino,5,Mediocentro,Getafe,15,0,0,0,0,0,0
-Gonzalo Villar,24,Mediocentro,Getafe,15,0,0,0,0,5,0
-Jaime Seoane,8,Mediocentro,Getafe,15,0,0,0,0,0,0
-Jakub Jankto,16,Mediocentro,Getafe,15,0,0,0,0,0,0
-John Patrick,26,Mediocentro,Getafe,15,0,0,0,0,0,0
-Luis Milla,5,Mediocentro,Getafe,15,0,3,0,0,4,1
-Mauro Arambarri,8,Mediocentro,Getafe,15,0,1,0,0,3,1
-Moi Parra,30,Mediocentro,Getafe,15,0,0,0,0,0,0
-Nemanja Maksimovic,20,Mediocentro,Getafe,15,0,0,0,0,3,0
-Pablo Montero,32,Mediocentro,Getafe,15,0,0,0,0,0,0
-Sabit Abdulai,-,Mediocentro,Getafe,15,0,0,0,0,0,0
-Santiago Garcia,28,Mediocentro,Getafe,15,0,0,0,0,0,0
-Vitolo,8,Mediocentro,Getafe,15,0,0,0,0,0,0
-Angel Algobia,16,Mediocentro,Getafe,15,0,0,0,0,3,0
-Borja Mayoral,19,Delantero,Getafe,15,0,2,0,0,4,0
-Dario Poveda,19,Delantero,Getafe,15,0,0,0,0,0,0
-Enes Unal,10,Delantero,Getafe,15,0,3,0,0,6,0
-Jack Harper,-,Delantero,Getafe,15,0,0,0,0,0,0
-Jaime Mata,7,Delantero,Getafe,15,0,1,0,0,5,0
-Juanmi Latasa,14,Delantero,Getafe,15,0,0,0,0,2,0
-Munir El Haddadi,17,Delantero,Getafe,15,0,1,0,0,4,0
-Portu,9,Delantero,Getafe,15,0,3,0,0,5,1
-Sandro Ramirez,12,Delantero,Getafe,15,0,0,0,0,0,0
-Adria Ortola,13,Portero,Girona,10,0,0,0,0,0,0
-Jonathan Morilla,30,Portero,Girona,10,0,0,0,0,0,0
-Juan Carlos,1,Portero,Girona,10,0,0,18,26,0,0
-Lluc Matas,30,Portero,Girona,10,0,0,0,0,0,0
-Paulo Gazzaniga,13,Portero,Girona,10,0,0,37,93,4,0
-Toni Fuidias,26,Portero,Girona,10,0,0,0,0,0,0
-Alexander Callens,12,Defensa,Girona,10,0,0,0,0,0,0
-Arnau Martinez,4,Defensa,Girona,10,3,4,0,0,11,0
-Bernardo Espinosa,2,Defensa,Girona,10,1,1,0,0,5,0
-Biel Farres,34,Defensa,Girona,10,0,0,0,0,0,0
-David Junca,17,Defensa,Girona,10,0,0,0,0,0,0
-David Lopez,5,Defensa,Girona,10,3,1,0,0,5,0
-Javi Hernandez,16,Defensa,Girona,10,1,2,0,0,3,0
-Jordi Calavera,23,Defensa,Girona,10,0,0,0,0,0,0
-Juanpe,15,Defensa,Girona,10,1,0,0,0,3,0
-Loic Williams,33,Defensa,Girona,10,0,0,0,0,0,0
-Miguel Gutierrez,3,Defensa,Girona,10,2,3,0,0,6,0
-Santiago Bueno,22,Defensa,Girona,10,0,1,0,0,5,1
-Valery Fernandez,11,Defensa,Girona,10,0,2,0,0,1,0
-Yan Couto,20,Defensa,Girona,10,1,2,0,0,3,0
-Aleix Garcia,14,Mediocentro,Girona,10,1,5,0,0,0,0
-Alex Sala,34,Mediocentro,Girona,10,0,0,0,0,0,0
-Borja Garcia,10,Mediocentro,Girona,10,1,0,0,0,1,0
-Dario Sarmiento,9,Mediocentro,Girona,10,0,0,0,0,0,0
-Ibrahima Kebe,6,Mediocentro,Girona,10,0,0,0,0,0,0
-Ivan Martin,23,Mediocentro,Girona,10,3,3,0,0,2,0
-Jairo Izquierdo,3,Mediocentro,Girona,10,0,0,0,0,0,0
-Joel Roca,33,Mediocentro,Girona,10,0,0,0,0,0,0
-Oriol Romeu,18,Mediocentro,Girona,10,2,0,0,0,8,1
-Oscar Urena,32,Mediocentro,Girona,10,0,0,0,0,0,0
-Pau Victor,35,Mediocentro,Girona,10,0,0,0,0,0,0
-Reinier,19,Mediocentro,Girona,10,2,1,0,0,1,1
-Ricard Artero,36,Mediocentro,Girona,10,0,0,0,0,0,0
-Rodrigo Riquelme,17,Mediocentro,Girona,10,4,4,0,0,0,0
-Suleiman Camara,43,Mediocentro,Girona,10,0,0,0,0,0,0
-Toni Villa,19,Mediocentro,Girona,10,1,3,0,0,2,0
-Unai Hernandez,45,Mediocentro,Girona,10,0,0,0,0,0,0
-Victor Sanchez,4,Mediocentro,Girona,10,0,0,0,0,0,0
-Yangel Herrera,21,Mediocentro,Girona,10,2,2,0,0,4,0
-Alex Baena,8,Mediocentro,Girona,10,6,2,0,0,11,1
-Arnau Ortiz,29,Delantero,Girona,10,0,0,0,0,0,0
-Cristhian Stuani,7,Delantero,Girona,10,9,0,0,0,8,0
-Dawda Camara,37,Delantero,Girona,10,0,0,0,0,0,0
-Gabri Martinez,27,Delantero,Girona,10,0,0,0,0,0,0
-Ilyas Chaira,-,Delantero,Girona,10,0,0,0,0,0,0
-Manu Vallejo,24,Delantero,Girona,10,0,1,0,0,0,0
-Nahuel Bustos,19,Delantero,Girona,10,0,0,0,0,0,0
-Pablo Moreno,16,Delantero,Girona,10,0,0,0,0,0,0
-Valentin Castellanos,9,Delantero,Girona,10,13,0,0,0,11,0
-Viktor Tsygankov,8,Delantero,Girona,10,3,6,0,0,0,0
-Dominik Greif,13,Portero,Mallorca,9,0,0,3,5,0,0
-Ferran Quetglas,30,Portero,Mallorca,9,0,0,0,0,0,0
-Leo Roman,31,Portero,Mallorca,9,0,0,0,4,0,0
-Manolo Reina,1,Portero,Mallorca,9,0,0,0,0,0,0
-Pere Garcia,31,Portero,Mallorca,9,0,0,0,0,0,0
-Predrag Rajkovic,1,Portero,Mallorca,9,0,0,40,94,3,0
-Sergio Rico,25,Portero,Mallorca,9,0,0,0,0,0,0
-Aleksandar Sedlar,20,Defensa,Mallorca,9,0,0,0,0,0,0
-Antonio Raillo,21,Defensa,Mallorca,9,2,0,0,0,11,0
-Benjamin Garay,44,Defensa,Mallorca,9,0,0,0,0,0,0
-Copete,6,Defensa,Mallorca,9,1,0,0,0,7,0
-Dennis Hadzikadunic,5,Defensa,Mallorca,9,0,0,0,0,1,0
-Giovanni Gonzalez,20,Defensa,Mallorca,9,0,0,0,0,5,0
-Jaume Costa,11,Defensa,Mallorca,9,0,0,0,0,11,0
-Josep Gaya,-,Defensa,Mallorca,9,0,0,0,0,0,0
-Ludwig Augustinsson,3,Defensa,Mallorca,9,0,0,0,0,0,0
-Marc Carmona,28,Defensa,Mallorca,9,0,0,0,0,0,0
-Marcos Fernandez,42,Defensa,Mallorca,9,0,0,0,0,0,0
-Martin Valjent,24,Defensa,Mallorca,9,0,0,0,0,8,0
-Matija Nastasic,2,Defensa,Mallorca,9,1,0,0,0,3,0
-Miguelito,29,Defensa,Mallorca,9,0,0,0,0,0,0
-Pablo Maffeo,15,Defensa,Mallorca,9,2,0,0,0,6,0
-Aleix Febas,6,Mediocentro,Mallorca,9,0,0,0,0,0,0
-Antonio Sanchez,18,Mediocentro,Mallorca,9,0,0,0,0,5,0
-Clement Grenier,22,Mediocentro,Mallorca,9,0,0,0,0,7,0
-Dani Rodriguez,14,Mediocentro,Mallorca,9,3,0,0,0,8,0
-Iddrisu Baba,12,Mediocentro,Mallorca,9,0,0,0,0,5,0
-Lee Kang-In,19,Mediocentro,Mallorca,9,6,0,0,0,10,0
-Luis Montiel,43,Mediocentro,Mallorca,9,0,0,0,0,0,0
-Manu Morlanes,11,Mediocentro,Mallorca,9,1,0,0,0,3,0
-Miguel Llabres,-,Mediocentro,Mallorca,9,0,0,0,0,0,0
-Ruben Quintanilla,26,Mediocentro,Mallorca,9,0,0,0,0,0,0
-Salva Sevilla,8,Mediocentro,Mallorca,9,0,0,0,0,0,0
-Thomas Giaquinto,32,Mediocentro,Mallorca,9,0,0,0,0,0,0
-Inigo Ruiz de Galarreta,4,Mediocentro,Mallorca,9,0,0,0,0,12,0
-Abdon Prats,9,Delantero,Mallorca,9,1,0,0,0,0,0
-Amath Ndiaye,23,Delantero,Mallorca,9,2,0,0,0,2,0
-Fer Nino,26,Delantero,Mallorca,9,0,0,0,0,0,0
-Javi Llabres,19,Delantero,Mallorca,9,0,0,0,0,0,0
-Jordi Mboula,-,Delantero,Mallorca,9,0,0,0,0,0,0
-Matthew Hoppe,11,Delantero,Mallorca,9,0,0,0,0,0,0
-Pablo Galvez,27,Delantero,Mallorca,9,0,0,0,0,0,0
-Tino Kadewere,17,Delantero,Mallorca,9,1,0,0,0,1,0
-Tofol Montiel,43,Delantero,Mallorca,9,0,0,0,0,0,0
-Vedat Muriqi,7,Delantero,Mallorca,9,15,0,0,0,6,0
-Angel Rodriguez,22,Delantero,Mallorca,9,1,0,0,0,0,0
-Aitor Fernandez,13,Portero,Osasuna,7,0,0,19,59,1,0
-Dario Ramos,39,Portero,Osasuna,7,0,0,0,0,0,0
-Pablo Valencia,31,Portero,Osasuna,7,0,0,0,0,0,0
-Sergio Herrera,1,Portero,Osasuna,7,0,0,23,49,3,0
-Yoel Ramirez,42,Portero,Osasuna,7,0,0,0,0,0,0
-Aridane Hernandez,23,Defensa,Osasuna,7,0,1,0,0,1,0
-Cote,16,Defensa,Osasuna,7,0,0,0,0,0,0
-David Garcia,5,Defensa,Osasuna,7,2,0,0,0,8,1
-Diego Moreno,35,Defensa,Osasuna,7,0,0,0,0,0,0
-Jesus Areso,12,Defensa,Osasuna,7,0,0,0,0,0,0
-Jonas Ramalho,15,Defensa,Osasuna,7,0,0,0,0,0,0
-Jorge Herrando,28,Defensa,Osasuna,7,0,0,0,0,0,1
-Juan Cruz Alvaro,3,Defensa,Osasuna,7,0,0,0,0,7,0
-Manu Sanchez,20,Defensa,Osasuna,7,0,2,0,0,3,0
-Nacho Vidal,2,Defensa,Osasuna,7,0,0,0,0,4,0
-Oier Sanjurjo,6,Defensa,Osasuna,7,0,0,0,0,0,0
-Ruben Pena,15,Defensa,Osasuna,7,0,1,0,0,2,1
-Unai Dufur,31,Defensa,Osasuna,7,0,0,0,0,0,0
-Unai Garcia,4,Defensa,Osasuna,7,0,1,0,0,6,1
-Aimar Oroz,10,Mediocentro,Osasuna,7,3,6,0,0,6,0
-Darko Brasanac,8,Mediocentro,Osasuna,7,1,1,0,0,5,0
-Iker Munoz,34,Mediocentro,Osasuna,7,0,0,0,0,0,0
-Inigo Perez,21,Mediocentro,Osasuna,7,0,0,0,0,0,0
-Jon Moncayola,7,Mediocentro,Osasuna,7,1,3,0,0,6,0
-Lucas Torro,6,Mediocentro,Osasuna,7,1,0,0,0,9,0
-Moi Gomez,16,Mediocentro,Osasuna,7,3,2,0,0,5,0
-Pablo Ibanez,19,Mediocentro,Osasuna,7,0,1,0,0,0,0
-Pau Martinez,37,Mediocentro,Osasuna,7,0,0,0,0,0,0
-Rober Ibanez,22,Mediocentro,Osasuna,7,0,0,0,0,0,0
-Ruben Garcia,14,Mediocentro,Osasuna,7,2,2,0,0,2,0
-Abde Ezzalzouli,12,Delantero,Osasuna,7,4,2,0,0,2,2
-Ante Budimir,17,Delantero,Osasuna,7,8,0,0,0,5,0
-Chimy Avila,9,Delantero,Osasuna,7,8,2,0,0,6,1
-Iker Benito,33,Delantero,Osasuna,7,0,0,0,0,0,0
-Kike Barja,11,Delantero,Osasuna,7,1,6,0,0,1,0
-Kike Garcia,18,Delantero,Osasuna,7,2,0,0,0,5,0
-Marc Cardona,-,Delantero,Osasuna,7,0,0,0,0,0,0
-Adrian Quintela,30,Portero,Rayo Vallecano,11,0,0,0,0,0,0
-Diego Lopez,13,Portero,Rayo Vallecano,11,0,0,4,1,0,0
-Luca Zidane,1,Portero,Rayo Vallecano,11,0,0,0,0,0,0
-Miguel Angel Morro,30,Portero,Rayo Vallecano,11,0,0,0,0,0,0
-Stole Dimitrievski,1,Portero,Rayo Vallecano,11,0,0,49,95,4,0
-Abdul Mumin,16,Defensa,Rayo Vallecano,11,0,0,0,0,2,0
-Alejandro Catena,5,Defensa,Rayo Vallecano,11,1,0,0,0,12,1
-Esteban Saveljich,24,Defensa,Rayo Vallecano,11,0,0,0,0,1,0
-Florian Lejeune,19,Defensa,Rayo Vallecano,11,4,0,0,0,4,3
-Fran Garcia,3,Defensa,Rayo Vallecano,11,2,0,0,0,0,0
-Iker Recio,27,Defensa,Rayo Vallecano,11,0,0,0,0,0,0
-Ivan Balliu,20,Defensa,Rayo Vallecano,11,0,0,0,0,6,0
-Jorge Moreno,27,Defensa,Rayo Vallecano,11,0,0,0,0,0,0
-Mario Hernandez,2,Defensa,Rayo Vallecano,11,0,0,0,0,1,0
-Mario Suarez,4,Defensa,Rayo Vallecano,11,0,0,0,0,0,1
-Martin Pascual,4,Defensa,Rayo Vallecano,11,0,0,0,0,0,0
-Nikola Maras,2,Defensa,Rayo Vallecano,11,0,0,0,0,0,0
-Pep Chavarria,3,Defensa,Rayo Vallecano,11,0,0,0,0,0,0
-Sergio Gimeno,26,Defensa,Rayo Vallecano,11,0,0,0,0,0,0
-Diego Mendez,29,Mediocentro,Rayo Vallecano,11,0,0,0,0,0,0
-Isi Palazon,7,Mediocentro,Rayo Vallecano,11,9,0,0,0,4,0
-Joni Montiel,15,Mediocentro,Rayo Vallecano,11,0,0,0,0,0,0
-Jose Pozo,6,Mediocentro,Rayo Vallecano,11,0,0,0,0,0,0
-Manuel Navarro,31,Mediocentro,Rayo Vallecano,11,0,0,0,0,0,0
-Pablo Munoz,28,Mediocentro,Rayo Vallecano,11,0,0,0,0,0,0
-Pathe Ciss,21,Mediocentro,Rayo Vallecano,11,1,0,0,0,4,0
-Salvi Sanchez,19,Mediocentro,Rayo Vallecano,11,0,0,0,0,2,0
-Santi Comesana,6,Mediocentro,Rayo Vallecano,11,3,0,0,0,6,0
-Unai Lopez,17,Mediocentro,Rayo Vallecano,11,1,0,0,0,2,0
-Alvaro Garcia,18,Mediocentro,Rayo Vallecano,11,5,5,0,0,7,0
-Oscar Trejo,8,Mediocentro,Rayo Vallecano,11,3,0,0,0,9,0
-Oscar Valentin,23,Mediocentro,Rayo Vallecano,11,0,0,0,0,11,0
-Alejandro Asensio,34,Delantero,Rayo Vallecano,11,0,0,0,0,0,0
-Andres Martin,-,Delantero,Rayo Vallecano,11,0,0,0,0,1,0
-Bebe,10,Delantero,Rayo Vallecano,11,0,0,0,0,1,0
-Mamadou Sylla,11,Delantero,Rayo Vallecano,11,0,0,0,0,0,0
-Martin Merquelanz,17,Delantero,Rayo Vallecano,11,0,0,0,0,0,0
-Radamel Falcao,9,Delantero,Rayo Vallecano,11,2,0,0,0,4,0
-Raul de Tomas,22,Delantero,Rayo Vallecano,11,4,0,0,0,2,0
-Sergio Camello,34,Delantero,Rayo Vallecano,11,6,0,0,0,1,0
-Sergio Moreno,-,Delantero,Rayo Vallecano,11,0,0,0,0,0,0
-Alvaro Aguirre,28,Delantero,Rayo Vallecano,11,0,0,0,0,0,0
-Claudio Bravo,1,Portero,Real Betis,6,0,0,9,35,2,0
-Dani Martin,25,Portero,Real Betis,6,0,0,0,0,0,0
-Dani Rebollo,30,Portero,Real Betis,6,0,0,0,0,0,0
-Fran Vieites,30,Portero,Real Betis,6,0,0,0,0,0,0
-German Garcia,50,Portero,Real Betis,6,0,0,0,0,0,0
-Joel Robles,1,Portero,Real Betis,6,0,0,0,0,0,0
-Rui Silva,13,Portero,Real Betis,6,0,0,32,73,2,0
-Abner,20,Defensa,Real Betis,6,0,0,0,0,2,0
-Aitor Ruibal,24,Defensa,Real Betis,6,0,0,0,0,4,1
-Edgar Gonzalez,3,Defensa,Real Betis,6,0,0,0,0,4,2
-Fran Delgado,32,Defensa,Real Betis,6,0,0,0,0,0,0
-Felix Garreta,35,Defensa,Real Betis,6,0,0,0,0,0,0
-German Pezzella,6,Defensa,Real Betis,6,0,0,0,0,4,3
-Hector Bellerin,19,Defensa,Real Betis,6,0,0,0,0,0,0
-Juan Miranda,3,Defensa,Real Betis,6,3,2,0,0,0,1
-Kike Hermoso,37,Defensa,Real Betis,6,0,0,0,0,0,0
-Luiz Felipe,19,Defensa,Real Betis,6,0,0,0,0,3,3
-Marc Baro,36,Defensa,Real Betis,6,0,0,0,0,0,0
-Martin Montoya,2,Defensa,Real Betis,6,0,0,0,0,1,0
-Ricardo Visus,34,Defensa,Real Betis,6,0,0,0,0,0,0
-Victor Ruiz,6,Defensa,Real Betis,6,0,0,0,0,0,0
-Youssouf Sabaly,23,Defensa,Real Betis,6,1,1,0,0,2,0
-Andres Guardado,18,Mediocentro,Real Betis,6,1,1,0,0,7,0
-Dani Perez,37,Mediocentro,Real Betis,6,0,0,0,0,0,0
-Diego Lainez,20,Mediocentro,Real Betis,6,0,0,0,0,0,0
-Enrique Fernandez,40,Mediocentro,Real Betis,6,0,0,0,0,0,0
-Guido Rodriguez,5,Mediocentro,Real Betis,6,1,0,0,0,8,0
-Joaquin,17,Mediocentro,Real Betis,6,0,2,0,0,2,0
-Jorge Wagner,17,Mediocentro,Real Betis,6,0,0,0,0,0,0
-Jose Lara,41,Mediocentro,Real Betis,6,0,0,0,0,0,0
-Juan Cruz Diaz,16,Mediocentro,Real Betis,6,1,0,0,0,0,0
-Paul Akouokou,4,Mediocentro,Real Betis,6,0,0,0,0,3,0
-Rodri,17,Mediocentro,Real Betis,6,2,3,0,0,0,0
-Sergio Canales,10,Mediocentro,Real Betis,6,4,3,0,0,2,2
-William Carvalho,14,Mediocentro,Real Betis,6,3,0,0,0,6,1
-Yassin Fekir,-,Mediocentro,Real Betis,6,0,0,0,0,0,0
-Ayoze Perez,10,Delantero,Real Betis,6,3,1,0,0,3,0
-Borja Iglesias,9,Delantero,Real Betis,6,15,3,0,0,2,1
-Cristian Tello,11,Delantero,Real Betis,6,0,0,0,0,0,0
-Juanmi,7,Delantero,Real Betis,6,4,0,0,0,3,0
-Luiz Henrique,11,Delantero,Real Betis,6,1,3,0,0,6,0
-Nabil Fekir,8,Delantero,Real Betis,6,2,2,0,0,5,1
-Rober,27,Delantero,Real Betis,6,0,0,0,0,0,0
-Willian Jose,12,Delantero,Real Betis,6,2,1,0,0,0,0
-Andriy Lunin,13,Portero,Real Madrid,2,0,0,7,12,0,0
-Diego Altube,26,Portero,Real Madrid,2,0,0,0,0,0,0
-Diego Pineiro,26,Portero,Real Madrid,2,0,0,0,0,0,0
-Lucas Canizares,31,Portero,Real Madrid,2,0,0,0,0,0,0
-Luis Lopez,26,Portero,Real Madrid,2,0,0,0,0,0,0
-Mario de Luis,43,Portero,Real Madrid,2,0,0,0,0,0,0
-Thibaut Courtois,1,Portero,Real Madrid,2,0,0,29,89,0,0
-Antonio Rudiger,22,Defensa,Real Madrid,2,1,0,0,0,1,0
-Dani Carvajal,2,Defensa,Real Madrid,2,0,2,0,0,6,1
-David Alaba,4,Defensa,Real Madrid,2,1,3,0,0,3,0
-Ferland Mendy,23,Defensa,Real Madrid,2,0,1,0,0,2,0
-Jesus Vallejo,25,Defensa,Real Madrid,2,0,0,0,0,0,0
-Marcelo,12,Defensa,Real Madrid,2,0,0,0,0,0,0
-Mario Gila,34,Defensa,Real Madrid,2,0,0,0,0,0,0
-Marvel,35,Defensa,Real Madrid,2,0,0,0,0,0,0
-Nacho,6,Defensa,Real Madrid,2,1,1,0,0,7,0
-Pablo Ramon,-,Defensa,Real Madrid,2,0,0,0,0,0,0
-Rafa Marin,41,Defensa,Real Madrid,2,0,0,0,0,0,0
-Sergio Santos,43,Defensa,Real Madrid,2,0,0,0,0,0,0
-Vinicius Tobias,36,Defensa,Real Madrid,2,0,0,0,0,0,0
-Alvaro Odriozola,16,Defensa,Real Madrid,2,0,0,0,0,0,0
-Eder Militao,3,Defensa,Real Madrid,2,5,0,0,0,4,0
-Antonio Blanco,27,Mediocentro,Real Madrid,2,0,0,0,0,0,0
-Aurelien Tchouameni,18,Mediocentro,Real Madrid,2,0,4,0,0,2,0
-Brahim Diaz,21,Mediocentro,Real Madrid,2,0,0,0,0,0,0
-Carlos Dotor,32,Mediocentro,Real Madrid,2,0,0,0,0,0,0
-Dani Ceballos,19,Mediocentro,Real Madrid,2,0,4,0,0,8,0
-Eduardo Camavinga,12,Mediocentro,Real Madrid,2,0,1,0,0,6,0
-Federico Valverde,15,Mediocentro,Real Madrid,2,7,4,0,0,2,0
-Isco,22,Mediocentro,Real Madrid,2,0,2,0,0,5,0
-Lucas Vazquez,17,Mediocentro,Real Madrid,2,4,1,0,0,2,0
-Luka Modric,10,Mediocentro,Real Madrid,2,4,3,0,0,7,0
-Mario Martin,28,Mediocentro,Real Madrid,2,0,0,0,0,0,0
-Nico Paz,32,Mediocentro,Real Madrid,2,0,0,0,0,0,0
-Peter,44,Mediocentro,Real Madrid,2,0,0,0,0,0,0
-Sergio Arribas,33,Mediocentro,Real Madrid,2,0,0,0,0,0,0
-Toni Kroos,8,Mediocentro,Real Madrid,2,2,4,0,0,0,1
-Eden Hazard,7,Delantero,Real Madrid,2,0,1,0,0,0,0
-Gareth Bale,18,Delantero,Real Madrid,2,0,0,0,0,0,0
-Karim Benzema,9,Delantero,Real Madrid,2,19,3,0,0,1,0
-Luka Jovic,16,Delantero,Real Madrid,2,0,0,0,0,0,0
-Marco Asensio,-,Delantero,Real Madrid,2,9,6,0,0,1,0
-Mariano Diaz,24,Delantero,Real Madrid,2,0,0,0,0,2,0
-Rodrygo,11,Delantero,Real Madrid,2,9,8,0,0,4,0
-Vinicius Junior,7,Delantero,Real Madrid,2,10,9,0,0,10,1
-Alvaro Rodriguez,29,Delantero,Real Madrid,2,1,1,0,0,0,0
-Andoni Zubiaurre,13,Portero,Real Sociedad,4,0,0,0,0,0,0
-Egoitz Arana,45,Portero,Real Sociedad,4,0,0,0,0,0,0
-Gaizka Ayesa,34,Portero,Real Sociedad,4,0,0,0,0,0,0
-Mathew Ryan,13,Portero,Real Sociedad,4,0,0,0,0,0,0
-Unai Marrero,32,Portero,Real Sociedad,4,0,0,0,0,0,0
-Alex Remiro,1,Portero,Real Sociedad,4,0,0,35,100,1,0
-Aihen Munoz,3,Defensa,Real Sociedad,4,0,1,0,0,2,0
-Andoni Gorosabel,18,Defensa,Real Sociedad,4,0,0,0,0,3,0
-Aritz Arambarri,26,Defensa,Real Sociedad,4,0,0,0,0,0,0
-Aritz Elustondo,6,Defensa,Real Sociedad,4,0,1,0,0,5,1
-Cristo Romero,42,Defensa,Real Sociedad,4,0,0,0,0,0,0
-Diego Rico,15,Defensa,Real Sociedad,4,0,0,0,0,3,0
-Jon Pacheco,20,Defensa,Real Sociedad,4,0,1,0,0,2,0
-Jonathan Gomez,28,Defensa,Real Sociedad,4,0,0,0,0,0,0
-Modibo Sagnan,17,Defensa,Real Sociedad,4,0,0,0,0,0,0
-Nacho Monreal,20,Defensa,Real Sociedad,4,0,0,0,0,0,0
-Robin Le Normand,24,Defensa,Real Sociedad,4,0,0,0,0,6,0
-Urko Gonzalez,26,Defensa,Real Sociedad,4,0,0,0,0,0,0
-Alex Sola,2,Defensa,Real Sociedad,4,0,0,0,0,0,0
-Adnan Januzaj,11,Mediocentro,Real Sociedad,4,0,0,0,0,0,0
-Ander Guevara,16,Mediocentro,Real Sociedad,4,0,0,0,0,2,0
-Asier Illarramendi,4,Mediocentro,Real Sociedad,4,1,0,0,0,5,0
-Benat Turrientes,22,Mediocentro,Real Sociedad,4,0,0,0,0,0,0
-Brais Mendez,23,Mediocentro,Real Sociedad,4,8,4,0,0,6,0
-David Silva,21,Mediocentro,Real Sociedad,4,2,5,0,0,4,0
-Igor Zubeldia,5,Mediocentro,Real Sociedad,4,1,1,0,0,10,0
-Jon Guridi,14,Mediocentro,Real Sociedad,4,0,0,0,0,0,0
-Jon Magunazelaia,28,Mediocentro,Real Sociedad,4,0,0,0,0,0,0
-Jon Olasagasti,31,Mediocentro,Real Sociedad,4,0,0,0,0,0,0
-Martin Zubimendi,4,Mediocentro,Real Sociedad,4,1,3,0,0,12,0
-Mikel Merino,8,Mediocentro,Real Sociedad,4,2,9,0,0,6,1
-Nais Djouahra,37,Mediocentro,Real Sociedad,4,0,0,0,0,0,0
-Pablo Marin,29,Mediocentro,Real Sociedad,4,0,0,0,0,0,0
-Rafinha,17,Mediocentro,Real Sociedad,4,0,0,0,0,0,0
-Robert Navarro,17,Mediocentro,Real Sociedad,4,0,0,0,0,2,0
-Takefusa Kubo,14,Mediocentro,Real Sociedad,4,9,4,0,0,3,0
-Alexander Sorloth,19,Delantero,Real Sociedad,4,12,3,0,0,4,0
-Ander Barrenetxea,7,Delantero,Real Sociedad,4,3,1,0,0,4,0
-Ander Martin,28,Delantero,Real Sociedad,4,0,0,0,0,0,0
-Carlos Fernandez,9,Delantero,Real Sociedad,4,1,0,0,0,6,0
-German Valera,41,Delantero,Real Sociedad,4,0,0,0,0,0,0
-Jon Bautista,25,Delantero,Real Sociedad,4,0,0,0,0,0,0
-Jon Karrikaburu,27,Delantero,Real Sociedad,4,0,0,0,0,0,0
-Julen Lobete,35,Delantero,Real Sociedad,4,0,0,0,0,0,0
-Mikel Oyarzabal,10,Delantero,Real Sociedad,4,4,1,0,0,1,0
-Mohamed-Ali Cho,11,Delantero,Real Sociedad,4,1,2,0,0,0,0
-Umar Sadiq,19,Delantero,Real Sociedad,4,3,0,0,0,0,0
-Jordi Masip,1,Portero,Real Valladolid,18,0,0,42,105,4,0
-Jose Antonio Caro,26,Portero,Real Valladolid,18,0,0,0,0,0,0
-Samu Casado,26,Portero,Real Valladolid,18,0,0,0,0,0,0
-Sergio Asenjo,13,Portero,Real Valladolid,18,0,0,21,31,0,0
-Yaroslav Meykher,-,Portero,Real Valladolid,18,0,0,0,0,0,0
-Alvaro Aceves,31,Portero,Real Valladolid,18,0,0,0,3,0,0
-David Torres,3,Defensa,Real Valladolid,18,0,0,0,0,1,0
-Diego Alende,30,Defensa,Real Valladolid,18,0,0,0,0,0,0
-Enrique Rios,31,Defensa,Real Valladolid,18,0,0,0,0,0,0
-Ivan Fresneda,27,Defensa,Real Valladolid,18,0,0,0,0,3,0
-Javi Sanchez,5,Defensa,Real Valladolid,18,1,0,0,0,11,0
-Jawad El Yamiq,15,Defensa,Real Valladolid,18,1,0,0,0,2,1
-Kiko Olivas,4,Defensa,Real Valladolid,18,0,0,0,0,0,0
-Lucas Rosa,22,Defensa,Real Valladolid,18,0,1,0,0,3,0
-Luis Perez,2,Defensa,Real Valladolid,18,0,1,0,0,2,0
-Nacho Martinez,22,Defensa,Real Valladolid,18,0,0,0,0,0,0
-Saidy Janko,18,Defensa,Real Valladolid,18,0,0,0,0,0,0
-Sergio Escudero,18,Defensa,Real Valladolid,18,1,0,0,0,3,0
-Victor Rofino,33,Defensa,Real Valladolid,18,0,0,0,0,0,0
-Alberto Quintana,26,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
-Anuar Tuhami,23,Mediocentro,Real Valladolid,18,1,0,0,0,0,0
-Dali,36,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
-Eugene Frimpong,37,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
-Gonzalo Plata,11,Mediocentro,Real Valladolid,18,1,5,0,0,0,0
-Ivan Sanchez,10,Mediocentro,Real Valladolid,18,1,1,0,0,0,0
-Joaquin Fernandez,24,Mediocentro,Real Valladolid,18,1,0,0,0,4,0
-Jon Morcillo,20,Mediocentro,Real Valladolid,18,0,1,0,0,0,0
-Juanjo Narvaez,20,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
-Kenedy,24,Mediocentro,Real Valladolid,18,0,1,0,0,3,0
-Mario Maroto,34,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
-Martin Hongla,20,Mediocentro,Real Valladolid,18,0,0,0,0,5,2
-Mickael Malsa,14,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
-Mikel Carro,32,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
-Moha,35,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
-Monchu,8,Mediocentro,Real Valladolid,18,3,2,0,0,10,0
-Pablo Hervias,11,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
-Roque Mesa,17,Mediocentro,Real Valladolid,18,2,1,0,0,9,1
-Selim Amallah,9,Mediocentro,Real Valladolid,18,2,1,0,0,2,1
-Sergio Ortuno,47,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
-Alvaro Aguado,6,Mediocentro,Real Valladolid,18,1,2,0,0,3,0
-Cristo Gonzalez,23,Delantero,Real Valladolid,18,0,0,0,0,0,0
-Cyle Larin,25,Delantero,Real Valladolid,18,8,3,0,0,4,0
-Darwin Machis,22,Delantero,Real Valladolid,18,0,1,0,0,1,0
-Hugo Vallejo,17,Delantero,Real Valladolid,18,0,0,0,0,0,0
-Ivan Cedric,35,Delantero,Real Valladolid,18,0,0,0,0,0,0
-Jovane Cabral,-,Delantero,Real Valladolid,18,0,0,0,0,0,0
-Manuel Pozo,44,Delantero,Real Valladolid,18,0,0,0,0,0,0
-Roberto Arroyo,30,Delantero,Real Valladolid,18,0,0,0,0,0,0
-Sekou Gassama,22,Delantero,Real Valladolid,18,0,0,0,0,0,0
-Sergio Benito,31,Delantero,Real Valladolid,18,0,0,0,0,0,0
-Sergio Leon,7,Delantero,Real Valladolid,18,6,1,0,0,0,1
-Shon Weissman,9,Delantero,Real Valladolid,18,1,0,0,0,1,0
-Slavy,42,Delantero,Real Valladolid,18,0,0,0,0,0,0
-Tunde Akinsola,36,Delantero,Real Valladolid,18,0,0,0,0,0,0
-Victor Narro,38,Delantero,Real Valladolid,18,0,0,0,0,0,0
-Oscar Plano,10,Delantero,Real Valladolid,18,1,1,0,0,3,0
-Adrian Gonzalez,40,Portero,Sevilla,12,0,0,0,0,0,0
-Alberto Flores,31,Portero,Sevilla,12,0,0,0,0,0,0
-Alfonso Pastor,-,Portero,Sevilla,12,0,0,0,0,0,0
-Javi Diaz,31,Portero,Sevilla,12,0,0,0,0,0,0
-Marius Herzig,33,Portero,Sevilla,12,0,0,0,0,0,0
-Marko Dmitrovic,1,Portero,Sevilla,12,0,0,13,44,2,0
-Matias Arbol,33,Portero,Sevilla,12,0,0,0,0,0,0
-Yassine Bounou,13,Portero,Sevilla,12,0,0,41,67,2,0
-Alex Telles,3,Defensa,Sevilla,12,0,2,0,0,6,0
-Diego Hormigo,44,Defensa,Sevilla,12,0,0,0,0,0,0
-Gonzalo Montiel,4,Defensa,Sevilla,12,0,3,0,0,8,1
-Jesus Navas,16,Defensa,Sevilla,12,0,0,0,0,5,0
-Juan Maria Alcedo,44,Defensa,Sevilla,12,0,0,0,0,0,0
-Karim Rekik,4,Defensa,Sevilla,12,1,1,0,0,2,0
-Kike Salas,27,Defensa,Sevilla,12,1,1,0,0,0,1
-Loic Bade,22,Defensa,Sevilla,12,1,0,0,0,4,0
-Lulo Dasilva,42,Defensa,Sevilla,12,0,0,0,0,0,0
-Marcos Acuna,19,Defensa,Sevilla,12,3,2,0,0,9,3
-Marcao,23,Defensa,Sevilla,12,0,0,0,0,0,0
-Pablo Perez,26,Defensa,Sevilla,12,0,0,0,0,0,0
-Tanguy Nianzou,14,Defensa,Sevilla,12,1,0,0,0,0,1
-Valentino Fattore,42,Defensa,Sevilla,12,0,0,0,0,0,0
-Antonio Zarzana,38,Mediocentro,Sevilla,12,0,0,0,0,0,0
-Carlos Alvarez,27,Mediocentro,Sevilla,12,0,0,0,0,0,0
-Fernando,20,Mediocentro,Sevilla,12,0,1,0,0,2,1
-Ivan Rakitic,10,Mediocentro,Sevilla,12,1,3,0,0,3,1
-Joan Jordan,8,Mediocentro,Sevilla,12,0,1,0,0,8,0
-Juanlu Sanchez,26,Mediocentro,Sevilla,12,0,0,0,0,0,0
-Lucas Ocampos,5,Mediocentro,Sevilla,12,4,0,0,0,7,0
-Luismi Cruz,-,Mediocentro,Sevilla,12,0,0,0,0,0,0
-Manu Bueno,28,Mediocentro,Sevilla,12,0,0,0,0,0,0
-Nacho Quintana,28,Mediocentro,Sevilla,12,0,0,0,0,0,0
-Nemanja Gudelj,6,Mediocentro,Sevilla,12,3,1,0,0,8,0
-Pape Gueye,18,Mediocentro,Sevilla,12,1,3,0,0,2,3
-Papu Gomez,24,Mediocentro,Sevilla,12,1,1,0,0,4,0
-Pedro Ortiz,32,Mediocentro,Sevilla,12,0,0,0,0,0,0
-Suso,7,Mediocentro,Sevilla,12,2,4,0,0,0,0
-Thomas Delaney,-,Mediocentro,Sevilla,12,0,0,0,0,3,0
-Xavi Sintes,45,Mediocentro,Sevilla,12,0,0,0,0,0,0
-Erik Lamela,17,Mediocentro,Sevilla,12,6,0,0,0,8,1
-Oliver Torres,21,Mediocentro,Sevilla,12,3,1,0,0,0,0
-Anthony Martial,22,Delantero,Sevilla,12,0,0,0,0,0,0
-Bryan Gil,25,Delantero,Sevilla,12,2,2,0,0,4,0
-Ivan Romero,-,Delantero,Sevilla,12,0,0,0,0,0,0
-Jesus Corona,11,Delantero,Sevilla,12,1,0,0,0,0,0
-Rafa Mir,9,Delantero,Sevilla,12,6,0,0,0,0,0
-Rony Lopes,-,Delantero,Sevilla,12,0,0,0,0,0,0
-Youssef En-Nesyri,15,Delantero,Sevilla,12,8,1,0,0,4,0
-Charlie Perez,26,Portero,Valencia Cf,16,0,0,0,0,0,0
-Cristian Rivero,13,Portero,Valencia Cf,16,0,0,0,0,0,0
-Emilio Bernad,42,Portero,Valencia Cf,16,0,0,0,0,0,0
-Giorgi Mamardashvili,25,Portero,Valencia Cf,16,0,0,45,105,3,0
-Iago Herrerin,1,Portero,Valencia Cf,16,0,0,0,0,0,0
-Jasper Cillessen,13,Portero,Valencia Cf,16,0,0,0,0,0,0
-Jaume Domenech,1,Portero,Valencia Cf,16,0,0,0,0,0,0
-Cenk Ozkacar,15,Defensa,Valencia Cf,16,0,0,0,0,0,0
-Cristhian Mosquera,3,Defensa,Valencia Cf,16,0,0,0,0,0,0
-Cesar Tarrega,29,Defensa,Valencia Cf,16,0,0,0,0,0,0
-Dimitri Foulquier,20,Defensa,Valencia Cf,16,0,2,0,0,4,0
-Eray Comert,24,Defensa,Valencia Cf,16,1,0,0,0,5,1
-Facundo Gonzalez,-,Defensa,Valencia Cf,16,0,0,0,0,0,0
-Gabriel Paulista,5,Defensa,Valencia Cf,16,1,0,0,0,2,2
-Hugo Guillamon,6,Defensa,Valencia Cf,16,1,4,0,0,5,0
-Jesus Vazquez,21,Defensa,Valencia Cf,16,0,0,0,0,1,0
-Jorge Saenz,-,Defensa,Valencia Cf,16,0,0,0,0,0,0
-Joseda,34,Defensa,Valencia Cf,16,0,0,0,0,0,0
-Jose Gaya,14,Defensa,Valencia Cf,16,1,3,0,0,4,0
-Mouctar Diakhaby,4,Defensa,Valencia Cf,16,3,0,0,0,5,1
-Ruben Iranzo,31,Defensa,Valencia Cf,16,0,0,0,0,0,0
-Thierry Correia,12,Defensa,Valencia Cf,16,0,0,0,0,6,0
-Toni Lato,3,Defensa,Valencia Cf,16,1,0,0,0,1,0
-Alessandro Burlamaqui,36,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
-Andre Almeida,10,Mediocentro,Valencia Cf,16,2,4,0,0,3,0
-Denis Cheryshev,17,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
-Fran Perez,23,Mediocentro,Valencia Cf,16,0,0,0,0,2,0
-Goncalo Guedes,7,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
-Hugo Gonzalez,30,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
-Ilaix Moriba,8,Mediocentro,Valencia Cf,16,0,2,0,0,4,2
-Javi Guerra,8,Mediocentro,Valencia Cf,16,1,0,0,0,0,0
-Koba Koindredi,18,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
-Lassina Sangare,40,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
-Mario Dominguez,43,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
-Nico Gonzalez,17,Mediocentro,Valencia Cf,16,1,1,0,0,0,0
-Pablo Gozalbez,27,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
-Pedro Aleman,26,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
-Samu Castillejo,11,Mediocentro,Valencia Cf,16,4,0,0,0,7,0
-Uros Racic,19,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
-Yellu Santiago,35,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
-Yunus Musah,4,Mediocentro,Valencia Cf,16,0,2,0,0,10,1
-Alberto Mari,22,Delantero,Valencia Cf,16,1,0,0,0,0,0
-Diego Lopez Noguerol,16,Delantero,Valencia Cf,16,3,1,0,0,0,0
-Edinson Cavani,7,Delantero,Valencia Cf,16,5,2,0,0,6,0
-Hugo Duro,9,Delantero,Valencia Cf,16,1,1,0,0,5,0
-Helder Costa,11,Delantero,Valencia Cf,16,0,0,0,0,0,0
-Justin Kluivert,9,Delantero,Valencia Cf,16,6,0,0,0,4,0
-Marcos Andre,22,Delantero,Valencia Cf,16,1,0,0,0,2,1
-Samuel Lino,16,Delantero,Valencia Cf,16,6,1,0,0,4,0
-Filip Jorgensen,13,Portero,Villarreal,5,0,0,3,3,0,0
-Gianni Cassaro,-,Portero,Villarreal,5,0,0,0,0,0,0
-Iker Alvarez,31,Portero,Villarreal,5,0,0,0,0,0,0
-Pepe Reina,1,Portero,Villarreal,5,0,1,27,61,2,0
-Adrian de la Fuente,-,Defensa,Villarreal,5,0,0,0,0,0,0
-Alberto Moreno,18,Defensa,Villarreal,5,0,1,0,0,7,0
-Aissa Mandi,23,Defensa,Villarreal,5,0,0,0,0,1,0
-Carlos Romero,37,Defensa,Villarreal,5,0,0,0,0,0,0
-Dani Tasende,3,Defensa,Villarreal,5,0,0,0,0,0,0
-Johan Mojica,12,Defensa,Villarreal,5,0,0,0,0,2,0
-Juan Foyth,8,Defensa,Villarreal,5,1,0,0,0,6,0
-Kiko Femenia,17,Defensa,Villarreal,5,0,0,0,0,0,0
-Lanchi,30,Defensa,Villarreal,5,0,0,0,0,0,0
-Mamadou Fall,33,Defensa,Villarreal,5,0,0,0,0,0,0
-Marcos Sanchez,38,Defensa,Villarreal,5,0,0,0,0,0,0
-Mario Gaspar,2,Defensa,Villarreal,5,0,0,0,0,0,0
-Pau Torres,4,Defensa,Villarreal,5,1,0,0,0,10,0
-Raul Albiol,3,Defensa,Villarreal,5,0,0,0,0,6,0
-Sergio Carreira,30,Defensa,Villarreal,5,0,0,0,0,0,0
-Serge Aurier,25,Defensa,Villarreal,5,0,0,0,0,0,0
-Alberto del Moral,26,Mediocentro,Villarreal,5,0,0,0,0,0,0
-Alfonso Pedraza,24,Mediocentro,Villarreal,5,0,3,0,0,5,0
-Carlo Garcia,28,Mediocentro,Villarreal,5,0,0,0,0,0,0
-Dani Parejo,10,Mediocentro,Villarreal,5,3,4,0,0,6,0
-Francis Coquelin,19,Mediocentro,Villarreal,5,1,0,0,0,2,0
-Giovani Lo Celso,17,Mediocentro,Villarreal,5,2,3,0,0,3,0
-Iborra,-,Mediocentro,Villarreal,5,0,0,0,0,0,0
-Javi Ontiveros,-,Mediocentro,Villarreal,5,0,0,0,0,0,0
-Manu Trigueros,14,Mediocentro,Villarreal,5,0,1,0,0,2,1
-Paulo Vitor,-,Mediocentro,Villarreal,5,0,0,0,0,0,0
-Ramon Terrats,39,Mediocentro,Villarreal,5,1,1,0,0,1,0
-Rodri Alonso,32,Mediocentro,Villarreal,5,0,0,0,0,0,0
-Yeremy Pino,21,Mediocentro,Villarreal,5,4,5,0,0,7,0
-Etienne Capoue,6,Mediocentro,Villarreal,5,3,0,0,0,4,0
-Arnaut Danjuma,-,Delantero,Villarreal,5,2,0,0,0,0,0
-Boulaye Dia,17,Delantero,Villarreal,5,0,0,0,0,0,0
-Diego Collado,43,Delantero,Villarreal,5,0,0,0,0,0,0
-Gerard Moreno,7,Delantero,Villarreal,5,7,3,0,0,3,0
-Haissem Hassan,40,Delantero,Villarreal,5,0,0,0,0,0,0
-Jorge Pascual,30,Delantero,Villarreal,5,1,0,0,0,0,0
-Jose Luis Morales,15,Delantero,Villarreal,5,7,0,0,0,2,0
-Juan Carlos Arana,42,Delantero,Villarreal,5,0,0,0,0,0,0
-Nicolas Jackson,15,Delantero,Villarreal,5,12,4,0,0,4,1
-Paco Alcacer,9,Delantero,Villarreal,5,0,0,0,0,0,0
-Samuel Chukwueze,11,Delantero,Villarreal,5,6,5,0,0,1,0
-Alex Millan,-,Delantero,Villarreal,5,0,0,0,0,0,0
+Nombre_jugador;Dorsal;Posicion;Equipo;ID_equipo;goles_marcados;asistencias;goles_recibidos;paradas;tarjetas_amarillas;tarjetas_rojas
+Diego Fuoli;25;Portero;Almeria;17;0;0;0;0;0;0
+Diego Marino;1;Portero;Almeria;17;0;0;2;3;0;0
+Fernando Martinez;13;Portero;Almeria;17;0;0;61;133;3;0
+Giorgi Makaridze;1;Portero;Almeria;17;0;0;0;0;0;0
+Aitor Bunuel;2;Defensa;Almeria;17;0;0;0;0;0;0
+Aitor Punal;35;Defensa;Almeria;17;0;0;0;0;0;0
+Arnau Sola;-;Defensa;Almeria;17;0;0;0;0;0;0
+Chumi;21;Defensa;Almeria;17;1;0;0;0;5;0
+Cuenca;29;Defensa;Almeria;17;0;0;0;0;0;0
+Daniel Carrico;23;Defensa;Almeria;17;0;0;0;0;0;0
+Houboulang Mendes;24;Defensa;Almeria;17;0;1;0;0;2;0
+Ivan Martos;-;Defensa;Almeria;17;0;0;0;0;0;0
+Jonathan;-;Defensa;Almeria;17;0;0;0;0;0;0
+Kaiky;2;Defensa;Almeria;17;0;0;0;0;5;0
+Nelson Monte;24;Defensa;Almeria;17;0;0;0;0;0;0
+Rodrigo Ely;19;Defensa;Almeria;17;0;1;0;0;8;1
+Sergio Akieme;15;Defensa;Almeria;17;1;0;0;0;5;0
+Srdjan Babic;22;Defensa;Almeria;17;3;0;0;0;5;0
+Alex Centelles;20;Defensa;Almeria;17;1;2;0;0;0;1
+Alex Pozo;17;Defensa;Almeria;17;0;3;0;0;2;0
+Arnau Puigmal;8;Mediocentro;Almeria;17;1;0;0;0;4;0
+Cristian Olivera;-;Mediocentro;Almeria;17;0;0;0;0;0;0
+Cesar de la Hoz;6;Mediocentro;Almeria;17;1;0;0;0;6;0
+Francisco Portillo;8;Mediocentro;Almeria;17;2;1;0;0;1;0
+Gonzalo Melero;11;Mediocentro;Almeria;17;4;3;0;0;5;0
+Gui;28;Mediocentro;Almeria;17;0;0;0;0;0;0
+Lucas Robertone;5;Mediocentro;Almeria;17;2;7;0;0;7;0
+Mamadou Dialla Sylla;36;Mediocentro;Almeria;17;0;0;0;0;0;0
+Marcos Pena;26;Mediocentro;Almeria;17;0;0;0;0;0;0
+Martin Svidersky;26;Mediocentro;Almeria;17;0;0;0;0;0;0
+Samu Costa;23;Mediocentro;Almeria;17;1;2;0;0;5;0
+Inigo Eguaras;16;Mediocentro;Almeria;17;1;1;0;0;6;0
+Adri Embarba;10;Delantero;Almeria;17;4;3;0;0;3;1
+Arvin Appiah;27;Delantero;Almeria;17;0;0;0;0;0;0
+Carlos Gilbert;37;Delantero;Almeria;17;0;0;0;0;0;0
+Carlos Rojas;33;Delantero;Almeria;17;0;0;0;0;0;0
+Dyego Sousa;11;Delantero;Almeria;17;0;1;0;0;0;0
+El Bilal Toure;9;Delantero;Almeria;17;7;2;0;0;0;0
+Jordi Escobar;-;Delantero;Almeria;17;0;0;0;0;0;0
+Juan Villar;7;Delantero;Almeria;17;0;0;0;0;0;0
+Largie Ramazani;7;Delantero;Almeria;17;3;1;0;0;6;0
+Luis Javier Suarez;16;Delantero;Almeria;17;4;4;0;0;4;1
+Lazaro;14;Delantero;Almeria;17;6;0;0;0;1;0
+Leo Baptistao;12;Delantero;Almeria;17;5;2;0;0;7;0
+Marciano Sanca;34;Delantero;Almeria;17;0;0;0;0;0;0
+Marezi;29;Delantero;Almeria;17;0;0;0;0;0;0
+Raul Caballero;28;Delantero;Almeria;17;0;0;0;0;0;0
+Ander Iruarrizaga;35;Portero;Athletic Club;8;0;0;0;0;0;0
+Ibon Ispizua;26;Portero;Athletic Club;8;0;0;0;0;0;0
+Jokin Ezkieta;13;Portero;Athletic Club;8;0;0;0;0;0;0
+Julen Agirrezabala;13;Portero;Athletic Club;8;0;0;6;13;0;0
+Unai Simon;1;Portero;Athletic Club;8;0;0;37;70;2;0
+Alex Padilla;27;Portero;Athletic Club;8;0;0;0;0;0;0
+Aitor Paredes;4;Defensa;Athletic Club;8;0;0;0;0;3;0
+Ander Capa;21;Defensa;Athletic Club;8;0;0;0;0;1;0
+Dani Vivian;3;Defensa;Athletic Club;8;1;0;0;0;8;1
+Hugo Rincon;32;Defensa;Athletic Club;8;0;0;0;0;0;0
+Mikel Balenziaga;24;Defensa;Athletic Club;8;0;0;0;0;0;0
+Peru Nolaskoain;23;Defensa;Athletic Club;8;0;0;0;0;0;0
+Yeray Alvarez;5;Defensa;Athletic Club;8;1;1;0;0;7;1
+Yuri Berchiche;17;Defensa;Athletic Club;8;1;1;0;0;6;1
+Alex Petxa;-;Defensa;Athletic Club;8;0;0;0;0;0;0
+Inigo Lekue;15;Defensa;Athletic Club;8;0;1;0;0;0;0
+Inigo Martinez;4;Defensa;Athletic Club;8;1;0;0;0;1;0
+Oscar De Marcos;18;Defensa;Athletic Club;8;1;6;0;0;7;0
+Benat Prados;32;Defensa;Athletic Club;8;0;0;0;0;0;0
+Dani Garcia;14;Mediocentro;Athletic Club;8;0;2;0;0;6;0
+Inigo Cordoba;25;Mediocentro;Athletic Club;8;0;0;0;0;0;0
+Junior Bita;33;Mediocentro;Athletic Club;8;0;0;0;0;0;0
+Mikel Vesga;6;Mediocentro;Athletic Club;8;3;3;0;0;5;0
+Oier Zarraga;19;Mediocentro;Athletic Club;8;0;0;0;0;5;0
+Oihan Sancet;8;Mediocentro;Athletic Club;8;10;2;0;0;6;1
+Raul Garcia;22;Mediocentro;Athletic Club;8;2;3;0;0;4;0
+Unai Gomez;30;Mediocentro;Athletic Club;8;0;0;0;0;0;0
+Unai Vencedor;16;Mediocentro;Athletic Club;8;0;0;0;0;2;0
+Alex Berenguer;7;Delantero;Athletic Club;8;4;1;0;0;2;0
+Asier Villalibre;20;Delantero;Athletic Club;8;0;0;0;0;0;0
+Gorka Guruzeta;12;Delantero;Athletic Club;8;6;1;0;0;2;0
+Iker Muniain;10;Delantero;Athletic Club;8;0;3;0;0;2;0
+Inaki Williams;9;Delantero;Athletic Club;8;10;3;0;0;2;0
+Inigo Vicente;-;Delantero;Athletic Club;8;0;0;0;0;0;0
+Juan Artola;34;Delantero;Athletic Club;8;0;0;0;0;0;0
+Luis Bilbao;28;Delantero;Athletic Club;8;0;0;0;0;0;0
+Malcom Adu;29;Delantero;Athletic Club;8;0;0;0;0;0;0
+Nico Serrano;-;Delantero;Athletic Club;8;0;0;0;0;0;0
+Nico Williams;11;Delantero;Athletic Club;8;6;4;0;0;3;0
+Alejandro Iturbe;33;Portero;Atletico De Madrid;3;0;0;0;0;0;0
+Antonio Gomis;31;Portero;Atletico De Madrid;3;0;0;1;0;0;0
+Benjamin Lecomte;1;Portero;Atletico De Madrid;3;0;0;14;29;1;1
+Christian Gomez;31;Portero;Atletico De Madrid;3;0;0;0;0;0;0
+Ivo Grbic;1;Portero;Atletico De Madrid;3;0;0;12;36;3;0
+Jan Oblak;13;Portero;Atletico De Madrid;3;0;0;20;61;0;0
+Sergio Mestre;35;Portero;Atletico De Madrid;3;0;0;0;0;0;0
+Adrian Corral;45;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Fran Gonzalez;38;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Ibrahima Camara;47;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Ilias Kostis;27;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Joan Rojas;44;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Jose Gimenez;2;Defensa;Atletico De Madrid;3;2;1;0;0;9;0
+Manuel Lama;42;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Marco Moreno;28;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Mario Hermoso;22;Defensa;Atletico De Madrid;3;3;2;0;0;3;2
+Matt Doherty;12;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Nahuel Molina;16;Defensa;Atletico De Madrid;3;4;2;0;0;7;1
+Nehuen Perez;3;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Reinildo;23;Defensa;Atletico De Madrid;3;0;0;0;0;4;0
+Renan Lodi;12;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Sergio Camus;37;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Sergio Diez;30;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Sergio Reguilon;3;Defensa;Atletico De Madrid;3;0;0;0;0;0;1
+Sime Vrsaljko;24;Defensa;Atletico De Madrid;3;0;0;0;0;0;0
+Stefan Savic;15;Defensa;Atletico De Madrid;3;0;0;0;0;5;2
+Axel Witsel;20;Mediocentro;Atletico De Madrid;3;0;0;0;0;2;1
+Daniel Wass;17;Mediocentro;Atletico De Madrid;3;0;0;0;0;0;0
+Geoffrey Kondogbia;4;Mediocentro;Atletico De Madrid;3;0;2;0;0;5;0
+Hector Herrera;16;Mediocentro;Atletico De Madrid;3;0;0;0;0;0;0
+Javi Serrano;26;Mediocentro;Atletico De Madrid;3;0;0;0;0;0;0
+Koke;6;Mediocentro;Atletico De Madrid;3;0;3;0;0;4;0
+Marcos Llorente;14;Mediocentro;Atletico De Madrid;3;1;2;0;0;5;0
+Pablo Barrios;24;Mediocentro;Atletico De Madrid;3;0;1;0;0;4;0
+Rodrigo De Paul;5;Mediocentro;Atletico De Madrid;3;2;7;0;0;5;0
+Saul Niguez;8;Mediocentro;Atletico De Madrid;3;3;1;0;0;8;0
+Sergio Guerrero;40;Mediocentro;Atletico De Madrid;3;0;0;0;0;0;0
+Thomas Lemar;11;Mediocentro;Atletico De Madrid;3;1;3;0;0;0;0
+Yannick Carrasco;21;Mediocentro;Atletico De Madrid;3;7;3;0;0;2;0
+Abde Raihani;39;Delantero;Atletico De Madrid;3;0;0;0;0;0;0
+Antoine Griezmann;8;Delantero;Atletico De Madrid;3;15;16;0;0;2;0
+Borja Garces;-;Delantero;Atletico De Madrid;3;0;0;0;0;0;0
+Cala;36;Delantero;Atletico De Madrid;3;0;0;0;0;0;0
+Carlos Martin;29;Delantero;Atletico De Madrid;3;0;0;0;0;0;0
+Diego Bri;26;Delantero;Atletico De Madrid;3;0;0;0;0;0;0
+Giuliano Simeone;27;Delantero;Atletico De Madrid;3;0;0;0;0;0;0
+Joao Felix;18;Delantero;Atletico De Madrid;3;4;3;0;0;5;0
+Luis Suarez;9;Delantero;Atletico De Madrid;3;4;4;0;0;4;1
+Matheus Cunha;-;Delantero;Atletico De Madrid;3;0;2;0;0;2;0
+Memphis Depay;9;Delantero;Atletico De Madrid;3;5;0;0;0;1;0
+Salim El Jebari;30;Delantero;Atletico De Madrid;3;0;0;0;0;0;0
+Victor Mollejo;26;Delantero;Atletico De Madrid;3;0;0;0;0;0;0
+Alvaro Morata;19;Delantero;Atletico De Madrid;3;13;2;0;0;4;0
+Angel Correa;10;Delantero;Atletico De Madrid;3;9;1;0;0;2;1
+Ander Astralaga;26;Portero;Barcelona;1;0;0;0;0;0;0
+Arnau Tenas;36;Portero;Barcelona;1;0;0;0;0;1;0
+Inaki Pena;13;Portero;Barcelona;1;0;0;2;2;0;0
+Lazar Carevic;27;Portero;Barcelona;1;0;0;0;0;0;0
+Marc-Andre ter Stegen;1;Portero;Barcelona;1;0;0;18;84;0;0
+Neto;13;Portero;Barcelona;1;0;0;0;0;0;0
+Alejandro Balde;3;Defensa;Barcelona;1;1;6;0;0;4;0
+Andreas Christensen;15;Defensa;Barcelona;1;1;1;0;0;2;0
+Arnau Casas;-;Defensa;Barcelona;1;0;0;0;0;0;0
+Chadi Riad;35;Defensa;Barcelona;1;0;0;0;0;0;0
+Clement Lenglet;-;Defensa;Barcelona;1;0;0;0;0;0;0
+Dani Alves;8;Defensa;Barcelona;1;0;0;0;0;0;0
+Eric Garcia;24;Defensa;Barcelona;1;1;0;0;0;3;0
+Guillem Jaime;38;Defensa;Barcelona;1;0;0;0;0;0;0
+Hector Fort;39;Defensa;Barcelona;1;0;0;0;0;0;0
+Jordi Alba;18;Defensa;Barcelona;1;2;3;0;0;4;1
+Jules Kounde;23;Defensa;Barcelona;1;1;3;0;0;2;0
+Julian Araujo;-;Defensa;Barcelona;1;0;0;0;0;0;0
+Marcos Alonso;17;Defensa;Barcelona;1;1;0;0;0;3;0
+Mika Marmol;-;Defensa;Barcelona;1;0;0;0;0;0;0
+Ronald Araujo;4;Defensa;Barcelona;1;0;2;0;0;6;1
+Samuel Umtiti;23;Defensa;Barcelona;1;0;0;0;0;0;0
+Sergi Roberto;20;Defensa;Barcelona;1;4;1;0;0;3;0
+Sergino Dest;-;Defensa;Barcelona;1;0;0;0;0;0;0
+Alex Valle;-;Defensa;Barcelona;1;0;0;0;0;0;0
+Aleix Garrido;34;Mediocentro;Barcelona;1;0;0;0;0;0;0
+Antonio Aranda;-;Mediocentro;Barcelona;1;0;0;0;0;0;0
+Franck Kessie;19;Mediocentro;Barcelona;1;1;1;0;0;4;0
+Frenkie de Jong;21;Mediocentro;Barcelona;1;2;4;0;0;3;0
+Gavi;6;Mediocentro;Barcelona;1;2;4;0;0;10;0
+Jandro Orellana;43;Mediocentro;Barcelona;1;0;0;0;0;0;0
+Lucas de Vega;40;Mediocentro;Barcelona;1;0;0;0;0;0;0
+Marc Casado;30;Mediocentro;Barcelona;1;0;0;0;0;0;0
+Pablo Torre;32;Mediocentro;Barcelona;1;0;0;0;0;0;0
+Pau Prim;46;Mediocentro;Barcelona;1;0;0;0;0;0;0
+Pedri;8;Mediocentro;Barcelona;1;6;1;0;0;2;0
+Riqui Puig;6;Mediocentro;Barcelona;1;0;0;0;0;0;0
+Sergio Busquets;5;Mediocentro;Barcelona;1;0;4;0;0;6;1
+Angel Alarcon;29;Mediocentro;Barcelona;1;0;0;0;0;0;0
+Adama Traore;11;Delantero;Barcelona;1;0;0;0;0;0;0
+Ansu Fati;10;Delantero;Barcelona;1;7;3;0;0;3;0
+Estanis Pedrola;39;Delantero;Barcelona;1;0;0;0;0;0;0
+Fabio Blanco;-;Delantero;Barcelona;1;0;0;0;0;0;0
+Ferran Torres;7;Delantero;Barcelona;1;4;2;0;0;5;1
+Ilias Akhomach;27;Delantero;Barcelona;1;0;0;0;0;0;0
+Lamine Yamal;27;Delantero;Barcelona;1;0;0;0;0;0;0
+Marc Guiu;38;Delantero;Barcelona;1;0;0;0;0;0;0
+Ousmane Dembele;-;Delantero;Barcelona;1;5;7;0;0;4;0
+Raphinha;11;Delantero;Barcelona;1;7;7;0;0;8;0
+Rey Manaj;-;Delantero;Barcelona;1;0;0;0;0;0;0
+Robert Lewandowski;9;Delantero;Barcelona;1;23;7;0;0;2;1
+Trincao;17;Delantero;Barcelona;1;0;0;0;0;0;0
+Agustin Marchesin;1;Portero;Celta De Vigo;13;0;0;29;44;3;0
+Cesar Fernandez;41;Portero;Celta De Vigo;13;0;0;0;0;0;0
+Christian Sanchez;34;Portero;Celta De Vigo;13;0;0;0;0;0;0
+Coke Carrillo;26;Portero;Celta De Vigo;13;0;0;0;0;0;0
+Gaizka Campos;26;Portero;Celta De Vigo;13;0;0;0;0;0;0
+Ivan Villar;13;Portero;Celta De Vigo;13;0;0;24;38;0;0
+Matias Dituro;1;Portero;Celta De Vigo;13;0;0;0;0;0;0
+Ruben Blanco;13;Portero;Celta De Vigo;13;0;0;0;0;0;0
+Carlos Dominguez;28;Defensa;Celta De Vigo;13;0;0;0;0;0;0
+Fernando Medrano;36;Defensa;Celta De Vigo;13;0;0;0;0;0;0
+Hugo Mallo;2;Defensa;Celta De Vigo;13;0;1;0;0;5;1
+Javi Castro;38;Defensa;Celta De Vigo;13;0;0;0;0;0;0
+Javi Galan;17;Defensa;Celta De Vigo;13;0;3;0;0;6;0
+Javier Dominguez;39;Defensa;Celta De Vigo;13;0;0;0;0;0;0
+Jeison Murillo;24;Defensa;Celta De Vigo;13;0;0;0;0;0;0
+Joseph Aidoo;15;Defensa;Celta De Vigo;13;0;0;0;0;4;1
+Jose Fontan;5;Defensa;Celta De Vigo;13;0;0;0;0;0;0
+Kevin Vazquez;20;Defensa;Celta De Vigo;13;0;0;0;0;2;0
+Martin Conde;33;Defensa;Celta De Vigo;13;0;0;0;0;0;0
+Nestor Araujo;4;Defensa;Celta De Vigo;13;0;0;0;0;0;0
+Sergio Barcia;38;Defensa;Celta De Vigo;13;0;0;0;0;0;0
+Thomas Carrique;39;Defensa;Celta De Vigo;13;0;0;0;0;0;0
+Unai Nunez;4;Defensa;Celta De Vigo;13;0;0;0;0;8;0
+Oscar Mingueza;3;Defensa;Celta De Vigo;13;0;0;0;0;2;0
+Augusto Solari;21;Mediocentro;Celta De Vigo;13;0;1;0;0;1;0
+Damian Rodriguez;34;Mediocentro;Celta De Vigo;13;0;0;0;0;0;0
+Fran Beltran;8;Mediocentro;Celta De Vigo;13;0;2;0;0;4;0
+Franco Cervi;11;Mediocentro;Celta De Vigo;13;0;4;0;0;2;1
+Gabri Veiga;24;Mediocentro;Celta De Vigo;13;0;4;0;0;6;1
+Hugo Sotelo;30;Mediocentro;Celta De Vigo;13;0;0;0;0;0;0
+Hugo Alvarez;33;Mediocentro;Celta De Vigo;13;0;0;0;0;0;0
+Luca de la Torre;14;Mediocentro;Celta De Vigo;13;0;2;0;0;6;0
+Miguel Baeza;16;Mediocentro;Celta De Vigo;13;0;0;0;0;0;0
+Okay Yokuslu;5;Mediocentro;Celta De Vigo;13;0;0;0;0;0;0
+Orbelin Pineda;18;Mediocentro;Celta De Vigo;13;0;0;0;0;0;0
+Renato Tapia;5;Mediocentro;Celta De Vigo;13;0;0;0;0;6;1
+Williot Swedberg;19;Mediocentro;Celta De Vigo;13;0;0;0;0;1;0
+Oscar Rodriguez;5;Mediocentro;Celta De Vigo;13;0;0;0;0;6;0
+Alfon Gonzalez;32;Delantero;Celta De Vigo;13;0;0;0;0;0;0
+Carles Perez;7;Delantero;Celta De Vigo;13;0;5;0;0;4;0
+Emre Mor;7;Delantero;Celta De Vigo;13;0;0;0;0;0;0
+Fran Lopez;32;Delantero;Celta De Vigo;13;0;0;0;0;0;0
+Gabriel Fernandez;19;Delantero;Celta De Vigo;13;0;0;0;0;0;0
+Goncalo Paciencia;9;Delantero;Celta De Vigo;13;0;0;0;0;2;1
+Haris Seferovic;22;Delantero;Celta De Vigo;13;0;1;0;0;3;0
+Iago Aspas;10;Delantero;Celta De Vigo;13;0;3;0;0;4;0
+Jorgen Strand Larsen;18;Delantero;Celta De Vigo;13;0;4;0;0;4;0
+Miguel Rodriguez;29;Delantero;Celta De Vigo;13;0;1;0;0;0;0
+Nolito;9;Delantero;Celta De Vigo;13;0;0;0;0;0;0
+Pablo Duran;35;Delantero;Celta De Vigo;13;0;0;0;0;0;0
+Santi Mina;-;Delantero;Celta De Vigo;13;0;0;0;0;0;0
+Thiago Galhardo;7;Delantero;Celta De Vigo;13;0;0;0;0;0;0
+Conan Ledesma;1;Portero;Cadiz;14;0;0;48;135;2;0
+David Gil;13;Portero;Cadiz;14;0;0;5;18;0;0
+Juan Flere;26;Portero;Cadiz;14;0;0;0;0;0;0
+Nando Almodovar;34;Portero;Cadiz;14;0;0;0;0;0;0
+Victor Aznar;26;Portero;Cadiz;14;0;0;0;0;0;0
+Alfonso Espino;22;Defensa;Cadiz;14;0;4;0;0;7;0
+Carlos Akapo;15;Defensa;Cadiz;14;0;0;0;0;0;0
+Carlos Garcia;30;Defensa;Cadiz;14;0;1;0;0;0;0
+Fali;3;Defensa;Cadiz;14;0;0;0;0;6;0
+Genar Fornes;27;Defensa;Cadiz;14;0;0;0;0;0;0
+Iza Carcelen;20;Defensa;Cadiz;14;0;1;0;0;4;3
+Jorge Mere;25;Defensa;Cadiz;14;0;0;0;0;0;0
+Joseba Zaldua;2;Defensa;Cadiz;14;0;1;0;0;4;0
+Juan Cala;-;Defensa;Cadiz;14;0;0;0;0;0;0
+Lautaro Spatz;37;Defensa;Cadiz;14;0;0;0;0;0;0
+Luis Hernandez;23;Defensa;Cadiz;14;0;0;0;0;6;1
+Momo Mbaye;14;Defensa;Cadiz;14;0;0;0;0;2;0
+Raul Parra;2;Defensa;Cadiz;14;0;0;0;0;0;0
+Santiago Arzamendia;21;Defensa;Cadiz;14;0;0;0;0;0;0
+Varazdat Haroyan;5;Defensa;Cadiz;14;0;0;0;0;0;0
+Victor Chust;5;Defensa;Cadiz;14;1;0;0;0;3;0
+Awer Mabil;-;Mediocentro;Cadiz;14;0;0;0;0;0;0
+David Mayoral;-;Mediocentro;Cadiz;14;0;0;0;0;0;0
+Fede San Emeterio;24;Mediocentro;Cadiz;14;0;1;0;0;14;0
+Francisco Mwepu;41;Mediocentro;Cadiz;14;0;0;0;0;0;0
+Gonzalo Escalante;17;Mediocentro;Cadiz;14;4;1;0;0;4;0
+Ivan Alejo;11;Mediocentro;Cadiz;14;0;1;0;0;11;1
+Jens Jonsson;2;Mediocentro;Cadiz;14;0;0;0;0;0;0
+Jon Ander Garrido;-;Mediocentro;Cadiz;14;0;0;0;0;0;0
+Jose Mari Martin;6;Mediocentro;Cadiz;14;0;0;0;0;4;0
+Martin Calderon;-;Mediocentro;Cadiz;14;0;0;0;0;0;0
+Ruben Alcaraz;4;Mediocentro;Cadiz;14;3;0;0;0;10;1
+Tomas Alarcon;35;Mediocentro;Cadiz;14;0;0;0;0;0;1
+Youba Diarra;19;Mediocentro;Cadiz;14;0;0;0;0;2;0
+Alex Fernandez;8;Mediocentro;Cadiz;14;3;0;0;0;0;0
+Alvaro Bastida;28;Mediocentro;Cadiz;14;0;0;0;0;0;0
+Alvaro Jimenez;-;Mediocentro;Cadiz;14;0;0;0;0;0;0
+Anthony Lozano;9;Delantero;Cadiz;14;1;1;0;0;6;0
+Brian Ocampo;10;Delantero;Cadiz;14;1;1;0;0;2;0
+Chris Ramos;16;Delantero;Cadiz;14;1;0;0;0;0;0
+Florin Andone;17;Delantero;Cadiz;14;0;0;0;0;0;0
+Ivan Chapela;27;Delantero;Cadiz;14;0;0;0;0;0;0
+Jose Antonio de la Rosa;27;Delantero;Cadiz;14;0;1;0;0;0;0
+Mamady Diarra;29;Delantero;Cadiz;14;0;0;0;0;0;0
+Milutin Osmajic;12;Delantero;Cadiz;14;0;0;0;0;0;0
+Nano Mesa;23;Delantero;Cadiz;14;0;0;0;0;0;0
+Oussama Idrissi;11;Delantero;Cadiz;14;0;0;0;0;0;0
+Pedro Benito;35;Delantero;Cadiz;14;0;0;0;0;0;0
+Roger Marti;15;Delantero;Cadiz;14;1;1;0;0;3;0
+Ruben Sobrino;7;Delantero;Cadiz;14;3;2;0;0;11;0
+Sergi Guardiola;19;Delantero;Cadiz;14;3;0;0;0;3;0
+Theo Bongonda;10;Delantero;Cadiz;14;4;3;0;0;2;0
+Alvaro Negredo;9;Delantero;Cadiz;14;1;2;0;0;0;0
+Axel Werner;1;Portero;Elche;20;0;0;4;5;0;0
+Edgar Badia;13;Portero;Elche;20;0;0;63;139;2;0
+Jesus Lopez;28;Portero;Elche;20;0;0;0;0;0;0
+Kiko Casilla;1;Portero;Elche;20;0;0;0;0;0;0
+Lluis Andreu;28;Portero;Elche;20;0;0;0;0;0;0
+Luismi Quirant;36;Portero;Elche;20;0;0;0;0;0;0
+Antonio Barragan;19;Defensa;Elche;20;0;0;0;0;0;0
+Carlos Clerc;23;Defensa;Elche;20;0;1;0;0;5;0
+Cheikh Diamanka;32;Defensa;Elche;20;0;0;0;0;0;0
+Diego Gonzalez;4;Defensa;Elche;20;0;0;0;0;5;0
+Enzo Roco;3;Defensa;Elche;20;0;0;0;0;4;1
+Gonzalo Verdu;5;Defensa;Elche;20;1;0;0;0;0;2
+Helibelton Palacios;14;Defensa;Elche;20;0;0;0;0;7;0
+Javi Pamies;34;Defensa;Elche;20;0;0;0;0;0;0
+Josema;24;Defensa;Elche;20;0;0;0;0;0;0
+Jose Salinas;12;Defensa;Elche;20;0;0;0;0;0;0
+Jose Angel Carmona;40;Defensa;Elche;20;3;1;0;0;7;2
+Lautaro Blanco;3;Defensa;Elche;20;0;2;0;0;2;0
+Lilian de Palmas;31;Defensa;Elche;20;0;0;0;0;0;0
+Lisandro Magallan;7;Defensa;Elche;20;0;0;0;0;0;1
+Lucas Olaza;12;Defensa;Elche;20;0;1;0;0;3;0
+Nicolas Fernandez Mercau;22;Defensa;Elche;20;0;1;0;0;2;0
+Pedro Bigas;6;Defensa;Elche;20;0;0;0;0;3;2
+Pol Lirola;24;Defensa;Elche;20;1;0;0;0;0;0
+Sergio Bono;30;Defensa;Elche;20;0;0;0;0;0;0
+Alejandro Alfaro;32;Mediocentro;Elche;20;0;0;0;0;0;0
+Branislav Knezevic;29;Mediocentro;Elche;20;0;0;0;0;0;0
+Fidel;16;Mediocentro;Elche;20;3;2;0;0;6;0
+Gerard Gumbau;20;Mediocentro;Elche;20;1;6;0;0;11;0
+John Donald;5;Mediocentro;Elche;20;0;0;0;0;3;0
+Jony Alamo;33;Mediocentro;Elche;20;0;0;0;0;0;0
+Josan;17;Mediocentro;Elche;20;1;3;0;0;3;0
+Kike Perez;24;Mediocentro;Elche;20;1;2;0;0;9;0
+Manuel Cocca;33;Mediocentro;Elche;20;0;0;0;0;0;0
+Omar Mascarell;21;Mediocentro;Elche;20;0;1;0;0;6;0
+Pape Cheikh;12;Mediocentro;Elche;20;0;0;0;0;0;1
+Randy Nteka;18;Mediocentro;Elche;20;0;0;0;0;0;1
+Raul Guti;8;Mediocentro;Elche;20;0;0;0;0;0;0
+Rodrigo Mendoza;30;Mediocentro;Elche;20;0;0;0;0;0;0
+Tete Morente;11;Mediocentro;Elche;20;4;0;0;0;5;0
+Alex Collado;15;Mediocentro;Elche;20;1;1;0;0;0;0
+Ezequiel Ponce;19;Delantero;Elche;20;4;0;0;0;2;1
+Guido Carrillo;7;Delantero;Elche;20;0;0;0;0;0;0
+Jose Luis Friaza;34;Delantero;Elche;20;0;0;0;0;0;0
+Lucas Boye;9;Delantero;Elche;20;7;2;0;0;7;1
+Manu Justo;-;Delantero;Elche;20;0;0;0;0;0;0
+Mourad;19;Delantero;Elche;20;0;0;0;0;0;0
+Pere Milla;10;Delantero;Elche;20;6;1;0;0;7;0
+Angel Higuera;-;Delantero;Elche;20;0;0;0;0;0;0
+Fernando Pacheco;13;Portero;Espanyol;19;0;0;35;59;0;0
+Joan Garcia;1;Portero;Espanyol;19;0;0;3;1;0;0
+Oier Olazabal;1;Portero;Espanyol;19;0;0;0;0;0;0
+Alvaro Fernandez;25;Portero;Espanyol;19;0;0;18;34;1;0
+Angel Fortuno;33;Portero;Espanyol;19;0;0;0;0;0;0
+Adria Pedrosa;3;Defensa;Espanyol;19;0;0;0;0;0;0
+Aleix Gorjon;27;Defensa;Espanyol;19;0;0;0;0;0;0
+Aleix Vidal;22;Defensa;Espanyol;19;0;3;0;0;8;1
+Alejandro;35;Defensa;Espanyol;19;0;0;0;0;0;0
+Brian Olivan;14;Defensa;Espanyol;19;1;7;0;0;7;0
+Cesar Montes;23;Defensa;Espanyol;19;3;0;0;0;7;0
+Didac Vila;17;Defensa;Espanyol;19;0;0;0;0;0;0
+Fernando Calero;5;Defensa;Espanyol;19;0;1;0;0;6;0
+Joan Puig;26;Defensa;Espanyol;19;0;0;0;0;0;0
+Leandro Cabrera;6;Defensa;Espanyol;19;0;1;0;0;8;2
+Lluis Recasens;31;Defensa;Espanyol;19;0;0;0;0;0;0
+Miguel Llambrich;4;Defensa;Espanyol;19;0;0;0;0;0;0
+Omar El Hilali;31;Defensa;Espanyol;19;0;0;0;0;1;0
+Ronael Pierre-Gabriel;18;Defensa;Espanyol;19;1;0;0;0;0;1
+Ruben Sanchez;27;Defensa;Espanyol;19;0;2;0;0;1;0
+Sergi Gomez;3;Defensa;Espanyol;19;0;0;0;0;0;2
+Simo;28;Defensa;Espanyol;19;0;0;0;0;0;0
+Oscar Gil;2;Defensa;Espanyol;19;0;1;0;0;14;0
+Daniel Villahermosa;31;Mediocentro;Espanyol;19;0;0;0;0;0;0
+Denis Suarez;6;Mediocentro;Espanyol;19;0;0;0;0;2;0
+Edu Exposito;20;Mediocentro;Espanyol;19;2;2;0;0;3;1
+Fran Merida;8;Mediocentro;Espanyol;19;0;0;0;0;0;0
+Gori;32;Mediocentro;Espanyol;19;0;0;0;0;0;0
+Jose Carlos Lazo;16;Mediocentro;Espanyol;19;1;1;0;0;0;0
+Jose Gragera;15;Mediocentro;Espanyol;19;1;0;0;0;2;0
+Keidi Bare;8;Mediocentro;Espanyol;19;0;1;0;0;0;0
+Luca Koleosho;30;Mediocentro;Espanyol;19;1;0;0;0;0;0
+Nico Melamed;21;Mediocentro;Espanyol;19;1;2;0;0;4;0
+Pol Lozano;10;Mediocentro;Espanyol;19;0;0;0;0;0;0
+Roger Martinez;27;Mediocentro;Espanyol;19;0;0;0;0;0;0
+Sergi Darder;10;Mediocentro;Espanyol;19;6;3;0;0;4;0
+Tonny Vilhena;-;Mediocentro;Espanyol;19;0;0;0;0;0;0
+Vinicius Souza;12;Mediocentro;Espanyol;19;1;1;0;0;8;1
+Alvaro Vadillo;19;Mediocentro;Espanyol;19;0;0;0;0;0;0
+Oscar Melendo;14;Mediocentro;Espanyol;19;0;0;0;0;0;0
+Dani Gomez;19;Delantero;Espanyol;19;0;0;0;0;0;0
+Javi Puado;7;Delantero;Espanyol;19;7;2;0;0;4;0
+Jofre Carreras;29;Delantero;Espanyol;19;0;0;0;0;0;0
+Joselu;9;Delantero;Espanyol;19;16;2;0;0;3;0
+Juan Camilo Becerra;-;Delantero;Espanyol;19;0;0;0;0;0;0
+Kenneth Soler;33;Delantero;Espanyol;19;0;0;0;0;0;0
+Landry Dimata;9;Delantero;Espanyol;19;0;0;0;0;0;0
+Loren Moron;16;Delantero;Espanyol;19;0;0;0;0;1;0
+Luka Koleosho;30;Delantero;Espanyol;19;0;0;0;0;0;0
+Martin Braithwaite;22;Delantero;Espanyol;19;10;2;0;0;5;1
+Max Svensson;26;Delantero;Espanyol;19;0;0;0;0;0;0
+Nabili Zoubdi Touaizi;30;Delantero;Espanyol;19;0;0;0;0;0;0
+Wu Lei;7;Delantero;Espanyol;19;0;0;0;0;0;0
+David Soria;13;Portero;Getafe;15;0;0;45;124;3;0
+Diego Conde;27;Portero;Getafe;15;0;0;0;0;0;0
+Ruben Yanez;1;Portero;Getafe;15;0;0;0;0;0;0
+Vicente Bellmunt Garcia;33;Portero;Getafe;15;0;0;0;0;0;0
+Chema Rodriguez;6;Defensa;Getafe;15;0;0;0;0;0;0
+Chinchu;-;Defensa;Getafe;15;0;0;0;0;0;0
+Damian Suarez;22;Defensa;Getafe;15;0;1;0;0;7;0
+Djene Dakonam;2;Defensa;Getafe;15;0;1;0;0;10;1
+Domingos Duarte;6;Defensa;Getafe;15;0;2;0;0;9;1
+Erick Cabaco;3;Defensa;Getafe;15;0;0;0;0;0;0
+Fabrizio Angileri;3;Defensa;Getafe;15;0;0;0;0;0;1
+Gaston Alvarez;4;Defensa;Getafe;15;0;0;0;0;8;1
+Gorka Rivera;27;Defensa;Getafe;15;0;0;0;0;0;0
+Ignasi Miquel;5;Defensa;Getafe;15;0;0;0;0;0;0
+Jonathan Silva;14;Defensa;Getafe;15;0;0;0;0;0;0
+Jordan Amavi;12;Defensa;Getafe;15;0;0;0;0;0;1
+Jorge Cuenca;15;Defensa;Getafe;15;0;0;0;0;0;0
+Juan Iglesias;21;Defensa;Getafe;15;0;0;0;0;8;0
+Koffi;26;Defensa;Getafe;15;0;0;0;0;0;0
+Mathias Olivera;17;Defensa;Getafe;15;0;0;0;0;0;0
+Omar Alderete;15;Defensa;Getafe;15;1;1;0;0;9;0
+Pablo Ramirez;36;Defensa;Getafe;15;0;0;0;0;0;0
+Stefan Mitrovic;23;Defensa;Getafe;15;0;0;0;0;4;0
+Alex Revuelta;31;Defensa;Getafe;15;0;0;0;0;0;0
+Alex Rodriguez;32;Defensa;Getafe;15;0;0;0;0;0;0
+Alvaro Lopez;37;Defensa;Getafe;15;0;0;0;0;0;0
+Antonio Vera Carrillo;36;Mediocentro;Getafe;15;0;0;0;0;0;0
+Carles Alena;11;Mediocentro;Getafe;15;0;2;0;0;10;1
+Florentino;5;Mediocentro;Getafe;15;0;0;0;0;0;0
+Gonzalo Villar;24;Mediocentro;Getafe;15;0;0;0;0;5;0
+Jaime Seoane;8;Mediocentro;Getafe;15;0;0;0;0;0;0
+Jakub Jankto;16;Mediocentro;Getafe;15;0;0;0;0;0;0
+John Patrick;26;Mediocentro;Getafe;15;0;0;0;0;0;0
+Luis Milla;5;Mediocentro;Getafe;15;0;3;0;0;4;1
+Mauro Arambarri;8;Mediocentro;Getafe;15;0;1;0;0;3;1
+Moi Parra;30;Mediocentro;Getafe;15;0;0;0;0;0;0
+Nemanja Maksimovic;20;Mediocentro;Getafe;15;0;0;0;0;3;0
+Pablo Montero;32;Mediocentro;Getafe;15;0;0;0;0;0;0
+Sabit Abdulai;-;Mediocentro;Getafe;15;0;0;0;0;0;0
+Santiago Garcia;28;Mediocentro;Getafe;15;0;0;0;0;0;0
+Vitolo;8;Mediocentro;Getafe;15;0;0;0;0;0;0
+Angel Algobia;16;Mediocentro;Getafe;15;0;0;0;0;3;0
+Borja Mayoral;19;Delantero;Getafe;15;0;2;0;0;4;0
+Dario Poveda;19;Delantero;Getafe;15;0;0;0;0;0;0
+Enes Unal;10;Delantero;Getafe;15;0;3;0;0;6;0
+Jack Harper;-;Delantero;Getafe;15;0;0;0;0;0;0
+Jaime Mata;7;Delantero;Getafe;15;0;1;0;0;5;0
+Juanmi Latasa;14;Delantero;Getafe;15;0;0;0;0;2;0
+Munir El Haddadi;17;Delantero;Getafe;15;0;1;0;0;4;0
+Portu;9;Delantero;Getafe;15;0;3;0;0;5;1
+Sandro Ramirez;12;Delantero;Getafe;15;0;0;0;0;0;0
+Adria Ortola;13;Portero;Girona;10;0;0;0;0;0;0
+Jonathan Morilla;30;Portero;Girona;10;0;0;0;0;0;0
+Juan Carlos;1;Portero;Girona;10;0;0;18;26;0;0
+Lluc Matas;30;Portero;Girona;10;0;0;0;0;0;0
+Paulo Gazzaniga;13;Portero;Girona;10;0;0;37;93;4;0
+Toni Fuidias;26;Portero;Girona;10;0;0;0;0;0;0
+Alexander Callens;12;Defensa;Girona;10;0;0;0;0;0;0
+Arnau Martinez;4;Defensa;Girona;10;3;4;0;0;11;0
+Bernardo Espinosa;2;Defensa;Girona;10;1;1;0;0;5;0
+Biel Farres;34;Defensa;Girona;10;0;0;0;0;0;0
+David Junca;17;Defensa;Girona;10;0;0;0;0;0;0
+David Lopez;5;Defensa;Girona;10;3;1;0;0;5;0
+Javi Hernandez;16;Defensa;Girona;10;1;2;0;0;3;0
+Jordi Calavera;23;Defensa;Girona;10;0;0;0;0;0;0
+Juanpe;15;Defensa;Girona;10;1;0;0;0;3;0
+Loic Williams;33;Defensa;Girona;10;0;0;0;0;0;0
+Miguel Gutierrez;3;Defensa;Girona;10;2;3;0;0;6;0
+Santiago Bueno;22;Defensa;Girona;10;0;1;0;0;5;1
+Valery Fernandez;11;Defensa;Girona;10;0;2;0;0;1;0
+Yan Couto;20;Defensa;Girona;10;1;2;0;0;3;0
+Aleix Garcia;14;Mediocentro;Girona;10;1;5;0;0;0;0
+Alex Sala;34;Mediocentro;Girona;10;0;0;0;0;0;0
+Borja Garcia;10;Mediocentro;Girona;10;1;0;0;0;1;0
+Dario Sarmiento;9;Mediocentro;Girona;10;0;0;0;0;0;0
+Ibrahima Kebe;6;Mediocentro;Girona;10;0;0;0;0;0;0
+Ivan Martin;23;Mediocentro;Girona;10;3;3;0;0;2;0
+Jairo Izquierdo;3;Mediocentro;Girona;10;0;0;0;0;0;0
+Joel Roca;33;Mediocentro;Girona;10;0;0;0;0;0;0
+Oriol Romeu;18;Mediocentro;Girona;10;2;0;0;0;8;1
+Oscar Urena;32;Mediocentro;Girona;10;0;0;0;0;0;0
+Pau Victor;35;Mediocentro;Girona;10;0;0;0;0;0;0
+Reinier;19;Mediocentro;Girona;10;2;1;0;0;1;1
+Ricard Artero;36;Mediocentro;Girona;10;0;0;0;0;0;0
+Rodrigo Riquelme;17;Mediocentro;Girona;10;4;4;0;0;0;0
+Suleiman Camara;43;Mediocentro;Girona;10;0;0;0;0;0;0
+Toni Villa;19;Mediocentro;Girona;10;1;3;0;0;2;0
+Unai Hernandez;45;Mediocentro;Girona;10;0;0;0;0;0;0
+Victor Sanchez;4;Mediocentro;Girona;10;0;0;0;0;0;0
+Yangel Herrera;21;Mediocentro;Girona;10;2;2;0;0;4;0
+Alex Baena;8;Mediocentro;Girona;10;6;2;0;0;11;1
+Arnau Ortiz;29;Delantero;Girona;10;0;0;0;0;0;0
+Cristhian Stuani;7;Delantero;Girona;10;9;0;0;0;8;0
+Dawda Camara;37;Delantero;Girona;10;0;0;0;0;0;0
+Gabri Martinez;27;Delantero;Girona;10;0;0;0;0;0;0
+Ilyas Chaira;-;Delantero;Girona;10;0;0;0;0;0;0
+Manu Vallejo;24;Delantero;Girona;10;0;1;0;0;0;0
+Nahuel Bustos;19;Delantero;Girona;10;0;0;0;0;0;0
+Pablo Moreno;16;Delantero;Girona;10;0;0;0;0;0;0
+Valentin Castellanos;9;Delantero;Girona;10;13;0;0;0;11;0
+Viktor Tsygankov;8;Delantero;Girona;10;3;6;0;0;0;0
+Abdon Prats;9;Delantero;Mallorca;9;1;0;0;0;0;0
+Aleix Febas;6;Mediocentro;Mallorca;9;0;0;0;0;0;0
+Aleksandar Sedlar;20;Defensa;Mallorca;9;0;0;0;0;0;0
+Amath Ndiaye;23;Delantero;Mallorca;9;2;0;0;0;2;1
+Angel Rodriguez;22;Delantero;Mallorca;9;1;0;0;0;0;0
+Antonio Raillo;21;Defensa;Mallorca;9;2;0;0;0;11;1
+Antonio Sanchez;18;Mediocentro;Mallorca;9;0;0;0;0;5;0
+Benjamin Garay;44;Defensa;Mallorca;9;0;0;0;0;0;0
+Clement Grenier;22;Mediocentro;Mallorca;9;0;0;0;0;7;0
+Copete;6;Defensa;Mallorca;9;1;0;0;0;7;1
+Dani Rodriguez;14;Mediocentro;Mallorca;9;3;0;0;0;8;0
+Dennis Hadzikadunic;5;Defensa;Mallorca;9;0;0;0;0;1;0
+Dominik Greif;13;Portero;Mallorca;9;0;0;3;5;0;0
+Fer Nino;26;Delantero;Mallorca;9;0;0;0;0;0;0
+Ferran Quetglas;30;Portero;Mallorca;9;0;0;0;0;0;0
+Giovanni Gonzalez;20;Defensa;Mallorca;9;0;0;0;0;5;0
+Iddrisu Baba;12;Mediocentro;Mallorca;9;0;0;0;0;5;0
+Inigo Ruiz de Galarreta;4;Mediocentro;Mallorca;9;0;0;0;0;12;0
+Jaume Costa;11;Defensa;Mallorca;9;0;0;0;0;11;0
+Javi Llabres;19;Delantero;Mallorca;9;0;0;0;0;0;0
+Jordi Mboula;-;Delantero;Mallorca;9;0;0;0;0;0;0
+Josep Gaya;-;Defensa;Mallorca;9;0;0;0;0;0;0
+Lee Kang-In;19;Mediocentro;Mallorca;9;6;0;0;0;10;0
+Leo Roman;31;Portero;Mallorca;9;0;0;0;4;0;0
+Ludwig Augustinsson;3;Defensa;Mallorca;9;0;0;0;0;0;0
+Luis Montiel;43;Mediocentro;Mallorca;9;0;0;0;0;0;0
+Manolo Reina;1;Portero;Mallorca;9;0;0;0;0;0;0
+Manu Morlanes;11;Mediocentro;Mallorca;9;1;0;0;0;3;1
+Marc Carmona;28;Defensa;Mallorca;9;0;0;0;0;0;0
+Marcos Fernandez;42;Defensa;Mallorca;9;0;0;0;0;0;0
+Martin Valjent;24;Defensa;Mallorca;9;0;0;0;0;8;0
+Matija Nastasic;2;Defensa;Mallorca;9;1;0;0;0;3;0
+Matthew Hoppe;11;Delantero;Mallorca;9;0;0;0;0;0;0
+Miguel Llabres;-;Mediocentro;Mallorca;9;0;0;0;0;0;0
+Miguelito;29;Defensa;Mallorca;9;0;0;0;0;0;0
+Pablo Galvez;27;Delantero;Mallorca;9;0;0;0;0;0;0
+Pablo Maffeo;15;Defensa;Mallorca;9;2;0;0;0;6;1
+Pere Garcia;31;Portero;Mallorca;9;0;0;0;0;0;0
+Predrag Rajkovic;1;Portero;Mallorca;9;0;0;40;94;3;0
+Ruben Quintanilla;26;Mediocentro;Mallorca;9;0;0;0;0;0;0
+Salva Sevilla;8;Mediocentro;Mallorca;9;0;0;0;0;0;0
+Sergio Rico;25;Portero;Mallorca;9;0;0;0;0;0;0
+Thomas Giaquinto;32;Mediocentro;Mallorca;9;0;0;0;0;0;0
+Tino Kadewere;17;Delantero;Mallorca;9;1;0;0;0;1;0
+Tofol Montiel;43;Delantero;Mallorca;9;0;0;0;0;0;0
+Vedat Muriqi;7;Delantero;Mallorca;9;15;0;0;0;6;1
+Aitor Fernandez;13;Portero;Osasuna;7;0;0;19;59;1;0
+Dario Ramos;39;Portero;Osasuna;7;0;0;0;0;0;0
+Pablo Valencia;31;Portero;Osasuna;7;0;0;0;0;0;0
+Sergio Herrera;1;Portero;Osasuna;7;0;0;23;49;3;0
+Yoel Ramirez;42;Portero;Osasuna;7;0;0;0;0;0;0
+Aridane Hernandez;23;Defensa;Osasuna;7;0;1;0;0;1;0
+Cote;16;Defensa;Osasuna;7;0;0;0;0;0;0
+David Garcia;5;Defensa;Osasuna;7;2;0;0;0;8;1
+Diego Moreno;35;Defensa;Osasuna;7;0;0;0;0;0;0
+Jesus Areso;12;Defensa;Osasuna;7;0;0;0;0;0;0
+Jonas Ramalho;15;Defensa;Osasuna;7;0;0;0;0;0;0
+Jorge Herrando;28;Defensa;Osasuna;7;0;0;0;0;0;1
+Juan Cruz Alvaro;3;Defensa;Osasuna;7;0;0;0;0;7;0
+Manu Sanchez;20;Defensa;Osasuna;7;0;2;0;0;3;0
+Nacho Vidal;2;Defensa;Osasuna;7;0;0;0;0;4;0
+Oier Sanjurjo;6;Defensa;Osasuna;7;0;0;0;0;0;0
+Ruben Pena;15;Defensa;Osasuna;7;0;1;0;0;2;1
+Unai Dufur;31;Defensa;Osasuna;7;0;0;0;0;0;0
+Unai Garcia;4;Defensa;Osasuna;7;0;1;0;0;6;1
+Aimar Oroz;10;Mediocentro;Osasuna;7;3;6;0;0;6;0
+Darko Brasanac;8;Mediocentro;Osasuna;7;1;1;0;0;5;0
+Iker Munoz;34;Mediocentro;Osasuna;7;0;0;0;0;0;0
+Inigo Perez;21;Mediocentro;Osasuna;7;0;0;0;0;0;0
+Jon Moncayola;7;Mediocentro;Osasuna;7;1;3;0;0;6;0
+Lucas Torro;6;Mediocentro;Osasuna;7;1;0;0;0;9;0
+Moi Gomez;16;Mediocentro;Osasuna;7;3;2;0;0;5;0
+Pablo Ibanez;19;Mediocentro;Osasuna;7;0;1;0;0;0;0
+Pau Martinez;37;Mediocentro;Osasuna;7;0;0;0;0;0;0
+Rober Ibanez;22;Mediocentro;Osasuna;7;0;0;0;0;0;0
+Ruben Garcia;14;Mediocentro;Osasuna;7;2;2;0;0;2;0
+Abde Ezzalzouli;12;Delantero;Osasuna;7;4;2;0;0;2;2
+Ante Budimir;17;Delantero;Osasuna;7;8;0;0;0;5;0
+Chimy Avila;9;Delantero;Osasuna;7;8;2;0;0;6;1
+Iker Benito;33;Delantero;Osasuna;7;0;0;0;0;0;0
+Kike Barja;11;Delantero;Osasuna;7;1;6;0;0;1;0
+Kike Garcia;18;Delantero;Osasuna;7;2;0;0;0;5;0
+Marc Cardona;-;Delantero;Osasuna;7;0;0;0;0;0;0
+Adrian Quintela;30;Portero;Rayo Vallecano;11;0;0;0;0;0;0
+Diego Lopez;13;Portero;Rayo Vallecano;11;0;0;4;1;0;0
+Luca Zidane;1;Portero;Rayo Vallecano;11;0;0;0;0;0;0
+Miguel Angel Morro;30;Portero;Rayo Vallecano;11;0;0;0;0;0;0
+Stole Dimitrievski;1;Portero;Rayo Vallecano;11;0;0;49;95;4;0
+Abdul Mumin;16;Defensa;Rayo Vallecano;11;0;0;0;0;2;0
+Alejandro Catena;5;Defensa;Rayo Vallecano;11;1;0;0;0;12;1
+Esteban Saveljich;24;Defensa;Rayo Vallecano;11;0;0;0;0;1;0
+Florian Lejeune;19;Defensa;Rayo Vallecano;11;4;0;0;0;4;3
+Fran Garcia;3;Defensa;Rayo Vallecano;11;2;0;0;0;0;0
+Iker Recio;27;Defensa;Rayo Vallecano;11;0;0;0;0;0;0
+Ivan Balliu;20;Defensa;Rayo Vallecano;11;0;0;0;0;6;0
+Jorge Moreno;27;Defensa;Rayo Vallecano;11;0;0;0;0;0;0
+Mario Hernandez;2;Defensa;Rayo Vallecano;11;0;0;0;0;1;0
+Mario Suarez;4;Defensa;Rayo Vallecano;11;0;0;0;0;0;1
+Martin Pascual;4;Defensa;Rayo Vallecano;11;0;0;0;0;0;0
+Nikola Maras;2;Defensa;Rayo Vallecano;11;0;0;0;0;0;0
+Pep Chavarria;3;Defensa;Rayo Vallecano;11;0;0;0;0;0;0
+Sergio Gimeno;26;Defensa;Rayo Vallecano;11;0;0;0;0;0;0
+Diego Mendez;29;Mediocentro;Rayo Vallecano;11;0;0;0;0;0;0
+Isi Palazon;7;Mediocentro;Rayo Vallecano;11;9;0;0;0;4;0
+Joni Montiel;15;Mediocentro;Rayo Vallecano;11;0;0;0;0;0;0
+Jose Pozo;6;Mediocentro;Rayo Vallecano;11;0;0;0;0;0;0
+Manuel Navarro;31;Mediocentro;Rayo Vallecano;11;0;0;0;0;0;0
+Pablo Munoz;28;Mediocentro;Rayo Vallecano;11;0;0;0;0;0;0
+Pathe Ciss;21;Mediocentro;Rayo Vallecano;11;1;0;0;0;4;0
+Salvi Sanchez;19;Mediocentro;Rayo Vallecano;11;0;0;0;0;2;0
+Santi Comesana;6;Mediocentro;Rayo Vallecano;11;3;0;0;0;6;0
+Unai Lopez;17;Mediocentro;Rayo Vallecano;11;1;0;0;0;2;0
+Alvaro Garcia;18;Mediocentro;Rayo Vallecano;11;5;5;0;0;7;0
+Oscar Trejo;8;Mediocentro;Rayo Vallecano;11;3;0;0;0;9;0
+Oscar Valentin;23;Mediocentro;Rayo Vallecano;11;0;0;0;0;11;0
+Alejandro Asensio;34;Delantero;Rayo Vallecano;11;0;0;0;0;0;0
+Andres Martin;-;Delantero;Rayo Vallecano;11;0;0;0;0;1;0
+Bebe;10;Delantero;Rayo Vallecano;11;0;0;0;0;1;0
+Mamadou Sylla;11;Delantero;Rayo Vallecano;11;0;0;0;0;0;0
+Martin Merquelanz;17;Delantero;Rayo Vallecano;11;0;0;0;0;0;0
+Radamel Falcao;9;Delantero;Rayo Vallecano;11;2;0;0;0;4;0
+Raul de Tomas;22;Delantero;Rayo Vallecano;11;4;0;0;0;2;0
+Sergio Camello;34;Delantero;Rayo Vallecano;11;6;0;0;0;1;0
+Sergio Moreno;-;Delantero;Rayo Vallecano;11;0;0;0;0;0;0
+Alvaro Aguirre;28;Delantero;Rayo Vallecano;11;0;0;0;0;0;0
+Claudio Bravo;1;Portero;Real Betis;6;0;0;9;35;2;0
+Dani Martin;25;Portero;Real Betis;6;0;0;0;0;0;0
+Dani Rebollo;30;Portero;Real Betis;6;0;0;0;0;0;0
+Fran Vieites;30;Portero;Real Betis;6;0;0;0;0;0;0
+German Garcia;50;Portero;Real Betis;6;0;0;0;0;0;0
+Joel Robles;1;Portero;Real Betis;6;0;0;0;0;0;0
+Rui Silva;13;Portero;Real Betis;6;0;0;32;73;2;0
+Abner;20;Defensa;Real Betis;6;0;0;0;0;2;0
+Aitor Ruibal;24;Defensa;Real Betis;6;0;0;0;0;4;1
+Edgar Gonzalez;3;Defensa;Real Betis;6;0;0;0;0;4;2
+Fran Delgado;32;Defensa;Real Betis;6;0;0;0;0;0;0
+Felix Garreta;35;Defensa;Real Betis;6;0;0;0;0;0;0
+German Pezzella;6;Defensa;Real Betis;6;0;0;0;0;4;3
+Hector Bellerin;19;Defensa;Real Betis;6;0;0;0;0;0;0
+Juan Miranda;3;Defensa;Real Betis;6;3;2;0;0;0;1
+Kike Hermoso;37;Defensa;Real Betis;6;0;0;0;0;0;0
+Luiz Felipe;19;Defensa;Real Betis;6;0;0;0;0;3;3
+Marc Baro;36;Defensa;Real Betis;6;0;0;0;0;0;0
+Martin Montoya;2;Defensa;Real Betis;6;0;0;0;0;1;0
+Ricardo Visus;34;Defensa;Real Betis;6;0;0;0;0;0;0
+Victor Ruiz;6;Defensa;Real Betis;6;0;0;0;0;0;0
+Youssouf Sabaly;23;Defensa;Real Betis;6;1;1;0;0;2;0
+Andres Guardado;18;Mediocentro;Real Betis;6;1;1;0;0;7;0
+Dani Perez;37;Mediocentro;Real Betis;6;0;0;0;0;0;0
+Diego Lainez;20;Mediocentro;Real Betis;6;0;0;0;0;0;0
+Enrique Fernandez;40;Mediocentro;Real Betis;6;0;0;0;0;0;0
+Guido Rodriguez;5;Mediocentro;Real Betis;6;1;0;0;0;8;0
+Joaquin;17;Mediocentro;Real Betis;6;0;2;0;0;2;0
+Jorge Wagner;17;Mediocentro;Real Betis;6;0;0;0;0;0;0
+Jose Lara;41;Mediocentro;Real Betis;6;0;0;0;0;0;0
+Juan Cruz Diaz;16;Mediocentro;Real Betis;6;1;0;0;0;0;0
+Paul Akouokou;4;Mediocentro;Real Betis;6;0;0;0;0;3;0
+Rodri;17;Mediocentro;Real Betis;6;2;3;0;0;0;0
+Sergio Canales;10;Mediocentro;Real Betis;6;4;3;0;0;2;2
+William Carvalho;14;Mediocentro;Real Betis;6;3;0;0;0;6;1
+Yassin Fekir;-;Mediocentro;Real Betis;6;0;0;0;0;0;0
+Ayoze Perez;10;Delantero;Real Betis;6;3;1;0;0;3;0
+Borja Iglesias;9;Delantero;Real Betis;6;15;3;0;0;2;1
+Cristian Tello;11;Delantero;Real Betis;6;0;0;0;0;0;0
+Juanmi;7;Delantero;Real Betis;6;4;0;0;0;3;0
+Luiz Henrique;11;Delantero;Real Betis;6;1;3;0;0;6;0
+Nabil Fekir;8;Delantero;Real Betis;6;2;2;0;0;5;1
+Rober;27;Delantero;Real Betis;6;0;0;0;0;0;0
+Willian Jose;12;Delantero;Real Betis;6;2;1;0;0;0;0
+Andriy Lunin;13;Portero;Real Madrid;2;0;0;7;12;0;0
+Diego Altube;26;Portero;Real Madrid;2;0;0;0;0;0;0
+Diego Pineiro;26;Portero;Real Madrid;2;0;0;0;0;0;0
+Lucas Canizares;31;Portero;Real Madrid;2;0;0;0;0;0;0
+Luis Lopez;26;Portero;Real Madrid;2;0;0;0;0;0;0
+Mario de Luis;43;Portero;Real Madrid;2;0;0;0;0;0;0
+Thibaut Courtois;1;Portero;Real Madrid;2;0;0;29;89;0;0
+Antonio Rudiger;22;Defensa;Real Madrid;2;1;0;0;0;1;0
+Dani Carvajal;2;Defensa;Real Madrid;2;0;2;0;0;6;1
+David Alaba;4;Defensa;Real Madrid;2;1;3;0;0;3;0
+Ferland Mendy;23;Defensa;Real Madrid;2;0;1;0;0;2;0
+Jesus Vallejo;25;Defensa;Real Madrid;2;0;0;0;0;0;0
+Marcelo;12;Defensa;Real Madrid;2;0;0;0;0;0;0
+Mario Gila;34;Defensa;Real Madrid;2;0;0;0;0;0;0
+Marvel;35;Defensa;Real Madrid;2;0;0;0;0;0;0
+Nacho;6;Defensa;Real Madrid;2;1;1;0;0;7;0
+Pablo Ramon;-;Defensa;Real Madrid;2;0;0;0;0;0;0
+Rafa Marin;41;Defensa;Real Madrid;2;0;0;0;0;0;0
+Sergio Santos;43;Defensa;Real Madrid;2;0;0;0;0;0;0
+Vinicius Tobias;36;Defensa;Real Madrid;2;0;0;0;0;0;0
+Alvaro Odriozola;16;Defensa;Real Madrid;2;0;0;0;0;0;0
+Eder Militao;3;Defensa;Real Madrid;2;5;0;0;0;4;0
+Antonio Blanco;27;Mediocentro;Real Madrid;2;0;0;0;0;0;0
+Aurelien Tchouameni;18;Mediocentro;Real Madrid;2;0;4;0;0;2;0
+Brahim Diaz;21;Mediocentro;Real Madrid;2;0;0;0;0;0;0
+Carlos Dotor;32;Mediocentro;Real Madrid;2;0;0;0;0;0;0
+Dani Ceballos;19;Mediocentro;Real Madrid;2;0;4;0;0;8;0
+Eduardo Camavinga;12;Mediocentro;Real Madrid;2;0;1;0;0;6;0
+Federico Valverde;15;Mediocentro;Real Madrid;2;7;4;0;0;2;0
+Isco;22;Mediocentro;Real Madrid;2;0;2;0;0;5;0
+Lucas Vazquez;17;Mediocentro;Real Madrid;2;4;1;0;0;2;0
+Luka Modric;10;Mediocentro;Real Madrid;2;4;3;0;0;7;0
+Mario Martin;28;Mediocentro;Real Madrid;2;0;0;0;0;0;0
+Nico Paz;32;Mediocentro;Real Madrid;2;0;0;0;0;0;0
+Peter;44;Mediocentro;Real Madrid;2;0;0;0;0;0;0
+Sergio Arribas;33;Mediocentro;Real Madrid;2;0;0;0;0;0;0
+Toni Kroos;8;Mediocentro;Real Madrid;2;2;4;0;0;0;1
+Eden Hazard;7;Delantero;Real Madrid;2;0;1;0;0;0;0
+Gareth Bale;18;Delantero;Real Madrid;2;0;0;0;0;0;0
+Karim Benzema;9;Delantero;Real Madrid;2;19;3;0;0;1;0
+Luka Jovic;16;Delantero;Real Madrid;2;0;0;0;0;0;0
+Marco Asensio;-;Delantero;Real Madrid;2;9;6;0;0;1;0
+Mariano Diaz;24;Delantero;Real Madrid;2;0;0;0;0;2;0
+Rodrygo;11;Delantero;Real Madrid;2;9;8;0;0;4;0
+Vinicius Junior;7;Delantero;Real Madrid;2;10;9;0;0;10;1
+Alvaro Rodriguez;29;Delantero;Real Madrid;2;1;1;0;0;0;0
+Andoni Zubiaurre;13;Portero;Real Sociedad;4;0;0;0;0;0;0
+Egoitz Arana;45;Portero;Real Sociedad;4;0;0;0;0;0;0
+Gaizka Ayesa;34;Portero;Real Sociedad;4;0;0;0;0;0;0
+Mathew Ryan;13;Portero;Real Sociedad;4;0;0;0;0;0;0
+Unai Marrero;32;Portero;Real Sociedad;4;0;0;0;0;0;0
+Alex Remiro;1;Portero;Real Sociedad;4;0;0;35;100;1;0
+Aihen Munoz;3;Defensa;Real Sociedad;4;0;1;0;0;2;0
+Andoni Gorosabel;18;Defensa;Real Sociedad;4;0;0;0;0;3;0
+Aritz Arambarri;26;Defensa;Real Sociedad;4;0;0;0;0;0;0
+Aritz Elustondo;6;Defensa;Real Sociedad;4;0;1;0;0;5;1
+Cristo Romero;42;Defensa;Real Sociedad;4;0;0;0;0;0;0
+Diego Rico;15;Defensa;Real Sociedad;4;0;0;0;0;3;0
+Jon Pacheco;20;Defensa;Real Sociedad;4;0;1;0;0;2;0
+Jonathan Gomez;28;Defensa;Real Sociedad;4;0;0;0;0;0;0
+Modibo Sagnan;17;Defensa;Real Sociedad;4;0;0;0;0;0;0
+Nacho Monreal;20;Defensa;Real Sociedad;4;0;0;0;0;0;0
+Robin Le Normand;24;Defensa;Real Sociedad;4;0;0;0;0;6;0
+Urko Gonzalez;26;Defensa;Real Sociedad;4;0;0;0;0;0;0
+Alex Sola;2;Defensa;Real Sociedad;4;0;0;0;0;0;0
+Adnan Januzaj;11;Mediocentro;Real Sociedad;4;0;0;0;0;0;0
+Ander Guevara;16;Mediocentro;Real Sociedad;4;0;0;0;0;2;0
+Asier Illarramendi;4;Mediocentro;Real Sociedad;4;1;0;0;0;5;0
+Benat Turrientes;22;Mediocentro;Real Sociedad;4;0;0;0;0;0;0
+Brais Mendez;23;Mediocentro;Real Sociedad;4;8;4;0;0;6;0
+David Silva;21;Mediocentro;Real Sociedad;4;2;5;0;0;4;0
+Igor Zubeldia;5;Mediocentro;Real Sociedad;4;1;1;0;0;10;0
+Jon Guridi;14;Mediocentro;Real Sociedad;4;0;0;0;0;0;0
+Jon Magunazelaia;28;Mediocentro;Real Sociedad;4;0;0;0;0;0;0
+Jon Olasagasti;31;Mediocentro;Real Sociedad;4;0;0;0;0;0;0
+Martin Zubimendi;4;Mediocentro;Real Sociedad;4;1;3;0;0;12;0
+Mikel Merino;8;Mediocentro;Real Sociedad;4;2;9;0;0;6;1
+Nais Djouahra;37;Mediocentro;Real Sociedad;4;0;0;0;0;0;0
+Pablo Marin;29;Mediocentro;Real Sociedad;4;0;0;0;0;0;0
+Rafinha;17;Mediocentro;Real Sociedad;4;0;0;0;0;0;0
+Robert Navarro;17;Mediocentro;Real Sociedad;4;0;0;0;0;2;0
+Takefusa Kubo;14;Mediocentro;Real Sociedad;4;9;4;0;0;3;0
+Alexander Sorloth;19;Delantero;Real Sociedad;4;12;3;0;0;4;0
+Ander Barrenetxea;7;Delantero;Real Sociedad;4;3;1;0;0;4;0
+Ander Martin;28;Delantero;Real Sociedad;4;0;0;0;0;0;0
+Carlos Fernandez;9;Delantero;Real Sociedad;4;1;0;0;0;6;0
+German Valera;41;Delantero;Real Sociedad;4;0;0;0;0;0;0
+Jon Bautista;25;Delantero;Real Sociedad;4;0;0;0;0;0;0
+Jon Karrikaburu;27;Delantero;Real Sociedad;4;0;0;0;0;0;0
+Julen Lobete;35;Delantero;Real Sociedad;4;0;0;0;0;0;0
+Mikel Oyarzabal;10;Delantero;Real Sociedad;4;4;1;0;0;1;0
+Mohamed-Ali Cho;11;Delantero;Real Sociedad;4;1;2;0;0;0;0
+Umar Sadiq;19;Delantero;Real Sociedad;4;3;0;0;0;0;0
+Jordi Masip;1;Portero;Real Valladolid;18;0;0;42;105;4;0
+Jose Antonio Caro;26;Portero;Real Valladolid;18;0;0;0;0;0;0
+Samu Casado;26;Portero;Real Valladolid;18;0;0;0;0;0;0
+Sergio Asenjo;13;Portero;Real Valladolid;18;0;0;21;31;0;0
+Yaroslav Meykher;-;Portero;Real Valladolid;18;0;0;0;0;0;0
+Alvaro Aceves;31;Portero;Real Valladolid;18;0;0;0;3;0;0
+David Torres;3;Defensa;Real Valladolid;18;0;0;0;0;1;0
+Diego Alende;30;Defensa;Real Valladolid;18;0;0;0;0;0;0
+Enrique Rios;31;Defensa;Real Valladolid;18;0;0;0;0;0;0
+Ivan Fresneda;27;Defensa;Real Valladolid;18;0;0;0;0;3;0
+Javi Sanchez;5;Defensa;Real Valladolid;18;1;0;0;0;11;0
+Jawad El Yamiq;15;Defensa;Real Valladolid;18;1;0;0;0;2;1
+Kiko Olivas;4;Defensa;Real Valladolid;18;0;0;0;0;0;0
+Lucas Rosa;22;Defensa;Real Valladolid;18;0;1;0;0;3;0
+Luis Perez;2;Defensa;Real Valladolid;18;0;1;0;0;2;0
+Nacho Martinez;22;Defensa;Real Valladolid;18;0;0;0;0;0;0
+Saidy Janko;18;Defensa;Real Valladolid;18;0;0;0;0;0;0
+Sergio Escudero;18;Defensa;Real Valladolid;18;1;0;0;0;3;0
+Victor Rofino;33;Defensa;Real Valladolid;18;0;0;0;0;0;0
+Alberto Quintana;26;Mediocentro;Real Valladolid;18;0;0;0;0;0;0
+Anuar Tuhami;23;Mediocentro;Real Valladolid;18;1;0;0;0;0;0
+Dali;36;Mediocentro;Real Valladolid;18;0;0;0;0;0;0
+Eugene Frimpong;37;Mediocentro;Real Valladolid;18;0;0;0;0;0;0
+Gonzalo Plata;11;Mediocentro;Real Valladolid;18;1;5;0;0;0;0
+Ivan Sanchez;10;Mediocentro;Real Valladolid;18;1;1;0;0;0;0
+Joaquin Fernandez;24;Mediocentro;Real Valladolid;18;1;0;0;0;4;0
+Jon Morcillo;20;Mediocentro;Real Valladolid;18;0;1;0;0;0;0
+Juanjo Narvaez;20;Mediocentro;Real Valladolid;18;0;0;0;0;0;0
+Kenedy;24;Mediocentro;Real Valladolid;18;0;1;0;0;3;0
+Mario Maroto;34;Mediocentro;Real Valladolid;18;0;0;0;0;0;0
+Martin Hongla;20;Mediocentro;Real Valladolid;18;0;0;0;0;5;2
+Mickael Malsa;14;Mediocentro;Real Valladolid;18;0;0;0;0;0;0
+Mikel Carro;32;Mediocentro;Real Valladolid;18;0;0;0;0;0;0
+Moha;35;Mediocentro;Real Valladolid;18;0;0;0;0;0;0
+Monchu;8;Mediocentro;Real Valladolid;18;3;2;0;0;10;0
+Pablo Hervias;11;Mediocentro;Real Valladolid;18;0;0;0;0;0;0
+Roque Mesa;17;Mediocentro;Real Valladolid;18;2;1;0;0;9;1
+Selim Amallah;9;Mediocentro;Real Valladolid;18;2;1;0;0;2;1
+Sergio Ortuno;47;Mediocentro;Real Valladolid;18;0;0;0;0;0;0
+Alvaro Aguado;6;Mediocentro;Real Valladolid;18;1;2;0;0;3;0
+Cristo Gonzalez;23;Delantero;Real Valladolid;18;0;0;0;0;0;0
+Cyle Larin;25;Delantero;Real Valladolid;18;8;3;0;0;4;0
+Darwin Machis;22;Delantero;Real Valladolid;18;0;1;0;0;1;0
+Hugo Vallejo;17;Delantero;Real Valladolid;18;0;0;0;0;0;0
+Ivan Cedric;35;Delantero;Real Valladolid;18;0;0;0;0;0;0
+Jovane Cabral;-;Delantero;Real Valladolid;18;0;0;0;0;0;0
+Manuel Pozo;44;Delantero;Real Valladolid;18;0;0;0;0;0;0
+Roberto Arroyo;30;Delantero;Real Valladolid;18;0;0;0;0;0;0
+Sekou Gassama;22;Delantero;Real Valladolid;18;0;0;0;0;0;0
+Sergio Benito;31;Delantero;Real Valladolid;18;0;0;0;0;0;0
+Sergio Leon;7;Delantero;Real Valladolid;18;6;1;0;0;0;1
+Shon Weissman;9;Delantero;Real Valladolid;18;1;0;0;0;1;0
+Slavy;42;Delantero;Real Valladolid;18;0;0;0;0;0;0
+Tunde Akinsola;36;Delantero;Real Valladolid;18;0;0;0;0;0;0
+Victor Narro;38;Delantero;Real Valladolid;18;0;0;0;0;0;0
+Oscar Plano;10;Delantero;Real Valladolid;18;1;1;0;0;3;0
+Adrian Gonzalez;40;Portero;Sevilla;12;0;0;0;0;0;0
+Alberto Flores;31;Portero;Sevilla;12;0;0;0;0;0;0
+Alfonso Pastor;-;Portero;Sevilla;12;0;0;0;0;0;0
+Javi Diaz;31;Portero;Sevilla;12;0;0;0;0;0;0
+Marius Herzig;33;Portero;Sevilla;12;0;0;0;0;0;0
+Marko Dmitrovic;1;Portero;Sevilla;12;0;0;13;44;2;0
+Matias Arbol;33;Portero;Sevilla;12;0;0;0;0;0;0
+Yassine Bounou;13;Portero;Sevilla;12;0;0;41;67;2;0
+Alex Telles;3;Defensa;Sevilla;12;0;2;0;0;6;0
+Diego Hormigo;44;Defensa;Sevilla;12;0;0;0;0;0;0
+Gonzalo Montiel;4;Defensa;Sevilla;12;0;3;0;0;8;1
+Jesus Navas;16;Defensa;Sevilla;12;0;0;0;0;5;0
+Juan Maria Alcedo;44;Defensa;Sevilla;12;0;0;0;0;0;0
+Karim Rekik;4;Defensa;Sevilla;12;1;1;0;0;2;0
+Kike Salas;27;Defensa;Sevilla;12;1;1;0;0;0;1
+Loic Bade;22;Defensa;Sevilla;12;1;0;0;0;4;0
+Lulo Dasilva;42;Defensa;Sevilla;12;0;0;0;0;0;0
+Marcos Acuna;19;Defensa;Sevilla;12;3;2;0;0;9;3
+Marcao;23;Defensa;Sevilla;12;0;0;0;0;0;0
+Pablo Perez;26;Defensa;Sevilla;12;0;0;0;0;0;0
+Tanguy Nianzou;14;Defensa;Sevilla;12;1;0;0;0;0;1
+Valentino Fattore;42;Defensa;Sevilla;12;0;0;0;0;0;0
+Antonio Zarzana;38;Mediocentro;Sevilla;12;0;0;0;0;0;0
+Carlos Alvarez;27;Mediocentro;Sevilla;12;0;0;0;0;0;0
+Fernando;20;Mediocentro;Sevilla;12;0;1;0;0;2;1
+Ivan Rakitic;10;Mediocentro;Sevilla;12;1;3;0;0;3;1
+Joan Jordan;8;Mediocentro;Sevilla;12;0;1;0;0;8;0
+Juanlu Sanchez;26;Mediocentro;Sevilla;12;0;0;0;0;0;0
+Lucas Ocampos;5;Mediocentro;Sevilla;12;4;0;0;0;7;0
+Luismi Cruz;-;Mediocentro;Sevilla;12;0;0;0;0;0;0
+Manu Bueno;28;Mediocentro;Sevilla;12;0;0;0;0;0;0
+Nacho Quintana;28;Mediocentro;Sevilla;12;0;0;0;0;0;0
+Nemanja Gudelj;6;Mediocentro;Sevilla;12;3;1;0;0;8;0
+Pape Gueye;18;Mediocentro;Sevilla;12;1;3;0;0;2;3
+Papu Gomez;24;Mediocentro;Sevilla;12;1;1;0;0;4;0
+Pedro Ortiz;32;Mediocentro;Sevilla;12;0;0;0;0;0;0
+Suso;7;Mediocentro;Sevilla;12;2;4;0;0;0;0
+Thomas Delaney;-;Mediocentro;Sevilla;12;0;0;0;0;3;0
+Xavi Sintes;45;Mediocentro;Sevilla;12;0;0;0;0;0;0
+Erik Lamela;17;Mediocentro;Sevilla;12;6;0;0;0;8;1
+Oliver Torres;21;Mediocentro;Sevilla;12;3;1;0;0;0;0
+Anthony Martial;22;Delantero;Sevilla;12;0;0;0;0;0;0
+Bryan Gil;25;Delantero;Sevilla;12;2;2;0;0;4;0
+Ivan Romero;-;Delantero;Sevilla;12;0;0;0;0;0;0
+Jesus Corona;11;Delantero;Sevilla;12;1;0;0;0;0;0
+Rafa Mir;9;Delantero;Sevilla;12;6;0;0;0;0;0
+Rony Lopes;-;Delantero;Sevilla;12;0;0;0;0;0;0
+Youssef En-Nesyri;15;Delantero;Sevilla;12;8;1;0;0;4;0
+Charlie Perez;26;Portero;Valencia Cf;16;0;0;0;0;0;0
+Cristian Rivero;13;Portero;Valencia Cf;16;0;0;0;0;0;0
+Emilio Bernad;42;Portero;Valencia Cf;16;0;0;0;0;0;0
+Giorgi Mamardashvili;25;Portero;Valencia Cf;16;0;0;45;105;3;0
+Iago Herrerin;1;Portero;Valencia Cf;16;0;0;0;0;0;0
+Jasper Cillessen;13;Portero;Valencia Cf;16;0;0;0;0;0;0
+Jaume Domenech;1;Portero;Valencia Cf;16;0;0;0;0;0;0
+Cenk Ozkacar;15;Defensa;Valencia Cf;16;0;0;0;0;0;0
+Cristhian Mosquera;3;Defensa;Valencia Cf;16;0;0;0;0;0;0
+Cesar Tarrega;29;Defensa;Valencia Cf;16;0;0;0;0;0;0
+Dimitri Foulquier;20;Defensa;Valencia Cf;16;0;2;0;0;4;0
+Eray Comert;24;Defensa;Valencia Cf;16;1;0;0;0;5;1
+Facundo Gonzalez;-;Defensa;Valencia Cf;16;0;0;0;0;0;0
+Gabriel Paulista;5;Defensa;Valencia Cf;16;1;0;0;0;2;2
+Hugo Guillamon;6;Defensa;Valencia Cf;16;1;4;0;0;5;0
+Jesus Vazquez;21;Defensa;Valencia Cf;16;0;0;0;0;1;0
+Jorge Saenz;-;Defensa;Valencia Cf;16;0;0;0;0;0;0
+Joseda;34;Defensa;Valencia Cf;16;0;0;0;0;0;0
+Jose Gaya;14;Defensa;Valencia Cf;16;1;3;0;0;4;0
+Mouctar Diakhaby;4;Defensa;Valencia Cf;16;3;0;0;0;5;1
+Ruben Iranzo;31;Defensa;Valencia Cf;16;0;0;0;0;0;0
+Thierry Correia;12;Defensa;Valencia Cf;16;0;0;0;0;6;0
+Toni Lato;3;Defensa;Valencia Cf;16;1;0;0;0;1;0
+Alessandro Burlamaqui;36;Mediocentro;Valencia Cf;16;0;0;0;0;0;0
+Andre Almeida;10;Mediocentro;Valencia Cf;16;2;4;0;0;3;0
+Denis Cheryshev;17;Mediocentro;Valencia Cf;16;0;0;0;0;0;0
+Fran Perez;23;Mediocentro;Valencia Cf;16;0;0;0;0;2;0
+Goncalo Guedes;7;Mediocentro;Valencia Cf;16;0;0;0;0;0;0
+Hugo Gonzalez;30;Mediocentro;Valencia Cf;16;0;0;0;0;0;0
+Ilaix Moriba;8;Mediocentro;Valencia Cf;16;0;2;0;0;4;2
+Javi Guerra;8;Mediocentro;Valencia Cf;16;1;0;0;0;0;0
+Koba Koindredi;18;Mediocentro;Valencia Cf;16;0;0;0;0;0;0
+Lassina Sangare;40;Mediocentro;Valencia Cf;16;0;0;0;0;0;0
+Mario Dominguez;43;Mediocentro;Valencia Cf;16;0;0;0;0;0;0
+Nico Gonzalez;17;Mediocentro;Valencia Cf;16;1;1;0;0;0;0
+Pablo Gozalbez;27;Mediocentro;Valencia Cf;16;0;0;0;0;0;0
+Pedro Aleman;26;Mediocentro;Valencia Cf;16;0;0;0;0;0;0
+Samu Castillejo;11;Mediocentro;Valencia Cf;16;4;0;0;0;7;0
+Uros Racic;19;Mediocentro;Valencia Cf;16;0;0;0;0;0;0
+Yellu Santiago;35;Mediocentro;Valencia Cf;16;0;0;0;0;0;0
+Yunus Musah;4;Mediocentro;Valencia Cf;16;0;2;0;0;10;1
+Alberto Mari;22;Delantero;Valencia Cf;16;1;0;0;0;0;0
+Diego Lopez Noguerol;16;Delantero;Valencia Cf;16;3;1;0;0;0;0
+Edinson Cavani;7;Delantero;Valencia Cf;16;5;2;0;0;6;0
+Hugo Duro;9;Delantero;Valencia Cf;16;1;1;0;0;5;0
+Helder Costa;11;Delantero;Valencia Cf;16;0;0;0;0;0;0
+Justin Kluivert;9;Delantero;Valencia Cf;16;6;0;0;0;4;0
+Marcos Andre;22;Delantero;Valencia Cf;16;1;0;0;0;2;1
+Samuel Lino;16;Delantero;Valencia Cf;16;6;1;0;0;4;0
+Filip Jorgensen;13;Portero;Villarreal;5;0;0;3;3;0;0
+Gianni Cassaro;-;Portero;Villarreal;5;0;0;0;0;0;0
+Iker Alvarez;31;Portero;Villarreal;5;0;0;0;0;0;0
+Pepe Reina;1;Portero;Villarreal;5;0;1;27;61;2;0
+Adrian de la Fuente;-;Defensa;Villarreal;5;0;0;0;0;0;0
+Alberto Moreno;18;Defensa;Villarreal;5;0;1;0;0;7;0
+Aissa Mandi;23;Defensa;Villarreal;5;0;0;0;0;1;0
+Carlos Romero;37;Defensa;Villarreal;5;0;0;0;0;0;0
+Dani Tasende;3;Defensa;Villarreal;5;0;0;0;0;0;0
+Johan Mojica;12;Defensa;Villarreal;5;0;0;0;0;2;0
+Juan Foyth;8;Defensa;Villarreal;5;1;0;0;0;6;0
+Kiko Femenia;17;Defensa;Villarreal;5;0;0;0;0;0;0
+Lanchi;30;Defensa;Villarreal;5;0;0;0;0;0;0
+Mamadou Fall;33;Defensa;Villarreal;5;0;0;0;0;0;0
+Marcos Sanchez;38;Defensa;Villarreal;5;0;0;0;0;0;0
+Mario Gaspar;2;Defensa;Villarreal;5;0;0;0;0;0;0
+Pau Torres;4;Defensa;Villarreal;5;1;0;0;0;10;0
+Raul Albiol;3;Defensa;Villarreal;5;0;0;0;0;6;0
+Sergio Carreira;30;Defensa;Villarreal;5;0;0;0;0;0;0
+Serge Aurier;25;Defensa;Villarreal;5;0;0;0;0;0;0
+Alberto del Moral;26;Mediocentro;Villarreal;5;0;0;0;0;0;0
+Alfonso Pedraza;24;Mediocentro;Villarreal;5;0;3;0;0;5;0
+Carlo Garcia;28;Mediocentro;Villarreal;5;0;0;0;0;0;0
+Dani Parejo;10;Mediocentro;Villarreal;5;3;4;0;0;6;0
+Francis Coquelin;19;Mediocentro;Villarreal;5;1;0;0;0;2;0
+Giovani Lo Celso;17;Mediocentro;Villarreal;5;2;3;0;0;3;0
+Iborra;-;Mediocentro;Villarreal;5;0;0;0;0;0;0
+Javi Ontiveros;-;Mediocentro;Villarreal;5;0;0;0;0;0;0
+Manu Trigueros;14;Mediocentro;Villarreal;5;0;1;0;0;2;1
+Paulo Vitor;-;Mediocentro;Villarreal;5;0;0;0;0;0;0
+Ramon Terrats;39;Mediocentro;Villarreal;5;1;1;0;0;1;0
+Rodri Alonso;32;Mediocentro;Villarreal;5;0;0;0;0;0;0
+Yeremy Pino;21;Mediocentro;Villarreal;5;4;5;0;0;7;0
+Etienne Capoue;6;Mediocentro;Villarreal;5;3;0;0;0;4;0
+Arnaut Danjuma;-;Delantero;Villarreal;5;2;0;0;0;0;0
+Boulaye Dia;17;Delantero;Villarreal;5;0;0;0;0;0;0
+Diego Collado;43;Delantero;Villarreal;5;0;0;0;0;0;0
+Gerard Moreno;7;Delantero;Villarreal;5;7;3;0;0;3;0
+Haissem Hassan;40;Delantero;Villarreal;5;0;0;0;0;0;0
+Jorge Pascual;30;Delantero;Villarreal;5;1;0;0;0;0;0
+Jose Luis Morales;15;Delantero;Villarreal;5;7;0;0;0;2;0
+Juan Carlos Arana;42;Delantero;Villarreal;5;0;0;0;0;0;0
+Nicolas Jackson;15;Delantero;Villarreal;5;12;4;0;0;4;1
+Paco Alcacer;9;Delantero;Villarreal;5;0;0;0;0;0;0
+Samuel Chukwueze;11;Delantero;Villarreal;5;6;5;0;0;1;0
+Alex Millan;-;Delantero;Villarreal;5;0;0;0;0;0;0

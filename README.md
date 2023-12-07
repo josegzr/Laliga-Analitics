@@ -7,5 +7,22 @@
 
 
 ## Descripción del proyecto
-En este proyecto he analizado algunas de las estadisticas de la liga de futbol Española de la temporada 2022/2023, stas estadisticas estan: la clasificacion con sus equipos puntos de cada uno, los resultados de cada partido por jornada y la fecha de cada partido y los jugadores de cada equipo con sus estadisticas como por ejemplo, paradas de los porteros, tarjetas amarillas y tarjetas rojas.
+En este proyecto con herramietas como python he conseeguido las estadisticas de la liga de futbol Española de la temporada 2022/2023, agunas de estas estadisticas son: la clasificacion, los resultados de cada partido y los jugadores de cada equipo con sus propias estadisticas. He metido todos los datos en una base de datos de SQl llamada laliganalitics y he creado las relaciones que tienen entre si. Por ultimo con la herramienta de visualizacion PowerBI he visulaizado los datos para poder analizarlos.
+
+### Objetivo:
+El objetivo de este proyecto es analizar las estadisticas que he obtenido de cada equipo e sacar conclusiones de porque cada equipo quedo ese lugar en la tabla de clasificacion.
+
+## Extraccion
+Para empezar busque varias paginas web de futbol poder sacar las estadisticas y al final di con la pagina web el mundo deportivo. De esta pagina consegui sacar tres tablas:
+
+</details>
+
+<details>
+<summary>https://www.mundodeportivo.com/resultados/futbol/laliga/clasificacion/2022-2023</summary>
+<br>
+
+ ![profootballreference](https://github.com/josegzr/Laliga-Analitics/blob/main/img/tabla%20de%20clasificacion.png)
+
+
+
 

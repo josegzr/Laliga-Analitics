@@ -115,11 +115,11 @@ CREATE TABLE jugadores (
 
 ![EERD_manual](https://github.com/josegzr/Laliga-Analitics/blob/main/img/ERD.png)
 
+<details>
 
 
 
-
-## visualización
+## Visualización
 
 ## Primera pagina
 

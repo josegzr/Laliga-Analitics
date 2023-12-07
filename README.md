@@ -59,6 +59,7 @@ En cuanto a la transformacion no tuve que hacer mucho par de cambios en los nomb
 <summary>Código SQL </summary>
 
 <br>
+
 create database LaligaAnalitics;
 use LaligaAnalitics;
 
@@ -104,7 +105,7 @@ CREATE TABLE jugadores (
     tarjetas_rojas INT,
     FOREIGN KEY (ID_equipo) REFERENCES clasificacion(ID_equipo)
 );
-    
+</details>
 
 
 <details>
@@ -114,7 +115,7 @@ CREATE TABLE jugadores (
 
 ![EERD_manual](https://github.com/josegzr/Laliga-Analitics/blob/main/img/ERD.png)
 
-
+<details>
 
 
 

@@ -14,6 +14,7 @@ El objetivo de este proyecto es analizar las estadisticas que he obtenido de cad
 
 ## Extraccion
 Para empezar busque varias paginas web de futbol poder sacar las estadisticas y al final di con la pagina web el mundo deportivo. De esta pagina consegui sacar tres tablas:
+
 Estas son las primeras 5 lineas y sus columnas de la tabla clasificacion:
 
 </details>
@@ -29,7 +30,7 @@ Estas son las primeras 5 lineas y sus columnas de la tabla jugadores:
  </details>
 
 <details>
-<summary>https://www.mundodeportivo.com/resultados/futbol/laliga/clasificacion/2022-2023</summary>
+<summary>https://www.mundodeportivo.com/resultados/futbol/laliga/equipos/2022-2023</summary>
 <br>
 
  ![profootballreference](https://github.com/josegzr/Laliga-Analitics/blob/main/img/jugadores.png)
@@ -39,12 +40,81 @@ Estas son las primeras 5 lineas y sus columnas de la tabla jugadores:
  </details>
 
 <details>
-<summary>https://www.mundodeportivo.com/resultados/futbol/laliga/clasificacion/2022-2023</summary>
+<summary>https://www.mundodeportivo.com/resultados/futbol/laliga/equipos/2022-2023</summary>
 <br>
 
  ![profootballreference](https://github.com/josegzr/Laliga-Analitics/blob/main/img/resultados.png)
 
- 
+**Proceso de extracción**
+La extraccion se hizo toda atraves de python con el metodo de web scraping y la libreria de selenium
+
+**Proceso de transformacion**
+En cuanto a la transformacion no tuve que hacer mucho par de cambios en los nombres de columnas eliminar unos cuantos duplicados en la tabla de jugadores y añadir unas columnas en la tabla de resultados para identificar a los equipos y saber quien habia ganado segun el resultado que habian obtenido.
+
+## Metodo de creacion de Base de datos
+
+</details>
+
+<details>
+<summary>Código SQL </summary>
+
+<br>
+create database LaligaAnalitics;
+use LaligaAnalitics;
+
+CREATE TABLE clasificacion (
+	ID_equipo INT PRIMARY KEY,
+    Equipo VARCHAR(255),
+    partidos_jugados INT,
+    partidos_ganados INT,
+    partidos_empatados INT,
+    partidos_perdidos INT,
+    goles_a_favor INT,
+    goles_en_contra INT,
+    total_puntos INT
+);
+
+
+CREATE TABLE resultados (
+	Jornada INT PRIMARY KEY,
+    fecha datetime,
+    Equipo_local varchar(255),
+    ID_equipo_local INT,
+    Goles_del_Equipo_Local INT,
+    Equipo_visitante varchar(255),
+    ID_equipo_visitante INT,
+    Goles_del_Equipo_Visitante INT,
+    Resultado_Local varchar(255),
+    Resultado_Visitante varchar(255),
+    FOREIGN KEY (ID_equipo_local) REFERENCES clasificacion(ID_equipo),
+    FOREIGN KEY (ID_equipo_visitante) REFERENCES clasificacion(ID_equipo)
+);
+
+CREATE TABLE jugadores (
+	Nombre_jugador varchar(255) PRIMARY KEY,
+    Dorsal varchar(255),
+    Posicion varchar(255),
+    Equipo varchar(255),
+    ID_equipo INT,
+    goles_marcados INT,
+    asistencias INT,
+    goles_recibidos INT,
+    paradas INT,
+    tarjetas_amarillas INT,
+    tarjetas_rojas INT,
+    FOREIGN KEY (ID_equipo) REFERENCES clasificacion(ID_equipo)
+);
+    
+
+
+<details>
+<summary>ERD</summary>
+
+<br>
+
+![EERD_manual](https://github.com/josegzr/Laliga-Analitics/blob/main/img/ERD.png)
+
+
 
 
 

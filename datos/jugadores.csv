@@ -1,4 +1,4 @@
-Nombre_jugador,Dorsal,Posicion,Equipo,ID_equipo,goles_marcados,asistencias,goles_recibidos,paradas,tarejtas_amarillas,tarejtas_rojas
+Nombre_jugador,Dorsal,Posicion,Equipo,ID_equipo,goles_marcados,asistencias,goles_recibidos,paradas,tarjetas_amarillas,tarjetas_rojas
 Diego Fuoli,25,Portero,Almeria,17,0,0,0,0,0,0
 Diego Marino,1,Portero,Almeria,17,0,0,2,3,0,0
 Fernando Martinez,13,Portero,Almeria,17,0,0,61,133,3,0
@@ -13,7 +13,6 @@ Houboulang Mendes,24,Defensa,Almeria,17,0,1,0,0,2,0
 Ivan Martos,-,Defensa,Almeria,17,0,0,0,0,0,0
 Jonathan,-,Defensa,Almeria,17,0,0,0,0,0,0
 Kaiky,2,Defensa,Almeria,17,0,0,0,0,5,0
-Nikola Maras,18,Defensa,Almeria,17,0,0,0,0,0,0
 Nelson Monte,24,Defensa,Almeria,17,0,0,0,0,0,0
 Rodrigo Ely,19,Defensa,Almeria,17,0,1,0,0,8,1
 Sergio Akieme,15,Defensa,Almeria,17,1,0,0,0,5,0
@@ -41,7 +40,7 @@ El Bilal Toure,9,Delantero,Almeria,17,7,2,0,0,0,0
 Jordi Escobar,-,Delantero,Almeria,17,0,0,0,0,0,0
 Juan Villar,7,Delantero,Almeria,17,0,0,0,0,0,0
 Largie Ramazani,7,Delantero,Almeria,17,3,1,0,0,6,0
-Luis Suarez,16,Delantero,Almeria,17,4,4,0,0,4,1
+Luis Javier Suarez,16,Delantero,Almeria,17,4,4,0,0,4,1
 Lazaro,14,Delantero,Almeria,17,6,0,0,0,1,0
 Leo Baptistao,12,Delantero,Almeria,17,5,2,0,0,7,0
 Marciano Sanca,34,Delantero,Almeria,17,0,0,0,0,0,0
@@ -59,7 +58,6 @@ Dani Vivian,3,Defensa,Athletic Club,8,1,0,0,0,8,1
 Hugo Rincon,32,Defensa,Athletic Club,8,0,0,0,0,0,0
 Mikel Balenziaga,24,Defensa,Athletic Club,8,0,0,0,0,0,0
 Peru Nolaskoain,23,Defensa,Athletic Club,8,0,0,0,0,0,0
-Unai Nunez,-,Defensa,Athletic Club,8,0,0,0,0,8,0
 Yeray Alvarez,5,Defensa,Athletic Club,8,1,1,0,0,7,1
 Yuri Berchiche,17,Defensa,Athletic Club,8,1,1,0,0,6,1
 Alex Petxa,-,Defensa,Athletic Club,8,0,0,0,0,0,0
@@ -75,7 +73,6 @@ Oier Zarraga,19,Mediocentro,Athletic Club,8,0,0,0,0,5,0
 Oihan Sancet,8,Mediocentro,Athletic Club,8,10,2,0,0,6,1
 Raul Garcia,22,Mediocentro,Athletic Club,8,2,3,0,0,4,0
 Unai Gomez,30,Mediocentro,Athletic Club,8,0,0,0,0,0,0
-Unai Lopez,12,Mediocentro,Athletic Club,8,1,0,0,0,2,0
 Unai Vencedor,16,Desconocido,Athletic Club,8,0,0,0,0,2,0
 Alex Berenguer,7,Delantero,Athletic Club,8,4,1,0,0,2,0
 Asier Villalibre,20,Delantero,Athletic Club,8,0,0,0,0,0,0
@@ -83,7 +80,6 @@ Gorka Guruzeta,12,Delantero,Athletic Club,8,6,1,0,0,2,0
 Iker Muniain,10,Delantero,Athletic Club,8,0,3,0,0,2,0
 Inaki Williams,9,Delantero,Athletic Club,8,10,3,0,0,2,0
 Inigo Vicente,-,Delantero,Athletic Club,8,0,0,0,0,0,0
-Jon Morcillo,2,Delantero,Athletic Club,8,0,1,0,0,0,0
 Juan Artola,34,Delantero,Athletic Club,8,0,0,0,0,0,0
 Luis Bilbao,28,Delantero,Athletic Club,8,0,0,0,0,0,0
 Malcom Adu,29,Delantero,Athletic Club,8,0,0,0,0,0,0
@@ -102,7 +98,6 @@ Ibrahima Camara,47,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
 Ilias Kostis,27,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
 Joan Rojas,44,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
 Jose Gimenez,2,Defensa,Atletico De Madrid,3,2,1,0,0,9,0
-Manu Sanchez,-,Defensa,Atletico De Madrid,3,0,2,0,0,3,0
 Manuel Lama,42,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
 Marco Moreno,28,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
 Mario Hermoso,22,Defensa,Atletico De Madrid,3,3,2,0,0,3,2
@@ -116,7 +111,6 @@ Sergio Diez,30,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
 Sergio Reguilon,3,Defensa,Atletico De Madrid,3,0,0,0,0,0,1
 Sime Vrsaljko,24,Defensa,Atletico De Madrid,3,0,0,0,0,0,0
 Stefan Savic,15,Defensa,Atletico De Madrid,3,0,0,0,0,5,2
-Alberto Moreno,43,Mediocentro,Atletico De Madrid,3,0,1,0,0,7,0
 Axel Witsel,20,Mediocentro,Atletico De Madrid,3,0,0,0,0,2,1
 Daniel Wass,17,Mediocentro,Atletico De Madrid,3,0,0,0,0,0,0
 Geoffrey Kondogbia,4,Mediocentro,Atletico De Madrid,3,0,2,0,0,5,0
@@ -126,11 +120,9 @@ Koke,6,Mediocentro,Atletico De Madrid,3,0,3,0,0,4,0
 Marcos Llorente,14,Mediocentro,Atletico De Madrid,3,1,2,0,0,5,0
 Pablo Barrios,24,Mediocentro,Atletico De Madrid,3,0,1,0,0,4,0
 Rodrigo De Paul,5,Mediocentro,Atletico De Madrid,3,2,7,0,0,5,0
-Rodrigo Riquelme,25,Mediocentro,Atletico De Madrid,3,4,4,0,0,0,0
 Saul Niguez,8,Mediocentro,Atletico De Madrid,3,3,1,0,0,8,0
 Sergio Guerrero,40,Mediocentro,Atletico De Madrid,3,0,0,0,0,0,0
 Thomas Lemar,11,Mediocentro,Atletico De Madrid,3,1,3,0,0,0,0
-Vitolo,-,Mediocentro,Atletico De Madrid,3,0,0,0,0,0,0
 Yannick Carrasco,21,Mediocentro,Atletico De Madrid,3,7,3,0,0,2,0
 Abde Raihani,39,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
 Antoine Griezmann,8,Delantero,Atletico De Madrid,3,15,16,0,0,2,0
@@ -138,15 +130,12 @@ Borja Garces,-,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
 Cala,36,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
 Carlos Martin,29,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
 Diego Bri,26,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
-German Valera,-,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
 Giuliano Simeone,27,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
 Joao Felix,18,Delantero,Atletico De Madrid,3,4,3,0,0,5,0
 Luis Suarez,9,Delantero,Atletico De Madrid,3,4,4,0,0,4,1
 Matheus Cunha,-,Delantero,Atletico De Madrid,3,0,2,0,0,2,0
 Memphis Depay,9,Delantero,Atletico De Madrid,3,5,0,0,0,1,0
 Salim El Jebari,30,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
-Samuel Lino,12,Delantero,Atletico De Madrid,3,6,1,0,0,4,0
-Sergio Camello,29,Delantero,Atletico De Madrid,3,6,0,0,0,1,0
 Victor Mollejo,26,Delantero,Atletico De Madrid,3,0,0,0,0,0,0
 Alvaro Morata,19,Delantero,Atletico De Madrid,3,13,2,0,0,4,0
 Angel Correa,10,Delantero,Atletico De Madrid,3,9,1,0,0,2,1
@@ -175,7 +164,6 @@ Samuel Umtiti,23,Defensa,Barcelona,1,0,0,0,0,0,0
 Sergi Roberto,20,Defensa,Barcelona,1,4,1,0,0,3,0
 Sergino Dest,-,Defensa,Barcelona,1,0,0,0,0,0,0
 Alex Valle,-,Defensa,Barcelona,1,0,0,0,0,0,0
-Oscar Mingueza,22,Defensa,Barcelona,1,0,0,0,0,2,0
 Aleix Garrido,34,Mediocentro,Barcelona,1,0,0,0,0,0,0
 Antonio Aranda,-,Mediocentro,Barcelona,1,0,0,0,0,0,0
 Franck Kessie,19,Mediocentro,Barcelona,1,1,1,0,0,4,0
@@ -184,27 +172,19 @@ Gavi,6,Mediocentro,Barcelona,1,2,4,0,0,10,0
 Jandro Orellana,43,Mediocentro,Barcelona,1,0,0,0,0,0,0
 Lucas de Vega,40,Mediocentro,Barcelona,1,0,0,0,0,0,0
 Marc Casado,30,Mediocentro,Barcelona,1,0,0,0,0,0,0
-Nico Gonzalez,14,Mediocentro,Barcelona,1,1,1,0,0,0,0
 Pablo Torre,32,Mediocentro,Barcelona,1,0,0,0,0,0,0
 Pau Prim,46,Mediocentro,Barcelona,1,0,0,0,0,0,0
 Pedri,8,Mediocentro,Barcelona,1,6,1,0,0,2,0
 Riqui Puig,6,Mediocentro,Barcelona,1,0,0,0,0,0,0
 Sergio Busquets,5,Mediocentro,Barcelona,1,0,4,0,0,6,1
-Unai Hernandez,35,Mediocentro,Barcelona,1,0,0,0,0,0,0
-Alex Collado,-,Mediocentro,Barcelona,1,1,1,0,0,0,0
-Angel Alarcon,38,Mediocentro,Barcelona,1,0,0,0,0,0,0
 Angel Alarcon,29,Mediocentro,Barcelona,1,0,0,0,0,0,0
-Abde Ezzalzouli,16,Delantero,Barcelona,1,4,2,0,0,2,2
 Adama Traore,11,Delantero,Barcelona,1,0,0,0,0,0,0
 Ansu Fati,10,Delantero,Barcelona,1,7,3,0,0,3,0
-Antoine Griezmann,7,Delantero,Barcelona,1,15,16,0,0,2,0
-Dani Rodriguez,47,Delantero,Barcelona,1,3,0,0,0,8,0
 Estanis Pedrola,39,Delantero,Barcelona,1,0,0,0,0,0,0
 Fabio Blanco,-,Delantero,Barcelona,1,0,0,0,0,0,0
 Ferran Torres,7,Delantero,Barcelona,1,4,2,0,0,5,1
 Ilias Akhomach,27,Delantero,Barcelona,1,0,0,0,0,0,0
 Lamine Yamal,27,Delantero,Barcelona,1,0,0,0,0,0,0
-Luuk de Jong,17,Delantero,Barcelona,1,0,0,0,0,0,0
 Marc Guiu,38,Delantero,Barcelona,1,0,0,0,0,0,0
 Ousmane Dembele,-,Delantero,Barcelona,1,5,7,0,0,4,0
 Raphinha,11,Delantero,Barcelona,1,7,7,0,0,8,0
@@ -218,7 +198,6 @@ Coke Carrillo,26,Portero,Celta De Vigo,13,0,0,0,0,0,0
 Gaizka Campos,26,Portero,Celta De Vigo,13,0,0,0,0,0,0
 Ivan Villar,13,Portero,Celta De Vigo,13,0,0,24,38,0,0
 Matias Dituro,1,Portero,Celta De Vigo,13,0,0,0,0,0,0
-Raul Garcia,26,Portero,Celta De Vigo,13,2,3,0,0,4,0
 Ruben Blanco,13,Portero,Celta De Vigo,13,0,0,0,0,0,0
 Carlos Dominguez,28,Defensa,Celta De Vigo,13,0,0,0,0,0,0
 Fernando Medrano,36,Defensa,Celta De Vigo,13,0,0,0,0,0,0
@@ -233,12 +212,10 @@ Kevin Vazquez,20,Defensa,Celta De Vigo,13,0,0,0,0,2,0
 Martin Conde,33,Defensa,Celta De Vigo,13,0,0,0,0,0,0
 Nestor Araujo,4,Defensa,Celta De Vigo,13,0,0,0,0,0,0
 Sergio Barcia,38,Defensa,Celta De Vigo,13,0,0,0,0,0,0
-Sergio Carreira,21,Defensa,Celta De Vigo,13,0,0,0,0,0,0
 Thomas Carrique,39,Defensa,Celta De Vigo,13,0,0,0,0,0,0
 Unai Nunez,4,Defensa,Celta De Vigo,13,0,0,0,0,8,0
 Oscar Mingueza,3,Defensa,Celta De Vigo,13,0,0,0,0,2,0
 Augusto Solari,21,Mediocentro,Celta De Vigo,13,0,1,0,0,1,0
-Brais Mendez,23,Mediocentro,Celta De Vigo,13,8,4,0,0,6,0
 Damian Rodriguez,34,Mediocentro,Celta De Vigo,13,0,0,0,0,0,0
 Fran Beltran,8,Mediocentro,Celta De Vigo,13,0,2,0,0,4,0
 Franco Cervi,11,Mediocentro,Celta De Vigo,13,0,4,0,0,2,1
@@ -260,7 +237,6 @@ Gabriel Fernandez,19,Delantero,Celta De Vigo,13,0,0,0,0,0,0
 Goncalo Paciencia,9,Delantero,Celta De Vigo,13,0,0,0,0,2,1
 Haris Seferovic,22,Delantero,Celta De Vigo,13,0,1,0,0,3,0
 Iago Aspas,10,Delantero,Celta De Vigo,13,0,3,0,0,4,0
-Julen Lobete,-,Delantero,Celta De Vigo,13,0,0,0,0,0,0
 Jorgen Strand Larsen,18,Delantero,Celta De Vigo,13,0,4,0,0,4,0
 Miguel Rodriguez,29,Delantero,Celta De Vigo,13,0,1,0,0,0,0
 Nolito,9,Delantero,Celta De Vigo,13,0,0,0,0,0,0
@@ -299,7 +275,6 @@ Jon Ander Garrido,-,Mediocentro,Cadiz,14,0,0,0,0,0,0
 Jose Mari Martin,6,Mediocentro,Cadiz,14,0,0,0,0,4,0
 Martin Calderon,-,Mediocentro,Cadiz,14,0,0,0,0,0,0
 Ruben Alcaraz,4,Mediocentro,Cadiz,14,3,0,0,0,10,1
-Salvi Sanchez,7,Mediocentro,Cadiz,14,0,0,0,0,2,0
 Tomas Alarcon,35,Mediocentro,Cadiz,14,0,0,0,0,0,1
 Youba Diarra,19,Mediocentro,Cadiz,14,0,0,0,0,2,0
 Alex Fernandez,8,Mediocentro,Cadiz,14,3,0,0,0,0,0
@@ -362,7 +337,6 @@ Raul Guti,8,Mediocentro,Elche,20,0,0,0,0,0,0
 Rodrigo Mendoza,30,Mediocentro,Elche,20,0,0,0,0,0,0
 Tete Morente,11,Mediocentro,Elche,20,4,0,0,0,5,0
 Alex Collado,15,Mediocentro,Elche,20,1,1,0,0,0,0
-Diego Bri,29,Delantero,Elche,20,0,0,0,0,0,0
 Ezequiel Ponce,19,Delantero,Elche,20,4,0,0,0,2,1
 Guido Carrillo,7,Delantero,Elche,20,0,0,0,0,0,0
 Jose Luis Friaza,34,Delantero,Elche,20,0,0,0,0,0,0
@@ -370,9 +344,7 @@ Lucas Boye,9,Delantero,Elche,20,7,2,0,0,7,1
 Manu Justo,-,Delantero,Elche,20,0,0,0,0,0,0
 Mourad,19,Delantero,Elche,20,0,0,0,0,0,0
 Pere Milla,10,Delantero,Elche,20,6,1,0,0,7,0
-Roger Marti,18,Delantero,Elche,20,1,1,0,0,3,0
 Angel Higuera,-,Delantero,Elche,20,0,0,0,0,0,0
-Diego Lopez,13,Portero,Espanyol,19,3,1,4,1,0,0
 Fernando Pacheco,13,Portero,Espanyol,19,0,0,35,59,0,0
 Joan Garcia,1,Portero,Espanyol,19,0,0,3,1,0,0
 Oier Olazabal,1,Portero,Espanyol,19,0,0,0,0,0,0
@@ -384,7 +356,6 @@ Aleix Vidal,22,Defensa,Espanyol,19,0,3,0,0,8,1
 Alejandro,35,Defensa,Espanyol,19,0,0,0,0,0,0
 Brian Olivan,14,Defensa,Espanyol,19,1,7,0,0,7,0
 Cesar Montes,23,Defensa,Espanyol,19,3,0,0,0,7,0
-David Lopez,15,Defensa,Espanyol,19,3,1,0,0,5,0
 Didac Vila,17,Defensa,Espanyol,19,0,0,0,0,0,0
 Fernando Calero,5,Defensa,Espanyol,19,0,1,0,0,6,0
 Joan Puig,26,Defensa,Espanyol,19,0,0,0,0,0,0
@@ -394,10 +365,8 @@ Miguel Llambrich,4,Defensa,Espanyol,19,0,0,0,0,0,0
 Omar El Hilali,31,Defensa,Espanyol,19,0,0,0,0,1,0
 Ronael Pierre-Gabriel,18,Defensa,Espanyol,19,1,0,0,0,0,1
 Ruben Sanchez,27,Defensa,Espanyol,19,0,2,0,0,1,0
-Ruben Sanchez,27,Defensa,Espanyol,19,0,2,0,0,1,0
 Sergi Gomez,3,Defensa,Espanyol,19,0,0,0,0,0,2
 Simo,28,Defensa,Espanyol,19,0,0,0,0,0,0
-Alvaro Garcia,33,Defensa,Espanyol,19,5,0,0,0,7,0
 Oscar Gil,2,Defensa,Espanyol,19,0,1,0,0,14,0
 Daniel Villahermosa,31,Mediocentro,Espanyol,19,0,0,0,0,0,0
 Denis Suarez,6,Mediocentro,Espanyol,19,0,0,0,0,2,0
@@ -408,14 +377,12 @@ Jose Carlos Lazo,16,Mediocentro,Espanyol,19,1,1,0,0,0,0
 Jose Gragera,15,Mediocentro,Espanyol,19,1,0,0,0,2,0
 Keidi Bare,8,Mediocentro,Espanyol,19,0,1,0,0,0,0
 Luca Koleosho,30,Mediocentro,Espanyol,19,1,0,0,0,0,0
-Manu Morlanes,6,Mediocentro,Espanyol,19,1,0,0,0,3,0
 Nico Melamed,21,Mediocentro,Espanyol,19,1,2,0,0,4,0
 Pol Lozano,10,Mediocentro,Espanyol,19,0,0,0,0,0,0
 Roger Martinez,27,Mediocentro,Espanyol,19,0,0,0,0,0,0
 Sergi Darder,10,Mediocentro,Espanyol,19,6,3,0,0,4,0
 Tonny Vilhena,-,Mediocentro,Espanyol,19,0,0,0,0,0,0
 Vinicius Souza,12,Mediocentro,Espanyol,19,1,1,0,0,8,1
-Yangel Herrera,25,Mediocentro,Espanyol,19,2,2,0,0,4,0
 Alvaro Vadillo,19,Mediocentro,Espanyol,19,0,0,0,0,0,0
 Oscar Melendo,14,Mediocentro,Espanyol,19,0,0,0,0,0,0
 Dani Gomez,19,Delantero,Espanyol,19,0,0,0,0,0,0
@@ -433,7 +400,6 @@ Nabili Zoubdi Touaizi,30,Delantero,Espanyol,19,0,0,0,0,0,0
 Wu Lei,7,Delantero,Espanyol,19,0,0,0,0,0,0
 David Soria,13,Portero,Getafe,15,0,0,45,124,3,0
 Diego Conde,27,Portero,Getafe,15,0,0,0,0,0,0
-Kiko Casilla,1,Portero,Getafe,15,0,0,0,0,0,0
 Ruben Yanez,1,Portero,Getafe,15,0,0,0,0,0,0
 Vicente Bellmunt Garcia,33,Portero,Getafe,15,0,0,0,0,0,0
 Chema Rodriguez,6,Defensa,Getafe,15,0,0,0,0,0,0
@@ -452,7 +418,7 @@ Jorge Cuenca,15,Defensa,Getafe,15,0,0,0,0,0,0
 Juan Iglesias,21,Defensa,Getafe,15,0,0,0,0,8,0
 Koffi,26,Defensa,Getafe,15,0,0,0,0,0,0
 Mathias Olivera,17,Defensa,Getafe,15,0,0,0,0,0,0
-Omar Alderete,15,Defensa,Getafe,15,0,1,0,0,9,0
+Omar Alderete,15,Defensa,Getafe,15,1,1,0,0,9,0
 Pablo Ramirez,36,Defensa,Getafe,15,0,0,0,0,0,0
 Stefan Mitrovic,23,Defensa,Getafe,15,0,0,0,0,4,0
 Alex Revuelta,31,Defensa,Getafe,15,0,0,0,0,0,0
@@ -460,7 +426,6 @@ Alex Rodriguez,32,Defensa,Getafe,15,0,0,0,0,0,0
 Alvaro Lopez,37,Defensa,Getafe,15,0,0,0,0,0,0
 Antonio Vera Carrillo,36,Mediocentro,Getafe,15,0,0,0,0,0,0
 Carles Alena,11,Mediocentro,Getafe,15,0,2,0,0,10,1
-Diego Lopez,34,Mediocentro,Getafe,15,3,1,4,1,0,0
 Florentino,5,Mediocentro,Getafe,15,0,0,0,0,0,0
 Gonzalo Villar,24,Mediocentro,Getafe,15,0,0,0,0,5,0
 Jaime Seoane,8,Mediocentro,Getafe,15,0,0,0,0,0,0
@@ -470,17 +435,14 @@ Luis Milla,5,Mediocentro,Getafe,15,0,3,0,0,4,1
 Mauro Arambarri,8,Mediocentro,Getafe,15,0,1,0,0,3,1
 Moi Parra,30,Mediocentro,Getafe,15,0,0,0,0,0,0
 Nemanja Maksimovic,20,Mediocentro,Getafe,15,0,0,0,0,3,0
-Okay Yokuslu,19,Mediocentro,Getafe,15,0,0,0,0,0,0
 Pablo Montero,32,Mediocentro,Getafe,15,0,0,0,0,0,0
 Sabit Abdulai,-,Mediocentro,Getafe,15,0,0,0,0,0,0
 Santiago Garcia,28,Mediocentro,Getafe,15,0,0,0,0,0,0
 Vitolo,8,Mediocentro,Getafe,15,0,0,0,0,0,0
 Angel Algobia,16,Mediocentro,Getafe,15,0,0,0,0,3,0
-Oscar Rodriguez,24,Mediocentro,Getafe,15,0,0,0,0,6,0
 Borja Mayoral,19,Delantero,Getafe,15,0,2,0,0,4,0
 Dario Poveda,19,Delantero,Getafe,15,0,0,0,0,0,0
 Enes Unal,10,Delantero,Getafe,15,0,3,0,0,6,0
-Hugo Duro,14,Delantero,Getafe,15,1,1,0,0,5,0
 Jack Harper,-,Delantero,Getafe,15,0,0,0,0,0,0
 Jaime Mata,7,Delantero,Getafe,15,0,1,0,0,5,0
 Juanmi Latasa,14,Delantero,Getafe,15,0,0,0,0,2,0
@@ -518,8 +480,6 @@ Joel Roca,33,Mediocentro,Girona,10,0,0,0,0,0,0
 Oriol Romeu,18,Mediocentro,Girona,10,2,0,0,0,8,1
 Oscar Urena,32,Mediocentro,Girona,10,0,0,0,0,0,0
 Pau Victor,35,Mediocentro,Girona,10,0,0,0,0,0,0
-Pol Lozano,20,Mediocentro,Girona,10,0,0,0,0,0,0
-Ramon Terrats,8,Mediocentro,Girona,10,1,1,0,0,1,0
 Reinier,19,Mediocentro,Girona,10,2,1,0,0,1,1
 Ricard Artero,36,Mediocentro,Girona,10,0,0,0,0,0,0
 Rodrigo Riquelme,17,Mediocentro,Girona,10,4,4,0,0,0,0
@@ -539,8 +499,6 @@ Nahuel Bustos,19,Delantero,Girona,10,0,0,0,0,0,0
 Pablo Moreno,16,Delantero,Girona,10,0,0,0,0,0,0
 Valentin Castellanos,9,Delantero,Girona,10,13,0,0,0,11,0
 Viktor Tsygankov,8,Delantero,Girona,10,3,6,0,0,0,0
-Joel Roca,-,Desconocido,Girona,10,0,0,0,0,0,0
-Pau Victor,-,Desconocido,Girona,10,0,0,0,0,0,0
 Dominik Greif,13,Portero,Mallorca,9,0,0,3,5,0,0
 Ferran Quetglas,30,Portero,Mallorca,9,0,0,0,0,0,0
 Leo Roman,31,Portero,Mallorca,9,0,0,0,4,0,0
@@ -551,7 +509,6 @@ Sergio Rico,25,Portero,Mallorca,9,0,0,0,0,0,0
 Aleksandar Sedlar,20,Defensa,Mallorca,9,0,0,0,0,0,0
 Antonio Raillo,21,Defensa,Mallorca,9,2,0,0,0,11,0
 Benjamin Garay,44,Defensa,Mallorca,9,0,0,0,0,0,0
-Brian Olivan,3,Defensa,Mallorca,9,1,7,0,0,7,0
 Copete,6,Defensa,Mallorca,9,1,0,0,0,7,0
 Dennis Hadzikadunic,5,Defensa,Mallorca,9,0,0,0,0,1,0
 Giovanni Gonzalez,20,Defensa,Mallorca,9,0,0,0,0,5,0
@@ -575,7 +532,6 @@ Manu Morlanes,11,Mediocentro,Mallorca,9,1,0,0,0,3,0
 Miguel Llabres,-,Mediocentro,Mallorca,9,0,0,0,0,0,0
 Ruben Quintanilla,26,Mediocentro,Mallorca,9,0,0,0,0,0,0
 Salva Sevilla,8,Mediocentro,Mallorca,9,0,0,0,0,0,0
-Takefusa Kubo,17,Mediocentro,Mallorca,9,9,4,0,0,3,0
 Thomas Giaquinto,32,Mediocentro,Mallorca,9,0,0,0,0,0,0
 Inigo Ruiz de Galarreta,4,Mediocentro,Mallorca,9,0,0,0,0,12,0
 Abdon Prats,9,Delantero,Mallorca,9,1,0,0,0,0,0
@@ -601,7 +557,7 @@ Diego Moreno,35,Defensa,Osasuna,7,0,0,0,0,0,0
 Jesus Areso,12,Defensa,Osasuna,7,0,0,0,0,0,0
 Jonas Ramalho,15,Defensa,Osasuna,7,0,0,0,0,0,0
 Jorge Herrando,28,Defensa,Osasuna,7,0,0,0,0,0,1
-Juan Cruz,3,Defensa,Osasuna,7,1,0,0,0,7,0
+Juan Cruz Alvaro,3,Defensa,Osasuna,7,0,0,0,0,7,0
 Manu Sanchez,20,Defensa,Osasuna,7,0,2,0,0,3,0
 Nacho Vidal,2,Defensa,Osasuna,7,0,0,0,0,4,0
 Oier Sanjurjo,6,Defensa,Osasuna,7,0,0,0,0,0,0
@@ -627,7 +583,7 @@ Kike Barja,11,Delantero,Osasuna,7,1,6,0,0,1,0
 Kike Garcia,18,Delantero,Osasuna,7,2,0,0,0,5,0
 Marc Cardona,-,Delantero,Osasuna,7,0,0,0,0,0,0
 Adrian Quintela,30,Portero,Rayo Vallecano,11,0,0,0,0,0,0
-Diego Lopez,13,Portero,Rayo Vallecano,11,3,1,4,1,0,0
+Diego Lopez,13,Portero,Rayo Vallecano,11,0,0,4,1,0,0
 Luca Zidane,1,Portero,Rayo Vallecano,11,0,0,0,0,0,0
 Miguel Angel Morro,30,Portero,Rayo Vallecano,11,0,0,0,0,0,0
 Stole Dimitrievski,1,Portero,Rayo Vallecano,11,0,0,49,95,4,0
@@ -652,11 +608,10 @@ Jose Pozo,6,Mediocentro,Rayo Vallecano,11,0,0,0,0,0,0
 Manuel Navarro,31,Mediocentro,Rayo Vallecano,11,0,0,0,0,0,0
 Pablo Munoz,28,Mediocentro,Rayo Vallecano,11,0,0,0,0,0,0
 Pathe Ciss,21,Mediocentro,Rayo Vallecano,11,1,0,0,0,4,0
-Randy Nteka,11,Mediocentro,Rayo Vallecano,11,0,0,0,0,0,1
 Salvi Sanchez,19,Mediocentro,Rayo Vallecano,11,0,0,0,0,2,0
 Santi Comesana,6,Mediocentro,Rayo Vallecano,11,3,0,0,0,6,0
 Unai Lopez,17,Mediocentro,Rayo Vallecano,11,1,0,0,0,2,0
-Alvaro Garcia,18,Mediocentro,Rayo Vallecano,11,5,0,0,0,7,0
+Alvaro Garcia,18,Mediocentro,Rayo Vallecano,11,5,5,0,0,7,0
 Oscar Trejo,8,Mediocentro,Rayo Vallecano,11,3,0,0,0,9,0
 Oscar Valentin,23,Mediocentro,Rayo Vallecano,11,0,0,0,0,11,0
 Alejandro Asensio,34,Delantero,Rayo Vallecano,11,0,0,0,0,0,0
@@ -666,11 +621,9 @@ Mamadou Sylla,11,Delantero,Rayo Vallecano,11,0,0,0,0,0,0
 Martin Merquelanz,17,Delantero,Rayo Vallecano,11,0,0,0,0,0,0
 Radamel Falcao,9,Delantero,Rayo Vallecano,11,2,0,0,0,4,0
 Raul de Tomas,22,Delantero,Rayo Vallecano,11,4,0,0,0,2,0
-Sergi Guardiola,16,Delantero,Rayo Vallecano,11,3,0,0,0,3,0
 Sergio Camello,34,Delantero,Rayo Vallecano,11,6,0,0,0,1,0
 Sergio Moreno,-,Delantero,Rayo Vallecano,11,0,0,0,0,0,0
 Alvaro Aguirre,28,Delantero,Rayo Vallecano,11,0,0,0,0,0,0
-Pablo Munoz,-,Desconocido,Rayo Vallecano,11,0,0,0,0,0,0
 Claudio Bravo,1,Portero,Real Betis,6,0,0,9,35,2,0
 Dani Martin,25,Portero,Real Betis,6,0,0,0,0,0,0
 Dani Rebollo,30,Portero,Real Betis,6,0,0,0,0,0,0
@@ -701,7 +654,7 @@ Guido Rodriguez,5,Mediocentro,Real Betis,6,1,0,0,0,8,0
 Joaquin,17,Mediocentro,Real Betis,6,0,2,0,0,2,0
 Jorge Wagner,17,Mediocentro,Real Betis,6,0,0,0,0,0,0
 Jose Lara,41,Mediocentro,Real Betis,6,0,0,0,0,0,0
-Juan Cruz,16,Mediocentro,Real Betis,6,1,0,0,0,7,0
+Juan Cruz Diaz,16,Mediocentro,Real Betis,6,1,0,0,0,0,0
 Paul Akouokou,4,Mediocentro,Real Betis,6,0,0,0,0,3,0
 Rodri,17,Mediocentro,Real Betis,6,2,3,0,0,0,0
 Sergio Canales,10,Mediocentro,Real Betis,6,4,3,0,0,2,2
@@ -711,22 +664,17 @@ Ayoze Perez,10,Delantero,Real Betis,6,3,1,0,0,3,0
 Borja Iglesias,9,Delantero,Real Betis,6,15,3,0,0,2,1
 Cristian Tello,11,Delantero,Real Betis,6,0,0,0,0,0,0
 Juanmi,7,Delantero,Real Betis,6,4,0,0,0,3,0
-Loren Moron,-,Delantero,Real Betis,6,0,0,0,0,1,0
 Luiz Henrique,11,Delantero,Real Betis,6,1,3,0,0,6,0
 Nabil Fekir,8,Delantero,Real Betis,6,2,2,0,0,5,1
-Raul Garcia,35,Delantero,Real Betis,6,2,3,0,0,4,0
 Rober,27,Delantero,Real Betis,6,0,0,0,0,0,0
 Willian Jose,12,Delantero,Real Betis,6,2,1,0,0,0,0
 Andriy Lunin,13,Portero,Real Madrid,2,0,0,7,12,0,0
 Diego Altube,26,Portero,Real Madrid,2,0,0,0,0,0,0
 Diego Pineiro,26,Portero,Real Madrid,2,0,0,0,0,0,0
-Fran Gonzalez,-,Portero,Real Madrid,2,0,0,0,0,0,0
-Fran Gonzalez,30,Portero,Real Madrid,2,0,0,0,0,0,0
 Lucas Canizares,31,Portero,Real Madrid,2,0,0,0,0,0,0
 Luis Lopez,26,Portero,Real Madrid,2,0,0,0,0,0,0
 Mario de Luis,43,Portero,Real Madrid,2,0,0,0,0,0,0
 Thibaut Courtois,1,Portero,Real Madrid,2,0,0,29,89,0,0
-Toni Fuidias,40,Portero,Real Madrid,2,0,0,0,0,0,0
 Antonio Rudiger,22,Defensa,Real Madrid,2,1,0,0,0,1,0
 Dani Carvajal,2,Defensa,Real Madrid,2,0,2,0,0,6,1
 David Alaba,4,Defensa,Real Madrid,2,1,3,0,0,3,0
@@ -735,12 +683,10 @@ Jesus Vallejo,25,Defensa,Real Madrid,2,0,0,0,0,0,0
 Marcelo,12,Defensa,Real Madrid,2,0,0,0,0,0,0
 Mario Gila,34,Defensa,Real Madrid,2,0,0,0,0,0,0
 Marvel,35,Defensa,Real Madrid,2,0,0,0,0,0,0
-Miguel Gutierrez,35,Defensa,Real Madrid,2,2,3,0,0,6,0
 Nacho,6,Defensa,Real Madrid,2,1,1,0,0,7,0
 Pablo Ramon,-,Defensa,Real Madrid,2,0,0,0,0,0,0
 Rafa Marin,41,Defensa,Real Madrid,2,0,0,0,0,0,0
 Sergio Santos,43,Defensa,Real Madrid,2,0,0,0,0,0,0
-Victor Chust,-,Defensa,Real Madrid,2,1,0,0,0,3,0
 Vinicius Tobias,36,Defensa,Real Madrid,2,0,0,0,0,0,0
 Alvaro Odriozola,16,Defensa,Real Madrid,2,0,0,0,0,0,0
 Eder Militao,3,Defensa,Real Madrid,2,5,0,0,0,4,0
@@ -757,14 +703,10 @@ Luka Modric,10,Mediocentro,Real Madrid,2,4,3,0,0,7,0
 Mario Martin,28,Mediocentro,Real Madrid,2,0,0,0,0,0,0
 Nico Paz,32,Mediocentro,Real Madrid,2,0,0,0,0,0,0
 Peter,44,Mediocentro,Real Madrid,2,0,0,0,0,0,0
-Reinier,-,Mediocentro,Real Madrid,2,2,1,0,0,1,1
 Sergio Arribas,33,Mediocentro,Real Madrid,2,0,0,0,0,0,0
-Takefusa Kubo,-,Mediocentro,Real Madrid,2,9,4,0,0,3,0
 Toni Kroos,8,Mediocentro,Real Madrid,2,2,4,0,0,0,1
-Borja Mayoral,-,Delantero,Real Madrid,2,0,2,0,0,4,0
 Eden Hazard,7,Delantero,Real Madrid,2,0,1,0,0,0,0
 Gareth Bale,18,Delantero,Real Madrid,2,0,0,0,0,0,0
-Juanmi Latasa,-,Delantero,Real Madrid,2,0,0,0,0,2,0
 Karim Benzema,9,Delantero,Real Madrid,2,19,3,0,0,1,0
 Luka Jovic,16,Delantero,Real Madrid,2,0,0,0,0,0,0
 Marco Asensio,-,Delantero,Real Madrid,2,9,6,0,0,1,0
@@ -786,7 +728,6 @@ Cristo Romero,42,Defensa,Real Sociedad,4,0,0,0,0,0,0
 Diego Rico,15,Defensa,Real Sociedad,4,0,0,0,0,3,0
 Jon Pacheco,20,Defensa,Real Sociedad,4,0,1,0,0,2,0
 Jonathan Gomez,28,Defensa,Real Sociedad,4,0,0,0,0,0,0
-Joseba Zaldua,2,Defensa,Real Sociedad,4,0,1,0,0,4,0
 Modibo Sagnan,17,Defensa,Real Sociedad,4,0,0,0,0,0,0
 Nacho Monreal,20,Defensa,Real Sociedad,4,0,0,0,0,0,0
 Robin Le Normand,24,Defensa,Real Sociedad,4,0,0,0,0,6,0
@@ -817,10 +758,8 @@ German Valera,41,Delantero,Real Sociedad,4,0,0,0,0,0,0
 Jon Bautista,25,Delantero,Real Sociedad,4,0,0,0,0,0,0
 Jon Karrikaburu,27,Delantero,Real Sociedad,4,0,0,0,0,0,0
 Julen Lobete,35,Delantero,Real Sociedad,4,0,0,0,0,0,0
-Martin Merquelanz,-,Delantero,Real Sociedad,4,0,0,0,0,0,0
 Mikel Oyarzabal,10,Delantero,Real Sociedad,4,4,1,0,0,1,0
 Mohamed-Ali Cho,11,Delantero,Real Sociedad,4,1,2,0,0,0,0
-Portu,7,Delantero,Real Sociedad,4,0,3,0,0,5,1
 Umar Sadiq,19,Delantero,Real Sociedad,4,3,0,0,0,0,0
 Jordi Masip,1,Portero,Real Valladolid,18,0,0,42,105,4,0
 Jose Antonio Caro,26,Portero,Real Valladolid,18,0,0,0,0,0,0
@@ -830,18 +769,14 @@ Yaroslav Meykher,-,Portero,Real Valladolid,18,0,0,0,0,0,0
 Alvaro Aceves,31,Portero,Real Valladolid,18,0,0,0,3,0,0
 David Torres,3,Defensa,Real Valladolid,18,0,0,0,0,1,0
 Diego Alende,30,Defensa,Real Valladolid,18,0,0,0,0,0,0
-Diego Moreno,36,Defensa,Real Valladolid,18,0,0,0,0,0,0
 Enrique Rios,31,Defensa,Real Valladolid,18,0,0,0,0,0,0
 Ivan Fresneda,27,Defensa,Real Valladolid,18,0,0,0,0,3,0
 Javi Sanchez,5,Defensa,Real Valladolid,18,1,0,0,0,11,0
 Jawad El Yamiq,15,Defensa,Real Valladolid,18,1,0,0,0,2,1
-Josema,6,Defensa,Real Valladolid,18,0,0,0,0,0,0
 Kiko Olivas,4,Defensa,Real Valladolid,18,0,0,0,0,0,0
-Lucas Olaza,12,Defensa,Real Valladolid,18,0,1,0,0,3,0
 Lucas Rosa,22,Defensa,Real Valladolid,18,0,1,0,0,3,0
 Luis Perez,2,Defensa,Real Valladolid,18,0,1,0,0,2,0
 Nacho Martinez,22,Defensa,Real Valladolid,18,0,0,0,0,0,0
-Raul Garcia,3,Defensa,Real Valladolid,18,2,3,0,0,4,0
 Saidy Janko,18,Defensa,Real Valladolid,18,0,0,0,0,0,0
 Sergio Escudero,18,Defensa,Real Valladolid,18,1,0,0,0,3,0
 Victor Rofino,33,Defensa,Real Valladolid,18,0,0,0,0,0,0
@@ -849,14 +784,12 @@ Alberto Quintana,26,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
 Anuar Tuhami,23,Mediocentro,Real Valladolid,18,1,0,0,0,0,0
 Dali,36,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
 Eugene Frimpong,37,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
-Fede San Emeterio,20,Mediocentro,Real Valladolid,18,0,1,0,0,14,0
 Gonzalo Plata,11,Mediocentro,Real Valladolid,18,1,5,0,0,0,0
 Ivan Sanchez,10,Mediocentro,Real Valladolid,18,1,1,0,0,0,0
 Joaquin Fernandez,24,Mediocentro,Real Valladolid,18,1,0,0,0,4,0
 Jon Morcillo,20,Mediocentro,Real Valladolid,18,0,1,0,0,0,0
 Juanjo Narvaez,20,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
 Kenedy,24,Mediocentro,Real Valladolid,18,0,1,0,0,3,0
-Kike Perez,4,Mediocentro,Real Valladolid,18,1,2,0,0,9,0
 Mario Maroto,34,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
 Martin Hongla,20,Mediocentro,Real Valladolid,18,0,0,0,0,5,2
 Mickael Malsa,14,Mediocentro,Real Valladolid,18,0,0,0,0,0,0
@@ -877,7 +810,6 @@ Jovane Cabral,-,Delantero,Real Valladolid,18,0,0,0,0,0,0
 Manuel Pozo,44,Delantero,Real Valladolid,18,0,0,0,0,0,0
 Roberto Arroyo,30,Delantero,Real Valladolid,18,0,0,0,0,0,0
 Sekou Gassama,22,Delantero,Real Valladolid,18,0,0,0,0,0,0
-Sergi Guardiola,16,Delantero,Real Valladolid,18,3,0,0,0,3,0
 Sergio Benito,31,Delantero,Real Valladolid,18,0,0,0,0,0,0
 Sergio Leon,7,Delantero,Real Valladolid,18,6,1,0,0,0,1
 Shon Weissman,9,Delantero,Real Valladolid,18,1,0,0,0,1,0
@@ -897,20 +829,16 @@ Alex Telles,3,Defensa,Sevilla,12,0,2,0,0,6,0
 Diego Hormigo,44,Defensa,Sevilla,12,0,0,0,0,0,0
 Gonzalo Montiel,4,Defensa,Sevilla,12,0,3,0,0,8,1
 Jesus Navas,16,Defensa,Sevilla,12,0,0,0,0,5,0
-Jose Angel Carmona,30,Defensa,Sevilla,12,3,1,0,0,7,2
 Juan Maria Alcedo,44,Defensa,Sevilla,12,0,0,0,0,0,0
-Jules Kounde,23,Defensa,Sevilla,12,1,3,0,0,2,0
 Karim Rekik,4,Defensa,Sevilla,12,1,1,0,0,2,0
 Kike Salas,27,Defensa,Sevilla,12,1,1,0,0,0,1
 Loic Bade,22,Defensa,Sevilla,12,1,0,0,0,4,0
-Ludwig Augustinsson,-,Defensa,Sevilla,12,0,0,0,0,0,0
 Lulo Dasilva,42,Defensa,Sevilla,12,0,0,0,0,0,0
 Marcos Acuna,19,Defensa,Sevilla,12,3,2,0,0,9,3
 Marcao,23,Defensa,Sevilla,12,0,0,0,0,0,0
 Pablo Perez,26,Defensa,Sevilla,12,0,0,0,0,0,0
 Tanguy Nianzou,14,Defensa,Sevilla,12,1,0,0,0,0,1
 Valentino Fattore,42,Defensa,Sevilla,12,0,0,0,0,0,0
-Adnan Januzaj,25,Mediocentro,Sevilla,12,0,0,0,0,0,0
 Antonio Zarzana,38,Mediocentro,Sevilla,12,0,0,0,0,0,0
 Carlos Alvarez,27,Mediocentro,Sevilla,12,0,0,0,0,0,0
 Fernando,20,Mediocentro,Sevilla,12,0,1,0,0,2,1
@@ -930,13 +858,10 @@ Thomas Delaney,-,Mediocentro,Sevilla,12,0,0,0,0,3,0
 Xavi Sintes,45,Mediocentro,Sevilla,12,0,0,0,0,0,0
 Erik Lamela,17,Mediocentro,Sevilla,12,6,0,0,0,8,1
 Oliver Torres,21,Mediocentro,Sevilla,12,3,1,0,0,0,0
-Oscar Rodriguez,34,Mediocentro,Sevilla,12,0,0,0,0,6,0
 Anthony Martial,22,Delantero,Sevilla,12,0,0,0,0,0,0
 Bryan Gil,25,Delantero,Sevilla,12,2,2,0,0,4,0
 Ivan Romero,-,Delantero,Sevilla,12,0,0,0,0,0,0
 Jesus Corona,11,Delantero,Sevilla,12,1,0,0,0,0,0
-Luuk de Jong,9,Delantero,Sevilla,12,0,0,0,0,0,0
-Oussama Idrissi,-,Delantero,Sevilla,12,0,0,0,0,0,0
 Rafa Mir,9,Delantero,Sevilla,12,6,0,0,0,0,0
 Rony Lopes,-,Delantero,Sevilla,12,0,0,0,0,0,0
 Youssef En-Nesyri,15,Delantero,Sevilla,12,8,1,0,0,4,0
@@ -960,7 +885,6 @@ Jorge Saenz,-,Defensa,Valencia Cf,16,0,0,0,0,0,0
 Joseda,34,Defensa,Valencia Cf,16,0,0,0,0,0,0
 Jose Gaya,14,Defensa,Valencia Cf,16,1,3,0,0,4,0
 Mouctar Diakhaby,4,Defensa,Valencia Cf,16,3,0,0,0,5,1
-Omar Alderete,15,Defensa,Valencia Cf,16,0,1,0,0,9,0
 Ruben Iranzo,31,Defensa,Valencia Cf,16,0,0,0,0,0,0
 Thierry Correia,12,Defensa,Valencia Cf,16,0,0,0,0,6,0
 Toni Lato,3,Defensa,Valencia Cf,16,1,0,0,0,1,0
@@ -983,8 +907,7 @@ Uros Racic,19,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
 Yellu Santiago,35,Mediocentro,Valencia Cf,16,0,0,0,0,0,0
 Yunus Musah,4,Mediocentro,Valencia Cf,16,0,2,0,0,10,1
 Alberto Mari,22,Delantero,Valencia Cf,16,1,0,0,0,0,0
-Bryan Gil,21,Delantero,Valencia Cf,16,2,2,0,0,4,0
-Diego Lopez,16,Delantero,Valencia Cf,16,3,1,4,1,0,0
+Diego Lopez Noguerol,16,Delantero,Valencia Cf,16,3,1,0,0,0,0
 Edinson Cavani,7,Delantero,Valencia Cf,16,5,2,0,0,6,0
 Hugo Duro,9,Delantero,Valencia Cf,16,1,1,0,0,5,0
 Helder Costa,11,Delantero,Valencia Cf,16,0,0,0,0,0,0
@@ -995,14 +918,12 @@ Filip Jorgensen,13,Portero,Villarreal,5,0,0,3,3,0,0
 Gianni Cassaro,-,Portero,Villarreal,5,0,0,0,0,0,0
 Iker Alvarez,31,Portero,Villarreal,5,0,0,0,0,0,0
 Pepe Reina,1,Portero,Villarreal,5,0,1,27,61,2,0
-Sergio Asenjo,1,Portero,Villarreal,5,0,0,21,31,0,0
 Adrian de la Fuente,-,Defensa,Villarreal,5,0,0,0,0,0,0
 Alberto Moreno,18,Defensa,Villarreal,5,0,1,0,0,7,0
 Aissa Mandi,23,Defensa,Villarreal,5,0,0,0,0,1,0
 Carlos Romero,37,Defensa,Villarreal,5,0,0,0,0,0,0
 Dani Tasende,3,Defensa,Villarreal,5,0,0,0,0,0,0
 Johan Mojica,12,Defensa,Villarreal,5,0,0,0,0,2,0
-Jorge Cuenca,5,Defensa,Villarreal,5,0,0,0,0,0,0
 Juan Foyth,8,Defensa,Villarreal,5,1,0,0,0,6,0
 Kiko Femenia,17,Defensa,Villarreal,5,0,0,0,0,0,0
 Lanchi,30,Defensa,Villarreal,5,0,0,0,0,0,0
@@ -1020,22 +941,16 @@ Dani Parejo,10,Mediocentro,Villarreal,5,3,4,0,0,6,0
 Francis Coquelin,19,Mediocentro,Villarreal,5,1,0,0,0,2,0
 Giovani Lo Celso,17,Mediocentro,Villarreal,5,2,3,0,0,3,0
 Iborra,-,Mediocentro,Villarreal,5,0,0,0,0,0,0
-Ivan Martin,-,Mediocentro,Villarreal,5,3,3,0,0,2,0
 Javi Ontiveros,-,Mediocentro,Villarreal,5,0,0,0,0,0,0
-Manu Morlanes,20,Mediocentro,Villarreal,5,1,0,0,0,3,0
 Manu Trigueros,14,Mediocentro,Villarreal,5,0,1,0,0,2,1
-Moi Gomez,23,Mediocentro,Villarreal,5,3,2,0,0,5,0
 Paulo Vitor,-,Mediocentro,Villarreal,5,0,0,0,0,0,0
 Ramon Terrats,39,Mediocentro,Villarreal,5,1,1,0,0,1,0
 Rodri Alonso,32,Mediocentro,Villarreal,5,0,0,0,0,0,0
-Ruben Pena,20,Mediocentro,Villarreal,5,0,1,0,0,2,1
 Yeremy Pino,21,Mediocentro,Villarreal,5,4,5,0,0,7,0
-Alex Baena,16,Mediocentro,Villarreal,5,6,2,0,0,11,1
 Etienne Capoue,6,Mediocentro,Villarreal,5,3,0,0,0,4,0
 Arnaut Danjuma,-,Delantero,Villarreal,5,2,0,0,0,0,0
 Boulaye Dia,17,Delantero,Villarreal,5,0,0,0,0,0,0
 Diego Collado,43,Delantero,Villarreal,5,0,0,0,0,0,0
-Fer Nino,34,Delantero,Villarreal,5,0,0,0,0,0,0
 Gerard Moreno,7,Delantero,Villarreal,5,7,3,0,0,3,0
 Haissem Hassan,40,Delantero,Villarreal,5,0,0,0,0,0,0
 Jorge Pascual,30,Delantero,Villarreal,5,1,0,0,0,0,0

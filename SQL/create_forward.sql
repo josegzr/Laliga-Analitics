@@ -52,7 +52,6 @@ CREATE TABLE IF NOT EXISTS `laligaanalitics`.`jugadores` (
   `tarjetas_amarillas` INT NULL DEFAULT NULL,
   `tarjetas_rojas` INT NULL DEFAULT NULL,
   PRIMARY KEY (`Nombre_jugador`),
-  INDEX `ID_equipo` (`ID_equipo` ASC) VISIBLE,
   CONSTRAINT `jugadores_ibfk_1`
     FOREIGN KEY (`ID_equipo`)
     REFERENCES `laligaanalitics`.`clasificacion` (`ID_equipo`))
@@ -61,10 +60,13 @@ DEFAULT CHARACTER SET = utf8mb4
 COLLATE = utf8mb4_0900_ai_ci;
 
 
+
+
 -- -----------------------------------------------------
 -- Table `laligaanalitics`.`resultados`
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS `laligaanalitics`.`resultados` (
+  `ID_partido` INT NOT NULL,
   `Jornada` INT NOT NULL,
   `fecha` DATETIME NULL DEFAULT NULL,
   `Equipo_local` VARCHAR(255) NULL DEFAULT NULL,
@@ -75,9 +77,7 @@ CREATE TABLE IF NOT EXISTS `laligaanalitics`.`resultados` (
   `Goles_del_Equipo_Visitante` INT NULL DEFAULT NULL,
   `Resultado_Local` VARCHAR(255) NULL DEFAULT NULL,
   `Resultado_Visitante` VARCHAR(255) NULL DEFAULT NULL,
-  PRIMARY KEY (`Jornada`),
-  INDEX `ID_equipo_local` (`ID_equipo_local` ASC) VISIBLE,
-  INDEX `ID_equipo_visitante` (`ID_equipo_visitante` ASC) VISIBLE,
+  PRIMARY KEY (`ID_partido`),
   CONSTRAINT `resultados_ibfk_1`
     FOREIGN KEY (`ID_equipo_local`)
     REFERENCES `laligaanalitics`.`clasificacion` (`ID_equipo`),
@@ -89,6 +89,9 @@ DEFAULT CHARACTER SET = utf8mb4
 COLLATE = utf8mb4_0900_ai_ci;
 
 
+
 SET SQL_MODE=@OLD_SQL_MODE;
 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS;
 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS;
+
+

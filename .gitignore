@@ -1,2 +1,7 @@
 # Excluir archivos de checkpoints de IPython Notebook
-.ipynb_checkpoints/
+notebook/.ipynb_checkpoints
+
+notebook/password.py
+
+notebook/__pycache__/
+

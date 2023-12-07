@@ -14,7 +14,7 @@ El objetivo de este proyecto es analizar las estadisticas que he obtenido de cad
 
 ## Extraccion
 Para empezar busque varias paginas web de futbol poder sacar las estadisticas y al final di con la pagina web el mundo deportivo. De esta pagina consegui sacar tres tablas:
-
+Estas son las primeras 5 lineas y sus columnas de la tabla clasificacion:
 </details>
 
 <details>
@@ -22,6 +22,24 @@ Para empezar busque varias paginas web de futbol poder sacar las estadisticas y 
 <br>
 
  ![profootballreference](https://github.com/josegzr/Laliga-Analitics/blob/main/img/tabla%20de%20clasificacion.png)
+Estas son las primeras 5 lineas y sus columnas de la tabla jugadores:
+ </details>
+
+<details>
+<summary>https://www.mundodeportivo.com/resultados/futbol/laliga/clasificacion/2022-2023</summary>
+<br>
+
+ ![profootballreference](https://github.com/josegzr/Laliga-Analitics/blob/main/img/jugadores.png)
+ Estas son las primeras 5 lineas y sus columnas de la tabla resultados:
+ </details>
+
+<details>
+<summary>https://www.mundodeportivo.com/resultados/futbol/laliga/clasificacion/2022-2023</summary>
+<br>
+
+ ![profootballreference](https://github.com/josegzr/Laliga-Analitics/blob/main/img/resultados.png)
+
+ 
 
 
 

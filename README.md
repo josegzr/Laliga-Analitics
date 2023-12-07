@@ -44,7 +44,10 @@ Estas son las primeras 5 lineas y sus columnas de la tabla jugadores:
 <br>
 
  ![profootballreference](https://github.com/josegzr/Laliga-Analitics/blob/main/img/resultados.png)
-<details>
+
+</details>
+
+
 
 **Proceso de extracción**
 La extraccion se hizo toda atraves de python con el metodo de web scraping y la libreria de selenium
@@ -55,6 +58,7 @@ En cuanto a la transformacion no tuve que hacer mucho par de cambios en los nomb
 ## Metodo de creacion de Base de datos
 
 <details>
+
 <summary>Código SQL </summary>
 
 <br>
@@ -104,6 +108,7 @@ CREATE TABLE jugadores (
     tarjetas_rojas INT,
     FOREIGN KEY (ID_equipo) REFERENCES clasificacion(ID_equipo)
 );
+
 </details>
 
 

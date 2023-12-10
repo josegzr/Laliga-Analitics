@@ -16,7 +16,7 @@
 En este proyecto con herramientas como python he conseguido las estadísticas de la liga de futbol española de la temporada 2022/2023, algunas de estas estadísticas son: la clasificación, los resultados de cada partido y los jugadores de cada equipo con sus propias estadísticas. He metido todos los datos en una base de datos de SQL llamada laliganalitics y he creado las relaciones que tienen entre sí. Por último, con la herramienta de visualización PowerBI he visualizado los datos para poder analizarlos.
 
 ### Objetivo:
-El objetivo de este proyecto es analizar las estadísticas que he obtenido de cada equipo e sacar conclusiones de porque cada equipo quedo ese lugar en la tabla de clasificación.
+El objetivo de este proyecto es analizar las estadísticas que he obtenido de cada equipo y sacar conclusiones de porque cada equipo quedo ese lugar en la tabla de clasificación.
 
 <a name="extracción"/>
 
